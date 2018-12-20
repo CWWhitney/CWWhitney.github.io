@@ -1,2 +1,0 @@
-# CWWhitney.github.io
-Website
