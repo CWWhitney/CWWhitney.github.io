@@ -6,39 +6,32 @@
     <description>Recent content in Posts on Cory Whitney</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A Plain Markdown Post</title>
-      <link>/2016/12/30/a-plain-markdown-post/</link>
-      <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
+      <title>Academic: the website designer for Hugo</title>
+      <link>/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/2016/12/30/a-plain-markdown-post/</guid>
-      <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
- You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
+      <guid>/post/getting-started/</guid>
+      <description>Academic makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.
+Follow our easy step by step guide to learn how to build your own free website with Academic. Check out the personal demo or the business demo of what you&amp;rsquo;ll get in less than 10 minutes.
+ View the documentation Ask a question Request a feature or report a bug Updating?</description>
     </item>
     
     <item>
-      <title>Simple regression</title>
-      <link>/2015/07/23/simple-regression/</link>
+      <title>Hello R Markdown</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/2015/07/23/simple-regression/</guid>
-      <description>Regression Regression
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.:19.0 3rd Qu.: 56.00 ## Max. :25.0 Max. :120.00 fit &amp;lt;- lm(dist ~ speed, data = cars) fit ## ## Call: ## lm(formula = dist ~ speed, data = cars) ## ## Coefficients: ## (Intercept) speed ## -17.</description>
-    </item>
-    
-    <item>
-      <title>Cory Whitney</title>
-      <link>/2015/01/01/cory-whitney/</link>
-      <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
-      
-      <guid>/2015/01/01/cory-whitney/</guid>
-      <description>Cory Whitney is a practitioner of holistic and collaborative research processes related to human ecology, ethnobotany and agrobiodiversity. He works with diverse groups including researchers, food activists, small-scale farmers and indigenous peoples communities to address issues of direct relevance to vulnerable groups and to offer new lenses through which to view the development process. His work attempts to use collaborative research and holistic analysis approaches to describe systems and to model decision impact pathways.</description>
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     
   </channel>
