@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>decision-theory on Cory Whitney</title>
+    <link>/tags/decision-theory/</link>
+    <description>Recent content in decision-theory on Cory Whitney</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/decision-theory/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Decision Theory and Development Research</title>
+      <link>/project/quan_ethno_internal-project/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/project/quan_ethno_internal-project/</guid>
+      <description>Decision makers are often faced with large uncertainties when planning development interventions. Given the extreme complexity of such decisions it is often difficult to forecast the likelihood of achieving the desired outcomes. Decision tools can offer a means to incorporate local knowledge about the diversity of interacting factors that can influence decision outcomes. They can offer decision makers information they need to best allocate resources to have the greatest impact.</description>
+    </item>
+    
+  </channel>
+</rss>

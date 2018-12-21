@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/talk/18_cambridge/</loc>
+      <lastmod>2018-12-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tutorial/example/</loc>
       <lastmod>2018-09-09T00:00:00+02:00</lastmod>
     </url>
@@ -20,7 +28,7 @@
     
     <url>
     
-      <loc>/publication/quantitative_ethnobotany/</loc>
+      <loc>/publication/quantitative_ethnobotany_uganda/</loc>
       <lastmod>2018-07-01T00:00:00+02:00</lastmod>
     </url>
     
@@ -36,16 +44,24 @@
     
     <url>
     
-      <loc>/talk/example/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <loc>/project/quan_ethno_internal-project/</loc>
+      <lastmod>2018-04-27T00:00:00+02:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <loc>/project/decision_analysis/</loc>
+      <lastmod>2018-04-27T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/pasit_external-project/</loc>
+      <lastmod>2018-04-27T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -68,31 +84,7 @@
     
     <url>
     
-      <loc>/project/external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/internal-project/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/person-re-id/</loc>
+      <loc>/publication/bayesian_uganda/</loc>
       <lastmod>2015-09-01T00:00:00+02:00</lastmod>
     </url>
     
@@ -100,8 +92,7 @@
     
     <url>
     
-      <loc>/post/2015-07-23-r-rmarkdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <loc>/slides/example-slides/</loc>
     </url>
     
   
@@ -110,15 +101,6 @@
     
       <loc>/publication_types/2/</loc>
       <lastmod>2018-07-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -143,8 +125,8 @@
     
     <url>
     
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+      <loc>/tags/decision-analysis/</loc>
+      <lastmod>2018-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -152,8 +134,17 @@
     
     <url>
     
-      <loc>/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+      <loc>/tags/decision-theory/</loc>
+      <lastmod>2018-04-27T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/development/</loc>
+      <lastmod>2018-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -162,7 +153,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+      <lastmod>2018-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -179,24 +170,6 @@
     
     <url>
     
-      <loc>/categories/r/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/r-markdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/slides/</loc>
       <priority>0</priority>
     </url>
@@ -205,15 +178,8 @@
     
     <url>
     
-      <loc>/slides/example-slides/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/tags/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+      <lastmod>2018-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -221,8 +187,8 @@
     
     <url>
     
-      <loc>/tags/plot/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <loc>/tags/chill-requirement/</loc>
+      <lastmod>2018-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -230,8 +196,26 @@
     
     <url>
     
-      <loc>/tags/regression/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <loc>/tags/decision-theory/</loc>
+      <lastmod>2018-04-27T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/development/</loc>
+      <lastmod>2018-04-27T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/fruit_tree/</loc>
+      <lastmod>2018-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chill-requirement on Cory Whitney</title>
+    <link>/tags/chill-requirement/</link>
+    <description>Recent content in chill-requirement on Cory Whitney</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/chill-requirement/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PASIT Project</title>
+      <link>/project/decision_analysis/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/project/decision_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PASIT Project</title>
+      <link>/project/pasit_external-project/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/project/pasit_external-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
