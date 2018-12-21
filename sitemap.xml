@@ -36,6 +36,14 @@
     
     <url>
     
+      <loc>/publication/huec_nutrition/</loc>
+      <lastmod>2018-07-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/privacy/</loc>
       <lastmod>2018-06-28T00:00:00+02:00</lastmod>
     </url>
@@ -152,7 +160,7 @@
     
     <url>
     
-      <loc>/tags/ethnoboilogy/</loc>
+      <loc>/tags/ethnobiology/</loc>
       <lastmod>2018-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
