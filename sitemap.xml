@@ -44,14 +44,6 @@
     
     <url>
     
-      <loc>/project/quan_ethno_internal-project/</loc>
-      <lastmod>2018-04-27T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/project/decision_analysis/</loc>
       <lastmod>2018-04-27T00:00:00+02:00</lastmod>
     </url>
@@ -61,6 +53,14 @@
     <url>
     
       <loc>/project/pasit_external-project/</loc>
+      <lastmod>2018-04-27T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/quan_ethno_internal-project/</loc>
       <lastmod>2018-04-27T00:00:00+02:00</lastmod>
     </url>
     
@@ -152,6 +152,33 @@
     
     <url>
     
+      <loc>/tags/ethnoboilogy/</loc>
+      <lastmod>2018-04-27T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/ethnobotany/</loc>
+      <lastmod>2018-04-27T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/ethnoecology/</loc>
+      <lastmod>2018-04-27T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/project/</loc>
       <lastmod>2018-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -163,6 +190,15 @@
     
       <loc>/publication_types/</loc>
       <lastmod>2018-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/quantitative-ethnobotany/</loc>
+      <lastmod>2018-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     

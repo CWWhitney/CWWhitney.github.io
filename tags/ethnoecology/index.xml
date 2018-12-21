@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>fruit_tree on Cory Whitney</title>
-    <link>/tags/fruit_tree/</link>
-    <description>Recent content in fruit_tree on Cory Whitney</description>
+    <title>Ethnoecology on Cory Whitney</title>
+    <link>/tags/ethnoecology/</link>
+    <description>Recent content in Ethnoecology on Cory Whitney</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="/tags/fruit_tree/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/ethnoecology/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>PASIT Project</title>
-      <link>/project/pasit_external-project/</link>
+      <title>Quantitative ethnobiology / ethnoecology</title>
+      <link>/project/quan_ethno_internal-project/</link>
       <pubDate>Fri, 27 Apr 2018 00:00:00 +0200</pubDate>
       
-      <guid>/project/pasit_external-project/</guid>
+      <guid>/project/quan_ethno_internal-project/</guid>
       <description></description>
     </item>
     

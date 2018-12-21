@@ -61,21 +61,12 @@
     
     <item>
       <title>Decision Theory and Development Research</title>
-      <link>/project/quan_ethno_internal-project/</link>
-      <pubDate>Fri, 27 Apr 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/project/quan_ethno_internal-project/</guid>
-      <description>&lt;p&gt;Decision makers are often faced with large uncertainties when planning development interventions. Given the extreme complexity of such decisions it is often difficult to forecast the likelihood of achieving the desired outcomes. Decision tools can offer a means to incorporate local knowledge about the diversity of interacting factors that can influence decision outcomes. They can offer decision makers information they need to best allocate resources to have the greatest impact.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>PASIT Project</title>
       <link>/project/decision_analysis/</link>
       <pubDate>Fri, 27 Apr 2018 00:00:00 +0200</pubDate>
       
       <guid>/project/decision_analysis/</guid>
-      <description></description>
+      <description>&lt;p&gt;Decision makers are often faced with large uncertainties when planning development interventions. Given the extreme complexity of such decisions it is often difficult to forecast the likelihood of achieving the desired outcomes. Decision tools can offer a means to incorporate local knowledge about the diversity of interacting factors that can influence decision outcomes. They can offer decision makers information they need to best allocate resources to have the greatest impact.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -84,6 +75,15 @@
       <pubDate>Fri, 27 Apr 2018 00:00:00 +0200</pubDate>
       
       <guid>/project/pasit_external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative ethnobiology / ethnoecology</title>
+      <link>/project/quan_ethno_internal-project/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/project/quan_ethno_internal-project/</guid>
       <description></description>
     </item>
     
