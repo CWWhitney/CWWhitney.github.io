@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/talk/18_cambridge/</loc>
+      <lastmod>2018-12-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tutorial/example/</loc>
       <lastmod>2018-09-09T00:00:00+02:00</lastmod>
     </url>
@@ -46,14 +54,6 @@
     
       <loc>/privacy/</loc>
       <lastmod>2018-06-28T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/example/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -222,6 +222,24 @@
     
       <loc>/tags/</loc>
       <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/decision-theory/</loc>
+      <lastmod>2018-12-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/development/</loc>
+      <lastmod>2018-12-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
