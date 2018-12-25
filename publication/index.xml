@@ -13,21 +13,30 @@
     
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-id/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
+      <title>Probabilistic decision tools for determining impacts of agricultural development policy on household nutrition</title>
+      <link>/publication/bayesian_uganda/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
       
-      <guid>/publication/person-re-id/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>/publication/bayesian_uganda/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
+      <title>Ethnobotany and agrobiodiversity; valuation of plants in the homegardens of southwestern Uganda</title>
+      <link>/publication/quantitative_ethnobotany_uganda/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
       
-      <guid>/publication/clothing-search/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>/publication/quantitative_ethnobotany_uganda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of homegardens for food and nutrition security in Uganda</title>
+      <link>/publication/huec_nutrition/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/huec_nutrition/</guid>
+      <description></description>
     </item>
     
   </channel>
