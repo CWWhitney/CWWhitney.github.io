@@ -7,51 +7,60 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Academic</title>
-      <link>/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <title>Chill Requirement</title>
+      <link>/tags/chill-requirement/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0200</pubDate>
       
-      <guid>/tags/academic/</guid>
+      <guid>/tags/chill-requirement/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <title>Decision Analysis</title>
+      <link>/tags/decision-analysis/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0200</pubDate>
       
-      <guid>/tags/deep-learning/</guid>
+      <guid>/tags/decision-analysis/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <title>Decision Theory</title>
+      <link>/tags/decision-theory/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0200</pubDate>
       
-      <guid>/tags/demo/</guid>
+      <guid>/tags/decision-theory/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Development</title>
+      <link>/tags/development/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0200</pubDate>
       
-      <guid>/tags/r-markdown/</guid>
+      <guid>/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fruit Tree</title>
+      <link>/tags/fruit-tree/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/fruit-tree/</guid>
       <description></description>
     </item>
     
     <item>
       <title>decision-theory</title>
       <link>/tags/decision-theory/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0200</pubDate>
       
       <guid>/tags/decision-theory/</guid>
       <description></description>
@@ -60,27 +69,9 @@
     <item>
       <title>development</title>
       <link>/tags/development/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0200</pubDate>
       
       <guid>/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>plot</title>
-      <link>/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/plot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>regression</title>
-      <link>/tags/regression/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/regression/</guid>
       <description></description>
     </item>
     

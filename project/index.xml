@@ -7,27 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>External Project</title>
-      <link>/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <title>Decision Theory and Development Research</title>
+      <link>/project/decision_analysis/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0200</pubDate>
       
-      <guid>/project/external-project/</guid>
-      <description></description>
+      <guid>/project/decision_analysis/</guid>
+      <description>Decision makers are often faced with large uncertainties when planning development interventions. Given the extreme complexity of such decisions it is often difficult to forecast the likelihood of achieving the desired outcomes. Decision tools can offer a means to incorporate local knowledge about the diversity of interacting factors that can influence decision outcomes. They can offer decision makers information they need to best allocate resources to have the greatest impact.</description>
     </item>
     
     <item>
-      <title>Internal Project</title>
-      <link>/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <title>PASIT Project</title>
+      <link>/project/pasit_external-project/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0200</pubDate>
       
-      <guid>/project/internal-project/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+      <guid>/project/pasit_external-project/</guid>
+      <description></description>
     </item>
     
   </channel>
