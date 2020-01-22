@@ -1,7 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
+{% raw %}
 title: "{{ replace .Name "-" " " | title }}"
+{% endraw %}
 summary: ""
 authors: []
 tags: []

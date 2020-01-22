@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Cory Whitney</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.JPG</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I use collaborative research and holistic analysis approaches to describe systems and model decision impact pathways. I work with diverse groups including researchers, food activists, small-scale farmers and indigenous communities to address issues of direct relevance and offer new lenses through which to view the development process. My work is related to human ecology, ethnobotany and agrobiodiversity.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Caroline Muchiri</title>
+      <link>/authors/caroline-muchiri/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/caroline-muchiri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Denise Lanzanova</title>
+      <link>/authors/denise-lanzanova/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/denise-lanzanova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eike Luedeling</title>
+      <link>/authors/eike-luedeling/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/eike-luedeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jens Gebauer</title>
+      <link>/authors/jens-gebauer/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/jens-gebauer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John Tabuti</title>
+      <link>/authors/john-tabuti/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/john-tabuti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Katja Kehlenbeck</title>
+      <link>/authors/katja-kehlenbeck/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/katja-kehlenbeck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keith Shepherd</title>
+      <link>/authors/keith-shepherd/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/keith-shepherd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Krawinkel</title>
+      <link>/authors/michael-krawinkel/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/michael-krawinkel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michale Krawinkel</title>
+      <link>/authors/michale-krawinkel/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/michale-krawinkel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oliver Hensel</title>
+      <link>/authors/oliver-hensel/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/oliver-hensel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Todd Rosenstock</title>
+      <link>/authors/todd-rosenstock/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/todd-rosenstock/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

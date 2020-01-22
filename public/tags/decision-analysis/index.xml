@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Decision Analysis | Cory Whitney</title>
+    <link>/tags/decision-analysis/</link>
+      <atom:link href="/tags/decision-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Decision Analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.JPG</url>
+      <title>Decision Analysis</title>
+      <link>/tags/decision-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Probabilistic decision tools for determining impacts of agricultural development policy on household nutrition.</title>
+      <link>/publication/18-journal-earth-future/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/18-journal-earth-future/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Decision Analysis</title>
+      <link>/project/decision-analysis/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/project/decision-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Controlled burns in conifer forests.</title>
+      <link>/publication/17-preprint-wildfire/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/17-preprint-wildfire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling the benefits of fruit trees in agricultural landscapes of Kenya.</title>
+      <link>/publication/18-conference-flare/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/18-conference-flare/</guid>
+      <description>&lt;p&gt;4th Annual meeting of the FLARE network (Forests &amp;amp; Livelihoods: Assessment, Research, and Engagement) &lt;a href=&#34;https://www.forestlivelihoods.org/&#34;&gt;FLARE Website&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,8 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
+{% raw %}
 title: "{{ replace .Name "-" " " | title }}"
+
 linktitle: "{{ replace .Name "-" " " | title }}"
+{% endraw %}
 summary:
 date: {{ .Date }}
 lastmod: {{ .Date }}
