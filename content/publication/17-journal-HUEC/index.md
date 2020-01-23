@@ -1,5 +1,10 @@
 ---
-abstract: Rural farmers often manage homegardens, as the main source of food for their families. However, the contribution of this agrobiodiversity to food and nutrition security has rarely been explored empirically. We assess the influence of homegarden agrobiodiversity, production system parameters, and socio-economic factors on household dietary diversity and anthropometric conditions in southwest Uganda. Results illustrate the potential role of homegardens for improving dietary and anthropometric outcomes.
+abstract: Rural farmers often manage homegardens, as the main source of food for their
+  families. However, the contribution of this agrobiodiversity to food and nutrition
+  security has rarely been explored empirically. We assess the influence of homegarden
+  agrobiodiversity, production system parameters, and socio-economic factors on household
+  dietary diversity and anthropometric conditions in southwest Uganda. Results illustrate
+  the potential role of homegardens for improving dietary and anthropometric outcomes.
 authors:
 - admin
 - Eike Luedeling
@@ -15,15 +20,17 @@ image:
   caption: 'Image credit: [**C. Whitney**](https://cwwhitney.github.io/)'
   focal_point: center
   preview_only: false
-projects: 
+projects: null
 publication: '*Journal of Source Themes, 1*(1)'
 publication_short: ""
 publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
-slides: 
-summary: An assessment of the influence of homegarden agrobiodiversity, production system parameters, and socio-economic factors on household dietary diversity and anthropometric conditions in southwest Uganda.
-tags: 
+slides: null
+summary: An assessment of the influence of homegarden agrobiodiversity, production
+  system parameters, and socio-economic factors on household dietary diversity and
+  anthropometric conditions in southwest Uganda.
+tags:
 - Homegardens
 - Agrobiodiversity
 - Agroecology
