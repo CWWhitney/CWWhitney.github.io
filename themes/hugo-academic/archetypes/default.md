@@ -7,8 +7,8 @@ summary: ""
 authors: []
 tags: []
 categories: []
-date:  "2020-01-23T00:00:00+01:00"
-lastmod: "2020-01-23T00:00:00+01:00"
+date:  {{ .Date }}
+lastmod: 
 featured: false
 draft: false
 
