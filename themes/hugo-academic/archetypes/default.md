@@ -2,12 +2,12 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: #
-subtitle: ""
+subtitle: #
 summary: ""
 authors: []
 tags: []
 categories: []
-date: []
+date:  "2020-01-23T00:00:00+01:00"
 lastmod: []
 featured: false
 draft: false
