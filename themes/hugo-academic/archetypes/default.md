@@ -8,7 +8,7 @@ authors: []
 tags: []
 categories: []
 date:  "2020-01-23T00:00:00+01:00"
-lastmod: []
+lastmod: "2020-01-23T00:00:00+01:00"
 featured: false
 draft: false
 
