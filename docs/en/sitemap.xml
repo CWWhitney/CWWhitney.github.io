@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://marcanuy.github.io/simpleit-hugo-theme/a-root-level-article/</loc>
+    <lastmod>2019-03-24T13:22:03-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcanuy.github.io/simpleit-hugo-theme/about/</loc>
+    <lastmod>2019-03-27T15:15:18-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://marcanuy.github.io/simpleit-hugo-theme/es/acerca/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://marcanuy.github.io/simpleit-hugo-theme/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://marcanuy.github.io/simpleit-hugo-theme/foo-first-level-section/foo-second-level/page-at-foo-second-level/</loc>
+    <lastmod>2019-04-16T23:04:24-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://marcanuy.github.io/simpleit-hugo-theme/es/foo-seccion-primer-nivel/foo-segundo-nivel/pagina-en-segundo-nivel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://marcanuy.github.io/simpleit-hugo-theme/foo-first-level-section/foo-second-level/page-at-foo-second-level/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://marcanuy.github.io/simpleit-hugo-theme/foo-first-level-section/foo-second-level/foo-third-level/page-at-foo-third-level/</loc>
+    <lastmod>2019-03-24T13:22:03-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcanuy.github.io/simpleit-hugo-theme/foo-first-level-section/page-at-section-level/</loc>
+    <lastmod>2019-03-24T13:22:03-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcanuy.github.io/simpleit-hugo-theme/bar-first-level-section/bar-page-in-section/</loc>
+    <lastmod>2019-03-24T13:22:03-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcanuy.github.io/simpleit-hugo-theme/bar-first-level-section/</loc>
+    <lastmod>2019-03-24T13:22:03-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcanuy.github.io/simpleit-hugo-theme/tags/example-tag/</loc>
+    <lastmod>2019-03-24T13:22:03-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcanuy.github.io/simpleit-hugo-theme/tags/</loc>
+    <lastmod>2019-03-24T13:22:03-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcanuy.github.io/simpleit-hugo-theme/baz-first-level-section/</loc>
+    <lastmod>2019-03-24T09:50:50-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcanuy.github.io/simpleit-hugo-theme/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://marcanuy.github.io/simpleit-hugo-theme/foo-first-level-section/</loc>
+    <lastmod>2019-03-24T09:50:50-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://marcanuy.github.io/simpleit-hugo-theme/es/foo-seccion-primer-nivel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://marcanuy.github.io/simpleit-hugo-theme/foo-first-level-section/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://marcanuy.github.io/simpleit-hugo-theme/foo-first-level-section/foo-second-level/</loc>
+    <lastmod>2019-03-24T09:50:50-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://marcanuy.github.io/simpleit-hugo-theme/es/foo-seccion-primer-nivel/foo-segundo-nivel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://marcanuy.github.io/simpleit-hugo-theme/foo-first-level-section/foo-second-level/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://marcanuy.github.io/simpleit-hugo-theme/foo-first-level-section/foo-second-level/foo-third-level/</loc>
+    <lastmod>2019-03-24T09:50:50-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcanuy.github.io/simpleit-hugo-theme/</loc>
+    <lastmod>2019-04-04T00:30:45-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://marcanuy.github.io/simpleit-hugo-theme/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://marcanuy.github.io/simpleit-hugo-theme/"
+                />
+  </url>
+  
+</urlset>

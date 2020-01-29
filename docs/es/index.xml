@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tema SimpleIT on Demo SimpleIT Hugo</title>
+    <link>https://marcanuy.github.io/simpleit-hugo-theme/es/</link>
+    <description>Recent content in Tema SimpleIT on Demo SimpleIT Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://marcanuy.github.io/simpleit-hugo-theme/es/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pagina en segundo nivel anidado</title>
+      <link>https://marcanuy.github.io/simpleit-hugo-theme/es/foo-seccion-primer-nivel/foo-segundo-nivel/pagina-en-segundo-nivel/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcanuy.github.io/simpleit-hugo-theme/es/foo-seccion-primer-nivel/foo-segundo-nivel/pagina-en-segundo-nivel/</guid>
+      <description>Overview I am an article at /content/foo-first-level-section/foo-second-level/page-at-second-level.md.
+Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet, eu eos vitae deseruisse eloquentiam.
+Ex his nemore dolorem incorrupte, vide omnis facete pro an, cum te summo simul.
+Possit commune erroribus id duo, has perpetua gubergren at.
+Mel te eligendi reprehendunt, labitur aliquid erroribus ea per, no quo alii gloriatur.
+Pri delenit atomorum tincidunt an, intellegam disputationi vix at.</description>
+    </item>
+    
+    <item>
+      <title>Página acerca de en la raiz</title>
+      <link>https://marcanuy.github.io/simpleit-hugo-theme/es/acerca/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcanuy.github.io/simpleit-hugo-theme/es/acerca/</guid>
+      <description>Descripción Soy una página en /content/es/about.md.
+La traducción está linkeada automáticamente a la versión en inglés: /about/ ya que tiene el mismo nombre que el archivo /content/about.md.</description>
+    </item>
+    
+  </channel>
+</rss>
