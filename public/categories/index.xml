@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Cory Whitney</title>
-    <link>https://cwwhitney.github.io/categories/</link>
-      <atom:link href="https://cwwhitney.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>/categories/</link>
+      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwwhitney.github.io/img/avatar.JPG</url>
+      <url>/img/avatar.JPG</url>
       <title>Categories</title>
-      <link>https://cwwhitney.github.io/categories/</link>
+      <link>/categories/</link>
     </image>
     
     <item>
       <title>Demo</title>
-      <link>https://cwwhitney.github.io/categories/demo/</link>
+      <link>/categories/demo/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://cwwhitney.github.io/categories/demo/</guid>
+      <guid>/categories/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>https://cwwhitney.github.io/categories/r/</link>
+      <link>/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>https://cwwhitney.github.io/categories/r/</guid>
+      <guid>/categories/r/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Cory Whitney</title>
-    <link>https://cwwhitney.github.io/publication_types/1/</link>
-      <atom:link href="https://cwwhitney.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication_types/1/</link>
+      <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwwhitney.github.io/img/avatar.JPG</url>
+      <url>/img/avatar.JPG</url>
       <title>1</title>
-      <link>https://cwwhitney.github.io/publication_types/1/</link>
+      <link>/publication_types/1/</link>
     </image>
     
     <item>
       <title>Controlled burns in conifer forests.</title>
-      <link>https://cwwhitney.github.io/publication/17-preprint-wildfire/</link>
+      <link>/publication/17-preprint-wildfire/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://cwwhitney.github.io/publication/17-preprint-wildfire/</guid>
+      <guid>/publication/17-preprint-wildfire/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling the benefits of fruit trees in agricultural landscapes of Kenya.</title>
-      <link>https://cwwhitney.github.io/publication/18-conference-flare/</link>
+      <link>/publication/18-conference-flare/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://cwwhitney.github.io/publication/18-conference-flare/</guid>
+      <guid>/publication/18-conference-flare/</guid>
       <description>&lt;p&gt;4th Annual meeting of the FLARE network (Forests &amp;amp; Livelihoods: Assessment, Research, and Engagement) &lt;a href=&#34;https://www.forestlivelihoods.org/&#34;&gt;FLARE Website&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

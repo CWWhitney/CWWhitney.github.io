@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>regression | Cory Whitney</title>
-    <link>https://cwwhitney.github.io/tags/regression/</link>
-      <atom:link href="https://cwwhitney.github.io/tags/regression/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/regression/</link>
+      <atom:link href="/tags/regression/index.xml" rel="self" type="application/rss+xml" />
     <description>regression</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     <image>
-      <url>https://cwwhitney.github.io/img/avatar.JPG</url>
+      <url>/img/avatar.JPG</url>
       <title>regression</title>
-      <link>https://cwwhitney.github.io/tags/regression/</link>
+      <link>/tags/regression/</link>
     </image>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://cwwhitney.github.io/post/2015-07-23-r-rmarkdown/</link>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>https://cwwhitney.github.io/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
       <description>
 
 
@@ -53,7 +53,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://cwwhitney.github.io/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;

@@ -2,133 +2,133 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Cory Whitney</title>
-    <link>https://cwwhitney.github.io/tags/</link>
-      <atom:link href="https://cwwhitney.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwwhitney.github.io/img/avatar.JPG</url>
+      <url>/img/avatar.JPG</url>
       <title>Tags</title>
-      <link>https://cwwhitney.github.io/tags/</link>
+      <link>/tags/</link>
     </image>
     
     <item>
       <title>Agrobiodiversity</title>
-      <link>https://cwwhitney.github.io/tags/agrobiodiversity/</link>
+      <link>/tags/agrobiodiversity/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://cwwhitney.github.io/tags/agrobiodiversity/</guid>
+      <guid>/tags/agrobiodiversity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Agroecology</title>
-      <link>https://cwwhitney.github.io/tags/agroecology/</link>
+      <link>/tags/agroecology/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://cwwhitney.github.io/tags/agroecology/</guid>
+      <guid>/tags/agroecology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian Networks</title>
-      <link>https://cwwhitney.github.io/tags/bayesian-networks/</link>
+      <link>/tags/bayesian-networks/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://cwwhitney.github.io/tags/bayesian-networks/</guid>
+      <guid>/tags/bayesian-networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Decision Analysis</title>
-      <link>https://cwwhitney.github.io/tags/decision-analysis/</link>
+      <link>/tags/decision-analysis/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://cwwhitney.github.io/tags/decision-analysis/</guid>
+      <guid>/tags/decision-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Expert knowledge</title>
-      <link>https://cwwhitney.github.io/tags/expert-knowledge/</link>
+      <link>/tags/expert-knowledge/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://cwwhitney.github.io/tags/expert-knowledge/</guid>
+      <guid>/tags/expert-knowledge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Homegardens</title>
-      <link>https://cwwhitney.github.io/tags/homegardens/</link>
+      <link>/tags/homegardens/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://cwwhitney.github.io/tags/homegardens/</guid>
+      <guid>/tags/homegardens/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Human Nutrition</title>
-      <link>https://cwwhitney.github.io/tags/human-nutrition/</link>
+      <link>/tags/human-nutrition/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://cwwhitney.github.io/tags/human-nutrition/</guid>
+      <guid>/tags/human-nutrition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uganda</title>
-      <link>https://cwwhitney.github.io/tags/uganda/</link>
+      <link>/tags/uganda/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://cwwhitney.github.io/tags/uganda/</guid>
+      <guid>/tags/uganda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Monte Carlo</title>
-      <link>https://cwwhitney.github.io/tags/monte-carlo/</link>
+      <link>/tags/monte-carlo/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://cwwhitney.github.io/tags/monte-carlo/</guid>
+      <guid>/tags/monte-carlo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wildfire</title>
-      <link>https://cwwhitney.github.io/tags/wildfire/</link>
+      <link>/tags/wildfire/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://cwwhitney.github.io/tags/wildfire/</guid>
+      <guid>/tags/wildfire/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>https://cwwhitney.github.io/tags/demo/</link>
+      <link>/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://cwwhitney.github.io/tags/demo/</guid>
+      <guid>/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>https://cwwhitney.github.io/tags/academic/</link>
+      <link>/tags/academic/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://cwwhitney.github.io/tags/academic/</guid>
+      <guid>/tags/academic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>https://cwwhitney.github.io/tags/plot/</link>
+      <link>/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>https://cwwhitney.github.io/tags/plot/</guid>
+      <guid>/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>https://cwwhitney.github.io/tags/r-markdown/</link>
+      <link>/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>https://cwwhitney.github.io/tags/r-markdown/</guid>
+      <guid>/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>https://cwwhitney.github.io/tags/regression/</link>
+      <link>/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>https://cwwhitney.github.io/tags/regression/</guid>
+      <guid>/tags/regression/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agrobiodiversity | Cory Whitney</title>
-    <link>https://cwwhitney.github.io/tags/agrobiodiversity/</link>
-      <atom:link href="https://cwwhitney.github.io/tags/agrobiodiversity/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/agrobiodiversity/</link>
+      <atom:link href="/tags/agrobiodiversity/index.xml" rel="self" type="application/rss+xml" />
     <description>Agrobiodiversity</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwwhitney.github.io/img/avatar.JPG</url>
+      <url>/img/avatar.JPG</url>
       <title>Agrobiodiversity</title>
-      <link>https://cwwhitney.github.io/tags/agrobiodiversity/</link>
+      <link>/tags/agrobiodiversity/</link>
     </image>
     
     <item>
       <title>The role of homegardens for food and nutrition security in Uganda</title>
-      <link>https://cwwhitney.github.io/publication/17-journal-huec/</link>
+      <link>/publication/17-journal-huec/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://cwwhitney.github.io/publication/17-journal-huec/</guid>
+      <guid>/publication/17-journal-huec/</guid>
       <description></description>
     </item>
     

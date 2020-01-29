@@ -1,6 +1,7 @@
 # SITE SETUP
 # Documentation: https://sourcethemes.com/academic/
 # Get started: https://sourcethemes.com/academic/docs/get-started/
+# Run Hugo commands blogdown::hugo_build()
 # Use blogdown::serve_site() to build the website
 # rstudioapi::restartSession() to restart R session
 
