@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Caroline Muchiri | Cory Whitney</title>
-    <link>/authors/caroline-muchiri/</link>
-      <atom:link href="/authors/caroline-muchiri/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwwhitney.github.io/authors/caroline-muchiri/</link>
+      <atom:link href="https://cwwhitney.github.io/authors/caroline-muchiri/index.xml" rel="self" type="application/rss+xml" />
     <description>Caroline Muchiri</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/avatar.JPG</url>
+      <url>https://cwwhitney.github.io/img/avatar.JPG</url>
       <title>Caroline Muchiri</title>
-      <link>/authors/caroline-muchiri/</link>
+      <link>https://cwwhitney.github.io/authors/caroline-muchiri/</link>
     </image>
     
     <item>
       <title>Probabilistic decision tools for determining impacts of agricultural development policy on household nutrition.</title>
-      <link>/publication/18-journal-earth-future/</link>
+      <link>https://cwwhitney.github.io/publication/18-journal-earth-future/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/18-journal-earth-future/</guid>
+      <guid>https://cwwhitney.github.io/publication/18-journal-earth-future/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

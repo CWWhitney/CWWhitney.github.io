@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jens Gebauer | Cory Whitney</title>
-    <link>/authors/jens-gebauer/</link>
-      <atom:link href="/authors/jens-gebauer/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwwhitney.github.io/authors/jens-gebauer/</link>
+      <atom:link href="https://cwwhitney.github.io/authors/jens-gebauer/index.xml" rel="self" type="application/rss+xml" />
     <description>Jens Gebauer</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/avatar.JPG</url>
+      <url>https://cwwhitney.github.io/img/avatar.JPG</url>
       <title>Jens Gebauer</title>
-      <link>/authors/jens-gebauer/</link>
+      <link>https://cwwhitney.github.io/authors/jens-gebauer/</link>
     </image>
     
     <item>
       <title>The role of homegardens for food and nutrition security in Uganda</title>
-      <link>/publication/17-journal-huec/</link>
+      <link>https://cwwhitney.github.io/publication/17-journal-huec/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/17-journal-huec/</guid>
+      <guid>https://cwwhitney.github.io/publication/17-journal-huec/</guid>
       <description></description>
     </item>
     
