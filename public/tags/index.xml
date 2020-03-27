@@ -2,133 +2,133 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Cory Whitney</title>
-    <link>/tags/</link>
-      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cory-whitney.com/tags/</link>
+      <atom:link href="https://cory-whitney.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/avatar.JPG</url>
+      <url>https://cory-whitney.com/img/avatar.JPG</url>
       <title>Tags</title>
-      <link>/tags/</link>
+      <link>https://cory-whitney.com/tags/</link>
     </image>
     
     <item>
       <title>Agrobiodiversity</title>
-      <link>/tags/agrobiodiversity/</link>
+      <link>https://cory-whitney.com/tags/agrobiodiversity/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/agrobiodiversity/</guid>
+      <guid>https://cory-whitney.com/tags/agrobiodiversity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Agroecology</title>
-      <link>/tags/agroecology/</link>
+      <link>https://cory-whitney.com/tags/agroecology/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/agroecology/</guid>
+      <guid>https://cory-whitney.com/tags/agroecology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian Networks</title>
-      <link>/tags/bayesian-networks/</link>
+      <link>https://cory-whitney.com/tags/bayesian-networks/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/bayesian-networks/</guid>
+      <guid>https://cory-whitney.com/tags/bayesian-networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Decision Analysis</title>
-      <link>/tags/decision-analysis/</link>
+      <link>https://cory-whitney.com/tags/decision-analysis/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/decision-analysis/</guid>
+      <guid>https://cory-whitney.com/tags/decision-analysis/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Expert knowledge</title>
-      <link>/tags/expert-knowledge/</link>
+      <title>Expert Knowledge</title>
+      <link>https://cory-whitney.com/tags/expert-knowledge/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/expert-knowledge/</guid>
+      <guid>https://cory-whitney.com/tags/expert-knowledge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Homegardens</title>
-      <link>/tags/homegardens/</link>
+      <link>https://cory-whitney.com/tags/homegardens/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/homegardens/</guid>
+      <guid>https://cory-whitney.com/tags/homegardens/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Human Nutrition</title>
-      <link>/tags/human-nutrition/</link>
+      <link>https://cory-whitney.com/tags/human-nutrition/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/human-nutrition/</guid>
+      <guid>https://cory-whitney.com/tags/human-nutrition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uganda</title>
-      <link>/tags/uganda/</link>
+      <link>https://cory-whitney.com/tags/uganda/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/uganda/</guid>
+      <guid>https://cory-whitney.com/tags/uganda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Monte Carlo</title>
-      <link>/tags/monte-carlo/</link>
+      <link>https://cory-whitney.com/tags/monte-carlo/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/monte-carlo/</guid>
+      <guid>https://cory-whitney.com/tags/monte-carlo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wildfire</title>
-      <link>/tags/wildfire/</link>
+      <link>https://cory-whitney.com/tags/wildfire/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/wildfire/</guid>
+      <guid>https://cory-whitney.com/tags/wildfire/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>/tags/demo/</link>
+      <link>https://cory-whitney.com/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/demo/</guid>
+      <guid>https://cory-whitney.com/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>/tags/academic/</link>
+      <link>https://cory-whitney.com/tags/academic/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/academic/</guid>
+      <guid>https://cory-whitney.com/tags/academic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>/tags/plot/</link>
+      <link>https://cory-whitney.com/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>/tags/plot/</guid>
+      <guid>https://cory-whitney.com/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
+      <link>https://cory-whitney.com/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>/tags/r-markdown/</guid>
+      <guid>https://cory-whitney.com/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>/tags/regression/</link>
+      <link>https://cory-whitney.com/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>/tags/regression/</guid>
+      <guid>https://cory-whitney.com/tags/regression/</guid>
       <description></description>
     </item>
     

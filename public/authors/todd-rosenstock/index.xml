@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Todd Rosenstock | Cory Whitney</title>
-    <link>/authors/todd-rosenstock/</link>
-      <atom:link href="/authors/todd-rosenstock/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cory-whitney.com/authors/todd-rosenstock/</link>
+      <atom:link href="https://cory-whitney.com/authors/todd-rosenstock/index.xml" rel="self" type="application/rss+xml" />
     <description>Todd Rosenstock</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/avatar.JPG</url>
+      <url>https://cory-whitney.com/img/avatar.JPG</url>
       <title>Todd Rosenstock</title>
-      <link>/authors/todd-rosenstock/</link>
+      <link>https://cory-whitney.com/authors/todd-rosenstock/</link>
     </image>
     
     <item>
       <title>Probabilistic decision tools for determining impacts of agricultural development policy on household nutrition.</title>
-      <link>/publication/18-journal-earth-future/</link>
+      <link>https://cory-whitney.com/publication/18-journal-earth-future/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/18-journal-earth-future/</guid>
+      <guid>https://cory-whitney.com/publication/18-journal-earth-future/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

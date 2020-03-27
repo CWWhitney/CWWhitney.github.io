@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Cory Whitney</title>
-    <link>/categories/</link>
-      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cory-whitney.com/categories/</link>
+      <atom:link href="https://cory-whitney.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/avatar.JPG</url>
+      <url>https://cory-whitney.com/img/avatar.JPG</url>
       <title>Categories</title>
-      <link>/categories/</link>
+      <link>https://cory-whitney.com/categories/</link>
     </image>
     
     <item>
       <title>Demo</title>
-      <link>/categories/demo/</link>
+      <link>https://cory-whitney.com/categories/demo/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/categories/demo/</guid>
+      <guid>https://cory-whitney.com/categories/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>/categories/r/</link>
+      <link>https://cory-whitney.com/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>/categories/r/</guid>
+      <guid>https://cory-whitney.com/categories/r/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Cory Whitney</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cory-whitney.com/project/</link>
+      <atom:link href="https://cory-whitney.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/avatar.JPG</url>
+      <url>https://cory-whitney.com/img/avatar.JPG</url>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>https://cory-whitney.com/project/</link>
     </image>
     
     <item>
       <title>Decision Analysis</title>
-      <link>/project/decision-analysis/</link>
+      <link>https://cory-whitney.com/project/decision-analysis/</link>
       <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/project/decision-analysis/</guid>
+      <guid>https://cory-whitney.com/project/decision-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>External Project</title>
-      <link>/project/external-project/</link>
+      <link>https://cory-whitney.com/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/external-project/</guid>
+      <guid>https://cory-whitney.com/project/external-project/</guid>
       <description></description>
     </item>
     

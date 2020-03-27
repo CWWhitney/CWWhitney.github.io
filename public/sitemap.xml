@@ -3,291 +3,281 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/example/example1/</loc>
+    <loc>https://cory-whitney.com/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/</loc>
+    <loc>https://cory-whitney.com/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/example2/</loc>
+    <loc>https://cory-whitney.com/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://cory-whitney.com/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://cory-whitney.com/post/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/writing-technical-content/</loc>
+    <loc>https://cory-whitney.com/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>https://cory-whitney.com/authors/admin/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://cory-whitney.com/authors/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/jupyter/</loc>
+    <loc>https://cory-whitney.com/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/</loc>
+    <loc>https://cory-whitney.com/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/example/</loc>
+    <loc>https://cory-whitney.com/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
+    <loc>https://cory-whitney.com/publication_types/2/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/agrobiodiversity/</loc>
+    <loc>https://cory-whitney.com/tags/agrobiodiversity/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/agroecology/</loc>
+    <loc>https://cory-whitney.com/tags/agroecology/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/bayesian-networks/</loc>
+    <loc>https://cory-whitney.com/tags/bayesian-networks/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/caroline-muchiri/</loc>
+    <loc>https://cory-whitney.com/authors/caroline-muchiri/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/decision-analysis/</loc>
+    <loc>https://cory-whitney.com/tags/decision-analysis/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/denise-lanzanova/</loc>
+    <loc>https://cory-whitney.com/authors/denise-lanzanova/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/eike-luedeling/</loc>
+    <loc>https://cory-whitney.com/authors/eike-luedeling/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/expert-knowledge/</loc>
+    <loc>https://cory-whitney.com/tags/expert-knowledge/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/homegardens/</loc>
+    <loc>https://cory-whitney.com/tags/homegardens/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/human-nutrition/</loc>
+    <loc>https://cory-whitney.com/tags/human-nutrition/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/jens-gebauer/</loc>
+    <loc>https://cory-whitney.com/authors/jens-gebauer/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/john-tabuti/</loc>
+    <loc>https://cory-whitney.com/authors/john-tabuti/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/katja-kehlenbeck/</loc>
+    <loc>https://cory-whitney.com/authors/katja-kehlenbeck/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/keith-shepherd/</loc>
+    <loc>https://cory-whitney.com/authors/keith-shepherd/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/michael-krawinkel/</loc>
+    <loc>https://cory-whitney.com/authors/michael-krawinkel/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/michale-krawinkel/</loc>
+    <loc>https://cory-whitney.com/authors/michale-krawinkel/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/oliver-hensel/</loc>
+    <loc>https://cory-whitney.com/authors/oliver-hensel/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/18-journal-earth-future/</loc>
+    <loc>https://cory-whitney.com/publication/18-journal-earth-future/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>https://cory-whitney.com/publication_types/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>https://cory-whitney.com/publication/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://cory-whitney.com/tags/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/17-journal-huec/</loc>
+    <loc>https://cory-whitney.com/publication/17-journal-huec/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/todd-rosenstock/</loc>
+    <loc>https://cory-whitney.com/authors/todd-rosenstock/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/uganda/</loc>
+    <loc>https://cory-whitney.com/tags/uganda/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/decision-analysis/</loc>
+    <loc>https://cory-whitney.com/project/decision-analysis/</loc>
     <lastmod>2018-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>https://cory-whitney.com/project/</loc>
     <lastmod>2018-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/1/</loc>
+    <loc>https://cory-whitney.com/publication_types/1/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/17-preprint-wildfire/</loc>
+    <loc>https://cory-whitney.com/publication/17-preprint-wildfire/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/monte-carlo/</loc>
+    <loc>https://cory-whitney.com/tags/monte-carlo/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/wildfire/</loc>
+    <loc>https://cory-whitney.com/tags/wildfire/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/demo/</loc>
+    <loc>https://cory-whitney.com/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/external-project/</loc>
+    <loc>https://cory-whitney.com/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/academic/</loc>
+    <loc>https://cory-whitney.com/tags/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/getting-started/</loc>
+    <loc>https://cory-whitney.com/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://cory-whitney.com/categories/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/demo/</loc>
+    <loc>https://cory-whitney.com/categories/demo/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>https://cory-whitney.com/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/plot/</loc>
+    <loc>https://cory-whitney.com/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
+    <loc>https://cory-whitney.com/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/r-markdown/</loc>
+    <loc>https://cory-whitney.com/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/regression/</loc>
+    <loc>https://cory-whitney.com/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/18-conference-flare/</loc>
+    <loc>https://cory-whitney.com/publication/18-conference-flare/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/</loc>
+    <loc>https://cory-whitney.com/courses/</loc>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>https://cory-whitney.com/talk/</loc>
   </url>
   
 </urlset>
