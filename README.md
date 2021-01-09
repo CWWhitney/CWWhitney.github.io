@@ -1,6 +1,6 @@
 
 You have landed on my github.io pages. 
-Please visit the [my website](cory-whitney.com).
+Please visit the [my website](https://cory-whitney.com/).
 
 <img src="content/authors/admin/avatar.png" alt="Cory Whitney hex" align="right" width = "25%" height="25%"/>
 
