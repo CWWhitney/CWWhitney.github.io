@@ -1,5 +1,7 @@
 
-Builds my website based on Hugo and Wowcherry 
+![](content/authors/admin/avatar.png)
+
+Builds [Cory Whitney website](cory-whitney.com) based on Hugo and Wowcherry tools.
 
 ## Ecosystem
 
