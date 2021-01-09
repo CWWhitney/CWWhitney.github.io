@@ -1,8 +1,8 @@
 
-You have landed on my github.io pages. 
-Please visit the [my website](https://cory-whitney.com/).
-
 <img src="content/authors/admin/avatar.png" alt="Cory Whitney hex" align="right" width = "25%" height="25%"/>
+
+You have landed on my github.io pages. 
+Please visit [my website](https://cory-whitney.com/).
 
 | Quick Links                                                                                                                                               |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -14,9 +14,5 @@ Please visit the [my website](https://cory-whitney.com/).
 | [**LinkedIn**](https://www.linkedin.com/in/corywhitney/?originalSubdomain=de) |
 | [**Center for Development Research (ZEF)**](https://www.zef.de/index.php?id=2232&tx_zefportal_staff[ref]=2252&tx_zefportal_staff[uid]=1799&no_cache=1) |
 | [**University of Bonn**](https://www.gartenbauwissenschaft.uni-bonn.de/department/contact/cory-whitney/cory-whitney-en) |
-| [**The World Agroforestry Centre (ICRAF)**](https://apps.worldagroforestry.org/staff/cory-whitney) |
-
-## Ecosystem
-
-* **[Wowchemy Admin](https://github.com/wowchemy/wowchemy-admin/):** An admin tool to import publications from BibTeX
+| [**The World Agroforestry Centre (ICRAF)**](https://apps.worldagroforestry.org/staff/cory-whitney) | [Cory Whitney website](https://cory-whitney.com/) |
 
