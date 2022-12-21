@@ -9,13 +9,13 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
-  # Choose how much pages you would like to display (0 = all pages)
+  # Choose how many pages you would like to display (0 = all pages)
   count: 5
   # Choose how many pages you would like to offset by
   offset: 0
@@ -36,4 +36,3 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
-
