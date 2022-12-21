@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cory Whitney
+title: Dr. Cory Whitney
 
 # Is this the primary user of the site?
 superuser: true
