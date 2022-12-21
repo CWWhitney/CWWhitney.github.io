@@ -1,23 +1,24 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Priority Species and Management Approaches for Woody Species - A Case Study of   Awach Sub-county, Gulu District, Uganda
+title: Prospects of decreasing winter chill in Chile throughout the 21st century
 subtitle: ''
 summary: ''
 authors:
-- John Tabuti
-- Esther Patricia Adoch
-- Christopher Mawa
+- Eduardo Fernandez
 - Cory Whitney
+- Italo F. Cuneo
+- Eike Luedeling
 tags:
-- '"Ethnobotany"'
-- '"Ethnoecology"'
-- '"Trees"'
-- '"Conservation"'
-- '"Agroforestry"'
+- '"bud rest"'
+- '"fruit trees"'
+- '"temperature increase"'
+- '"food security"'
+- '"chill requirement"'
+- '"chilling models"'
 categories: []
-date: '2022-12-01'
-lastmod: 2022-12-05T15:25:34+01:00
+date: '2020-01-01'
+lastmod: 2021-01-05T15:25:34+01:00
 featured: false
 draft: false
 
@@ -39,6 +40,6 @@ publishDate: '2021-01-05T14:25:34.099889Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Human Ecology*'
-doi: 10.1007/s10745-022-00360-2
+publication: '*Climatic Change*'
+doi: 10.1007/s10584-019-02608-1
 ---
