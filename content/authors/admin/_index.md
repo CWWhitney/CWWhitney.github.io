@@ -42,4 +42,5 @@ user_groups:
 - Visitors
 ---
 
-I use collaborative research and holistic analysis approaches to describe systems and model decision impact pathways. I work with diverse groups including researchers, food activists, small-scale farmers and indigenous communities to address issues of direct relevance and offer new lenses through which to view the development process. My work is related to human ecology, ethnobotany and agrobiodiversity.
+I use collaborative research and holistic analysis approaches to describe systems and model decision impact pathways, mainly with decision analysis. I work with diverse groups including researchers, food activists, small-scale farmers and indigenous communities to address issues of direct relevance and offer new lenses through which to view the development process. My work is related to human ecology, ethnobotany and agrobiodiversity.
+
