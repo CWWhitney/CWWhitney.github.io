@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cory Whitney</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cory Whitney</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Cory Whitney</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Priority Species and Management Approaches for Woody Species - A Case Study of   Awach Sub-county, Gulu District, Uganda</title>
+      <link>/publication/22_tabuti/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/22_tabuti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adapting sweet cherry orchards to extreme weather events – Decision Analysis in support of farmers&#39; investments in Central Chile</title>
+      <link>/publication/21_rojas-adapting/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/21_rojas-adapting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crop modelling in data-poor environments – A knowledge-informed probabilistic approach to appreciate risks and uncertainties in flood-based farming systems</title>
+      <link>/publication/21_liman-harou-crop/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/21_liman-harou-crop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping Flood-Based Farming Systems with Bayesian Networks</title>
+      <link>/publication/20_liman-harou-mapping/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/20_liman-harou-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-based evaluation of management options in ornamental plant nurseries</title>
+      <link>/publication/20_ruett-model-based/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/20_ruett-model-based/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prospects of decreasing winter chill in Chile throughout the 21st century</title>
+      <link>/publication/20_fernandez-prospects/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/20_fernandez-prospects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The uses of fig (Ficus) by five ethnic minority communities in Southern Shan State, Myanmar</title>
+      <link>/publication/20_mon-uses/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/20_mon-uses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic impact evaluation of an irrigation development intervention in Northern Ethiopia</title>
+      <link>/publication/19_yigzaw-stochastic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/19_yigzaw-stochastic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

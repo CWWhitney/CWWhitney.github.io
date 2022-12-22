@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Cory Whitney</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Priority Species and Management Approaches for Woody Species - A Case Study of   Awach Sub-county, Gulu District, Uganda</title>
+      <link>/publication/22_tabuti/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/22_tabuti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adapting sweet cherry orchards to extreme weather events – Decision Analysis in support of farmers&#39; investments in Central Chile</title>
+      <link>/publication/21_rojas-adapting/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/21_rojas-adapting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crop modelling in data-poor environments – A knowledge-informed probabilistic approach to appreciate risks and uncertainties in flood-based farming systems</title>
+      <link>/publication/21_liman-harou-crop/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/21_liman-harou-crop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping Flood-Based Farming Systems with Bayesian Networks</title>
+      <link>/publication/20_liman-harou-mapping/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/20_liman-harou-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-based evaluation of management options in ornamental plant nurseries</title>
+      <link>/publication/20_ruett-model-based/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/20_ruett-model-based/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prospects of decreasing winter chill in Chile throughout the 21st century</title>
+      <link>/publication/20_fernandez-prospects/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/20_fernandez-prospects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The uses of fig (Ficus) by five ethnic minority communities in Southern Shan State, Myanmar</title>
+      <link>/publication/20_mon-uses/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/20_mon-uses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic impact evaluation of an irrigation development intervention in Northern Ethiopia</title>
+      <link>/publication/19_yigzaw-stochastic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/19_yigzaw-stochastic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
