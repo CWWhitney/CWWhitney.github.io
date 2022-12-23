@@ -1,7 +1,7 @@
 
 <img src="content/authors/admin/avatar.png" alt="Cory Whitney hex" align="right" width = "25%" height="25%"/>
 
-You have landed on my github.io pages. 
+You have landed on my github.io page. 
 Please visit [my website](https://cory-whitney.com/).
 
 | Quick Links                                                                                                                                               |
@@ -16,3 +16,11 @@ Please visit [my website](https://cory-whitney.com/).
 | [**University of Bonn**](https://www.gartenbauwissenschaft.uni-bonn.de/department/contact/cory-whitney/cory-whitney-en) |
 | [**The World Agroforestry Centre (ICRAF)**](https://apps.worldagroforestry.org/staff/cory-whitney) | [Cory Whitney website](https://cory-whitney.com/) |
 
+<--- #bib files are in content/publication with bibtex_2academic.R--->
+<--- #Run the site with these to use the bib file --->
+<--- #to use the bib file --->
+<--- source("content/publication/bibtex_2academic.R") --->
+<--- #to see the site locally --->
+<---  blogdown::serve_site() --->
+<--- #to see the site online --->
+<---  blogdown::build_site() ---> 
