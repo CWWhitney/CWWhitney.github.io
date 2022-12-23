@@ -1,7 +1,12 @@
-# The function: bibtex_2academic from http://www.pik-potsdam.de/~pichler/blog/post/set-this-up/setting-up-this-site/
+# The function: bibtex_2academic from 
+# http://www.pik-potsdam.de/~pichler/blog/post/set-this-up/setting-up-this-site/
 # Run with
 # source("content/publication/bibtex_2academic.R")
+# serve with
 # blogdown::serve_site()
+# build with
+# blogdown::build_site()
+
 
 bibtex_2academic <- function(bibfile,
                              outfold,
