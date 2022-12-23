@@ -5,7 +5,7 @@
     <link>/publication-type/2/</link>
       <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
@@ -13,66 +13,306 @@
     </image>
     
     <item>
-      <title>Priority Species and Management Approaches for Woody Species - A Case Study of   Awach Sub-county, Gulu District, Uganda</title>
-      <link>/publication/22_tabuti/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/22_tabuti/</guid>
+      <title>Agroforestry and Reforestation with the Gold Standard-Decision Analysis of a Voluntary Carbon Offset Label</title>
+      <link>/publication/2022-01-01_agroforestry_and_ref/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-01-01_agroforestry_and_ref/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Adapting sweet cherry orchards to extreme weather events – Decision Analysis in support of farmers&#39; investments in Central Chile</title>
-      <link>/publication/21_rojas-adapting/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/21_rojas-adapting/</guid>
+      <title>Assessing Expected Utility and Profitability to Support Decision-Making for Disease Control Strategies in Ornamental Heather Production</title>
+      <link>/publication/2022-01-01_assessing_expected_u/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-01-01_assessing_expected_u/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Crop modelling in data-poor environments – A knowledge-informed probabilistic approach to appreciate risks and uncertainties in flood-based farming systems</title>
-      <link>/publication/21_liman-harou-crop/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/21_liman-harou-crop/</guid>
+      <title>Decision Analysis of Agro-Climate Service Scaling – A Case Study in Dien Bien District, Vietnam</title>
+      <link>/publication/2022-01-01_decision_analysis_of/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-01-01_decision_analysis_of/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Farm-Planning under Risk: An Application of Decision Analysis and Portfolio Theory for the Assessment of Crop Diversification Strategies in Horticultural Systems</title>
+      <link>/publication/2022-01-01_farm-planning_under_/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-01-01_farm-planning_under_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hyperspectral Imaging for High-Throughput Vitality Monitoring in Ornamental Plant Production</title>
+      <link>/publication/2022-01-01_hyperspectral_imagin/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-01-01_hyperspectral_imagin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated Participatory Approach Reveals Perceived Local Availability of Wild Edible Plants in Northwestern Kenya</title>
+      <link>/publication/2022-01-01_integrated_participa/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-01-01_integrated_participa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prioritizing Farm Management Interventions to Improve Climate Change Adaptation and Mitigation Outcomes—a Case Study for Banana Plantations</title>
+      <link>/publication/2022-01-01_prioritizing_farm_ma/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-01-01_prioritizing_farm_ma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Priority Species and Management Approaches for Woody Species: A Case Study of Awach Sub-County, Gulu District, Uganda</title>
+      <link>/publication/2022-01-01_priority_species_and/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-01-01_priority_species_and/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Profitability of Farm-Scale Management Strategies against the Boll Weevil in the Tropics: Case Study from the Colombian Caribbean</title>
+      <link>/publication/2022-01-01_profitability_of_far/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-01-01_profitability_of_far/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Holistic Sustainability Assessment of Organic (Certified and Non-Certified) and Non-Organic Smallholder Farms in Kenya</title>
+      <link>/publication/2021-01-01_a_holistic_sustainab/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_a_holistic_sustainab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Modelling Framework for Fruit and Nut Tree Phenology</title>
+      <link>/publication/2021-01-01_a_new_modelling_fram/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_a_new_modelling_fram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adapting Sweet Cherry Orchards to Extreme Weather Events – Decision Analysis in Support of Farmers&#39; Investments in Central Chile</title>
+      <link>/publication/2021-01-01_adapting_sweet_cherr/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_adapting_sweet_cherr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crop Modelling in Data-Poor Environments – A Knowledge-Informed Probabilistic Approach to Appreciate Risks and Uncertainties in Flood-Based Farming Systems</title>
+      <link>/publication/2021-01-01_crop_modelling_in_da/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_crop_modelling_in_da/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socio–Cultural Significance of Yerba Maté among Syrian Residents and Diaspora</title>
+      <link>/publication/2021-01-01_sociocultural_signi/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_sociocultural_signi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Simulation of Restoration Outcomes for a Dry Afromontane Forest Landscape in Northern Ethiopia</title>
+      <link>/publication/2021-01-01_stochastic_simulatio/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_stochastic_simulatio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Knowledge Brokering Framework for Integrated Landscape Management</title>
+      <link>/publication/2020-01-01_a_knowledge_brokerin/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_a_knowledge_brokerin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate Change Impacts on Agriculture&#39;s Southern Frontier – Perspectives for Farming in North Patagonia</title>
+      <link>/publication/2020-01-01_climate_change_impac/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_climate_change_impac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decision Analysis of Agroforestry Options Reveals Adoption Risks for Resource-Poor Farmers</title>
+      <link>/publication/2020-01-01_decision_analysis_of/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_decision_analysis_of/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Documenting the Heritage along the Silk Road: An Ethnobotanical Study of Medicinal Teas Used in Southern Xinjiang, China</title>
+      <link>/publication/2020-01-01_documenting_the_heri/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_documenting_the_heri/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mapping Flood-Based Farming Systems with Bayesian Networks</title>
-      <link>/publication/20_liman-harou-mapping/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/20_liman-harou-mapping/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Model-based evaluation of management options in ornamental plant nurseries</title>
-      <link>/publication/20_ruett-model-based/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/20_ruett-model-based/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prospects of decreasing winter chill in Chile throughout the 21st century</title>
-      <link>/publication/20_fernandez-prospects/</link>
+      <link>/publication/2020-01-01_mapping_flood-based_/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/20_fernandez-prospects/</guid>
+      <guid>/publication/2020-01-01_mapping_flood-based_/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The uses of fig (Ficus) by five ethnic minority communities in Southern Shan State, Myanmar</title>
-      <link>/publication/20_mon-uses/</link>
+      <title>Model-Based Evaluation of Management Options in Ornamental Plant Nurseries</title>
+      <link>/publication/2020-01-01_model-based_evaluati/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/20_mon-uses/</guid>
+      <guid>/publication/2020-01-01_model-based_evaluati/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Stochastic impact evaluation of an irrigation development intervention in Northern Ethiopia</title>
-      <link>/publication/19_yigzaw-stochastic/</link>
+      <title>Prospects of Decreasing Winter Chill in Chile throughout the 21st Century</title>
+      <link>/publication/2020-01-01_prospects_of_decreas/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_prospects_of_decreas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ring-Widths of Abies at Tree-Line Ecotone Reveal Three Centuries of Early Winter Season Temperature Changes in Yunnan, China</title>
+      <link>/publication/2020-01-01_ring-widths_of_abies/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_ring-widths_of_abies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring Moisture Availability Is the Major Limitation for Pine Forest Productivity in Southwest China</title>
+      <link>/publication/2020-01-01_spring_moisture_avai/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_spring_moisture_avai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Uses of Fig (Ficus) by Five Ethnic Minority Communities in Southern Shan State, Myanmar</title>
+      <link>/publication/2020-01-01_the_uses_of_fig_fic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_the_uses_of_fig_fic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agroforestry Delivers a Win-Win Solution for Ecosystem Services in Sub-Saharan Africa. A Meta-Analysis</title>
+      <link>/publication/2019-01-01_agroforestry_deliver/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/19_yigzaw-stochastic/</guid>
+      <guid>/publication/2019-01-01_agroforestry_deliver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Development Efficiency through Decision Analysis: Reservoir Protection in Burkina Faso</title>
+      <link>/publication/2019-01-01_improving_developmen/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-01-01_improving_developmen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Impact Evaluation of an Irrigation Development Intervention in Northern Ethiopia</title>
+      <link>/publication/2019-01-01_stochastic_impact_ev/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-01-01_stochastic_impact_ev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crop Diversity in Homegardens of Southwest Uganda and Its Importance for Rural Livelihoods</title>
+      <link>/publication/2018-01-01_crop_diversity_in_ho/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_crop_diversity_in_ho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decision Analysis Methods Guide; Agricultural Policy for Nutrition</title>
+      <link>/publication/2018-01-01_decision_analysis_me/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_decision_analysis_me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethnobotany and Agrobiodiversity; Valuation of Plants in the Homegardens of Southwestern Uganda</title>
+      <link>/publication/2018-01-01_ethnobotany_and_agro/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_ethnobotany_and_agro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Decision Tools for Determining Impacts of Agricultural Development Policy on Household Nutrition</title>
+      <link>/publication/2018-01-01_probabilistic_decisi/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_probabilistic_decisi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Role of Homegardens for Food and Nutrition Security in Uganda</title>
+      <link>/publication/2018-01-01_the_role_of_homegard/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_the_role_of_homegard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homegardens and the Future of Food and Nutrition Security in Southwest Uganda</title>
+      <link>/publication/2017-01-01_homegardens_and_the_/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_homegardens_and_the_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Record of Baobab (Adansonia Digitata L.) in Uganda</title>
+      <link>/publication/2016-01-01_first_record_of_baob/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-01-01_first_record_of_baob/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning with Elders; Human Ecology and Ethnobotany Explorations in Northern and Central Vietnam</title>
+      <link>/publication/2016-01-01_learning_with_elders/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-01-01_learning_with_elders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conservation and Ethnobotanical Knowledge of a Hmong Community in Long Lan, Luang Prabang, Lao People’s Democratic Republic</title>
+      <link>/publication/2014-01-01_conservation_and_eth/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-01-01_conservation_and_eth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey of Wild Collection and Cultivation of Indigenous Species in Iceland</title>
+      <link>/publication/2012-01-01_a_survey_of_wild_col/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/2012-01-01_a_survey_of_wild_col/</guid>
       <description></description>
     </item>
     
