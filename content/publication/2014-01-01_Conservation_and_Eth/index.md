@@ -1,5 +1,5 @@
 +++
-title = "Conservation and Ethnobotanical Knowledge of a Hmong Community in Long Lan, Luang Prabang, Lao People’s Democratic Republic"
+title = "Conservation and Ethnobotanical Knowledge of a Hmong Community in Long Lan, Luang Prabang, Lao People's Democratic Republic"
 date = "2014-01-01"
 authors = ["Cory Whitney", "Min (Meej Vaj) Vang Sin", "Giang Le Hong", "Can Vu Van", "Keith Barber", "Lanh Tran Thi"]
 publication_types = ["2"]

@@ -1,7 +1,7 @@
 +++
 title = "Decision Analysis Methods Guide; Agricultural Policy for Nutrition"
 date = "2018-01-01"
-authors = ["Cory Whitney", "K. Shepherd", "E. Luedeling"]
+authors = ["C. Whitney", "K. Shepherd", "E. Luedeling"]
 publication_types = ["2"]
 publication = "World Agroforestry (ICRAF), (Working Paper series), 275, _pp. 40_, https://doi.org/http://dx.doi.org/10.5716/WP18001.PDF"
 publication_short = "World Agroforestry (ICRAF), (Working Paper series), 275, _pp. 40_, https://doi.org/http://dx.doi.org/10.5716/WP18001.PDF"

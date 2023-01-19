@@ -5,12 +5,20 @@
     <link>/publication-type/2/</link>
       <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Allometric Models for Aboveground Biomass Estimation of Small Trees and Shrubs in African Savanna Ecosystems</title>
+      <link>/publication/2023-01-01_allometric_models_fo/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023-01-01_allometric_models_fo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Agroforestry and Reforestation with the Gold Standard-Decision Analysis of a Voluntary Carbon Offset Label</title>
@@ -29,7 +37,7 @@
     </item>
     
     <item>
-      <title>Decision Analysis of Agro-Climate Service Scaling – A Case Study in Dien Bien District, Vietnam</title>
+      <title>Decision Analysis of Agro-Climate Service Scaling 	extendash A Case Study in Dien Bien District, Vietnam</title>
       <link>/publication/2022-01-01_decision_analysis_of/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>/publication/2022-01-01_decision_analysis_of/</guid>
@@ -61,7 +69,7 @@
     </item>
     
     <item>
-      <title>Prioritizing Farm Management Interventions to Improve Climate Change Adaptation and Mitigation Outcomes—a Case Study for Banana Plantations</title>
+      <title>Prioritizing Farm Management Interventions to Improve Climate Change Adaptation and Mitigation Outcomes	extemdash a Case Study for Banana Plantations</title>
       <link>/publication/2022-01-01_prioritizing_farm_ma/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>/publication/2022-01-01_prioritizing_farm_ma/</guid>
@@ -101,7 +109,7 @@
     </item>
     
     <item>
-      <title>Adapting Sweet Cherry Orchards to Extreme Weather Events – Decision Analysis in Support of Farmers&#39; Investments in Central Chile</title>
+      <title>Adapting Sweet Cherry Orchards to Extreme Weather Events 	extendash Decision Analysis in Support of Farmers&#39; Investments in Central Chile</title>
       <link>/publication/2021-01-01_adapting_sweet_cherr/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/publication/2021-01-01_adapting_sweet_cherr/</guid>
@@ -109,10 +117,18 @@
     </item>
     
     <item>
-      <title>Crop Modelling in Data-Poor Environments – A Knowledge-Informed Probabilistic Approach to Appreciate Risks and Uncertainties in Flood-Based Farming Systems</title>
+      <title>Crop Modelling in Data-Poor Environments 	extendash A Knowledge-Informed Probabilistic Approach to Appreciate Risks and Uncertainties in Flood-Based Farming Systems</title>
       <link>/publication/2021-01-01_crop_modelling_in_da/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/publication/2021-01-01_crop_modelling_in_da/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socio	extendash Cultural Significance of Yerba Mate among Syrian Residents and Diaspora</title>
+      <link>/publication/2021-01-01_socio%5Ctextendash_cul/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_socio%5Ctextendash_cul/</guid>
       <description></description>
     </item>
     
@@ -141,7 +157,7 @@
     </item>
     
     <item>
-      <title>Climate Change Impacts on Agriculture&#39;s Southern Frontier – Perspectives for Farming in North Patagonia</title>
+      <title>Climate Change Impacts on Agriculture&#39;s Southern Frontier 	extendash Perspectives for Farming in North Patagonia</title>
       <link>/publication/2020-01-01_climate_change_impac/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/2020-01-01_climate_change_impac/</guid>
@@ -301,7 +317,7 @@
     </item>
     
     <item>
-      <title>Conservation and Ethnobotanical Knowledge of a Hmong Community in Long Lan, Luang Prabang, Lao People’s Democratic Republic</title>
+      <title>Conservation and Ethnobotanical Knowledge of a Hmong Community in Long Lan, Luang Prabang, Lao People&#39;s Democratic Republic</title>
       <link>/publication/2014-01-01_conservation_and_eth/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>/publication/2014-01-01_conservation_and_eth/</guid>
