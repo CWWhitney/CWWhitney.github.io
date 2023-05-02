@@ -1,5 +1,5 @@
 +++
-title = "Prioritizing Farm Management Interventions to Improve Climate Change Adaptation and Mitigation Outcomes\textemdash a Case Study for Banana Plantations"
+title = "Prioritizing Farm Management Interventions to Improve Climate Change Adaptation and Mitigation Outcomes—a Case Study for Banana Plantations"
 date = "2022-01-01"
 authors = ["Eduardo Fernandez", "Hoa Do", "Eike Luedeling", "Thi Thu Giang Luu", "Cory Whitney"]
 publication_types = ["2"]

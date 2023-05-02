@@ -1,5 +1,5 @@
 +++
-title = "Socio–Cultural Significance of Yerba Maté among Syrian Residents and Diaspora"
+title = "Socio–Cultural Significance of Yerba Mate among Syrian Residents and Diaspora"
 date = "2021-01-01"
 authors = ["Naji Sulaiman", "Andrea Pieroni", "Renata Soukand", "Cory Whitney", "Zbynek Polesny"]
 publication_types = ["2"]

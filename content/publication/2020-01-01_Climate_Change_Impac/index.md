@@ -1,5 +1,5 @@
 +++
-title = "Climate Change Impacts on Agriculture's Southern Frontier \textendash Perspectives for Farming in North Patagonia"
+title = "Climate Change Impacts on Agriculture's Southern Frontier – Perspectives for Farming in North Patagonia"
 date = "2020-01-01"
 authors = ["Ricardo del Barrio", "Eduardo Fernandez", "Andrea S. Brendel", "Cory Whitney", "Jose A. Campoy", "Eike Luedeling"]
 publication_types = ["2"]
