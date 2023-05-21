@@ -14,7 +14,7 @@ organizations:
   url: https://www.uni-bonn.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include human ecology, ethnobotany and agrobiodiversity.
+bio: My research interests include decision analysis, human ecology, ethnobotany and agrobiodiversity.
 
 # Interests to show in About widget
 interests:
