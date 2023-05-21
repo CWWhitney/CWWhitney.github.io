@@ -1,28 +1,28 @@
 ---
-title: Example Talk
+title: Assessing agroforestry options for sustainable land use in Germany
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: EURAF 2022 Agroforestry for the Green Deal transition. Research and innovation towards the sustainable development of agriculture and forestry
+event_url: https://uninuoro.it
 
 location: Wowchemy HQ
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 
+  city: Nuoro
+  region: 
+  postcode: 
+  country: Italy
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Assessing agroforestry options for sustainable land use in Germany
+abstract: "Introducing trees to faming landscapes represents a risky decision with large uncertainties. In this project we worked with Woodify, a startup that reforests damaged woodlands and sells the CO2 certificates. Woodify offers local carbon offsets through contracts with German forest owners. They bought a plot of land for reforestation in the Eifel region of Germany but could not use it for forest, as the land use plan did not allow it. However, the land use plan would allow for an agroforestry system where agricultural production is combined with trees. We applied holistic modeling processes to support Woodify in determining if such an investment would be economically viable."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-all_day: false
+# date: "2030-06-01T13:00:00Z"
+# date_end: "2030-06-01T15:00:00Z"
+# all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-01-01T00:00:00Z"
 
 authors: []
 tags: []
@@ -31,14 +31,14 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Unsplash**](https://www.youtube.com/watch?v=QjDJrg_OBpI&t=11s)'
   focal_point: Right
 
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/human_ecologist
 url_code: ""
 url_pdf: ""
 url_slides: ""
