@@ -16,11 +16,13 @@ Please visit [my website](https://cory-whitney.com/).
 | [**University of Bonn**](https://www.gartenbauwissenschaft.uni-bonn.de/department/contact/cory-whitney/cory-whitney-en) |
 | [**The World Agroforestry Centre (ICRAF)**](https://apps.worldagroforestry.org/staff/cory-whitney) | [Cory Whitney website](https://cory-whitney.com/) |
 
-<--- #bib files are in content/publication with bibtex_2academic.R--->
-<--- #Run the site with these: --->
-<--- #use the bib file --->
-<--- source("content/publication/bibtex_2academic.R") --->
-<--- #see the site locally --->
-<---  blogdown::serve_site() --->
-<--- #see the site online --->
-<---  blogdown::build_site() --->
+# bib files are in content/publication with bibtex_2academic.R
+
+Run the site with these:
+
+# use the bib file
+source("content/publication/bibtex_2academic.R")
+# see the site locally
+blogdown::serve_site()
+# see the site online
+blogdown::build_site()
