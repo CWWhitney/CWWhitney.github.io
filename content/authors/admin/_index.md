@@ -18,9 +18,9 @@ bio: My research interests include decision analysis, human ecology, ethnobotany
 
 # Interests to show in About widget
 interests:
-- Decision Analysis
 - Human Ecology
-- Ethnobotany
+- Agroforestry 
+- Decision Analysis
 
 # Education to show in About widget
 education:
@@ -70,4 +70,4 @@ email: "cory@cory-whitney.com"
 highlight_name: false
 ---
 
-I use collaborative research and holistic analysis approaches to describe systems and model decision impact pathways. I work with diverse groups including policy makers, researchers, food activists, small-scale farmers and indigenous communities. I seek to address sustainability issues that are of direct relevance to vulnerable groups and to offer new lenses through which to view the development process. My work is related to human ecology, agroforestry and agrobiodiversity.
+I use collaborative research and holistic analysis approaches to describe systems and model decision impact pathways. I work with diverse groups including policy makers, researchers, food activists, small-scale farmers and indigenous communities. I seek to address sustainability issues that are of direct relevance to vulnerable communities and to offer new lenses through which to view the development process. My work is related to human ecology, agroforestry and decision analysis.
