@@ -23,4 +23,4 @@ Please visit [my website](https://cory-whitney.com/).
 <--- #see the site locally --->
 <---  blogdown::serve_site() --->
 <--- #see the site online --->
-<---  blogdown::build_site() ---> 
+<---  blogdown::build_site() --->
