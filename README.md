@@ -22,7 +22,11 @@ Run the site with these:
 
 # use the bib file
 source("content/publication/bibtex_2academic.R")
+
 # see the site locally
 blogdown::serve_site()
+
 # see the site online
 blogdown::build_site()
+
+
