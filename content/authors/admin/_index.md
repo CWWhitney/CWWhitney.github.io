@@ -14,7 +14,7 @@ organizations:
   url: https://www.uni-bonn.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Main research topics: Human Ecology, Agroforestry, and Decision Analysis.
+bio: "Main research topics: Human Ecology, Agroforestry, and Decision Analysis"
 
 # Interests to show in About widget
 interests:
@@ -73,5 +73,5 @@ email: "cory@cory-whitney.com"
 highlight_name: false
 ---
 
-I specialize in transdisciplinary research with diverse groups including policy makers, researchers, food activists, small-scale farmers and indigenous communities. I develop holistic models through expert knowledge elicitation and holistic systems understanding to decipher the intended and actual impacts of development decisions and guide decision-makers toward sustainable outcomes. Together we explore trade-offs and synergies to address sustainability issues that are of direct relevance to vulnerable communities. 
+I specialize in transdisciplinary research with diverse groups including policy makers, researchers, food activists, small-scale farmers and indigenous communities. I explore the trade-offs and synergies of development decisions directly impacting vulnerable communities. Through expert knowledge elicitation and holistic systems understanding I include local perspectives and knowledge in holistic models. I apply these models to decipher the intended and actual impacts of development decisions and guide decision-makers toward sustainable outcomes.  
 
