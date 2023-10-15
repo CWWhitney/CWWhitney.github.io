@@ -14,7 +14,7 @@ organizations:
   url: https://www.uni-bonn.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include decision analysis, human ecology, ethnobotany and agrobiodiversity.
+bio: Main research topics: Human Ecology, Agroforestry, and Decision Analysis.
 
 # Interests to show in About widget
 interests:
@@ -34,6 +34,9 @@ education:
   - course: BA in Human Ecology
     institution: College of the Atlantic
     year: 2003
+  - course: AA in Natural Resources Management
+    institution: Sterling College, Vermont
+    year: 2001
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,4 +73,5 @@ email: "cory@cory-whitney.com"
 highlight_name: false
 ---
 
-I use collaborative research and holistic analysis approaches to describe systems and model decision impact pathways. I work with diverse groups including policy makers, researchers, food activists, small-scale farmers and indigenous communities. I seek to address sustainability issues that are of direct relevance to vulnerable communities and to offer new lenses through which to view the development process. My work is related to human ecology, agroforestry and decision analysis.
+I specialize in transdisciplinary research with diverse groups including policy makers, researchers, food activists, small-scale farmers and indigenous communities. I develop holistic models through expert knowledge elicitation and holistic systems understanding to decipher the intended and actual impacts of development decisions and guide decision-makers toward sustainable outcomes. Together we explore trade-offs and synergies to address sustainability issues that are of direct relevance to vulnerable communities. 
+
