@@ -29,4 +29,5 @@ blogdown::serve_site()
 # see the site online
 blogdown::build_site()
 
-
+# build site in Terminal
+hugo server
