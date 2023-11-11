@@ -32,4 +32,6 @@ blogdown::build_site()
 # build site in Terminal
 hugo server
 
+# build with Netifly
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/235c4b03-c385-4045-917f-e631560f77a4/deploy-status)](https://app.netlify.com/sites/epic-elion-d852b3/deploys)
