@@ -30,7 +30,7 @@ blogdown::serve_site()
 blogdown::build_site()
 
 # build site in Terminal
-hugo server
+hugo server 
 
 # build with Netifly 
 
