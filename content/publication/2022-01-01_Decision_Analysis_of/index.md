@@ -1,5 +1,5 @@
 +++
-title = "Decision Analysis of Agro-Climate Service Scaling – A Case Study in Dien Bien District, Vietnam"
+title = "Decision analysis of agro-climate service scaling – A case study in Dien Bien District, Vietnam"
 date = "2022-01-01"
 authors = ["Thi Thu Giang Luu", "Cory Whitney", "Lisa Biber-Freudenberger", "Eike Luedeling"]
 publication_types = ["2"]

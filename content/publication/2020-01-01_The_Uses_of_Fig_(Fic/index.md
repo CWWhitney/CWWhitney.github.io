@@ -1,5 +1,5 @@
 +++
-title = "The Uses of Fig (Ficus) by Five Ethnic Minority Communities in Southern Shan State, Myanmar"
+title = "The uses of fig (Ficus) by five ethnic minority communities in Southern Shan State, Myanmar"
 date = "2020-01-01"
 authors = ["Aye Mya Mon", "Yinxian Shi", "Xuefei Yang", "Pyae Phyo Hein", "Thaung Naing Oo", "Cory Whitney", "Yongping Yang"]
 publication_types = ["2"]

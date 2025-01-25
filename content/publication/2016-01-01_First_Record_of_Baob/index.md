@@ -1,5 +1,5 @@
 +++
-title = "First Record of Baobab (Adansonia Digitata L.) in Uganda"
+title = "First record of baobab (Adansonia digitata L.) in Uganda"
 date = "2016-01-01"
 authors = ["Jens Gebauer", "Cory W. Whitney", "John R. S. Tabuti"]
 publication_types = ["2"]

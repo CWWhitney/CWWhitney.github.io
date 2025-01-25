@@ -1,5 +1,5 @@
 +++
-title = "A Survey of Wild Collection and Cultivation of Indigenous Species in Iceland"
+title = "A survey of wild collection and cultivation of indigenous species in Iceland"
 date = "2012-01-01"
 authors = ["Cory Whitney", "J. Gebauer", "M. Anderson"]
 publication_types = ["2"]

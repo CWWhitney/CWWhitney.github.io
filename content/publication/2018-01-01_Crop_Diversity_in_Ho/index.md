@@ -1,5 +1,5 @@
 +++
-title = "Crop Diversity in Homegardens of Southwest Uganda and Its Importance for Rural Livelihoods"
+title = "Crop diversity in homegardens of southwest Uganda and its importance for rural livelihoods"
 date = "2018-01-01"
 authors = ["Cory Whitney", "Eike Luedeling", "John R. S. Tabuti", "Antonia Nyamukuru", "Oliver Hensel", "Jens Gebauer", "Katja Kehlenbeck"]
 publication_types = ["2"]

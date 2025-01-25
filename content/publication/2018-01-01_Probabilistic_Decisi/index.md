@@ -1,5 +1,5 @@
 +++
-title = "Probabilistic Decision Tools for Determining Impacts of Agricultural Development Policy on Household Nutrition"
+title = "Probabilistic decision tools for determining impacts of agricultural development policy on household nutrition"
 date = "2018-01-01"
 authors = ["Cory Whitney", "Denis Lanzanova", "Caroline Muchiri", "Keith D. Shepherd", "Todd S. Rosenstock", "Michael Krawinkel", "John R. S. Tabuti", "Eike Luedeling"]
 publication_types = ["2"]

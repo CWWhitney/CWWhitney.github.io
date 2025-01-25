@@ -1,5 +1,5 @@
 +++
-title = "Prospects of Decreasing Winter Chill in Chile throughout the 21st Century"
+title = "Prospects of decreasing winter chill in Chile throughout the 21st century"
 date = "2020-01-01"
 authors = ["Eduardo Fernandez", "Cory Whitney", "Italo F. Cuneo", "Eike Luedeling"]
 publication_types = ["2"]

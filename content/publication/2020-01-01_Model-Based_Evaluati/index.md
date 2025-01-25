@@ -1,5 +1,5 @@
 +++
-title = "Model-Based Evaluation of Management Options in Ornamental Plant Nurseries"
+title = "Model-based evaluation of management options in ornamental plant nurseries"
 date = "2020-01-01"
 authors = ["Marius Ruett", "Cory Whitney", "Eike Luedeling"]
 publication_types = ["2"]

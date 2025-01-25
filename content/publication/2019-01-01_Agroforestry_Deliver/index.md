@@ -1,5 +1,5 @@
 +++
-title = "Agroforestry Delivers a Win-Win Solution for Ecosystem Services in Sub-Saharan Africa. A Meta-Analysis"
+title = "Agroforestry delivers a win-win solution for ecosystem services in sub-Saharan Africa. A meta-analysis"
 date = "2019-01-01"
 authors = ["Shem Kuyah", "Cory Whitney", "Mattias Jonsson", "Gudeta W. Sileshi", "Ingrid Oborn", "Catherine W. Muthuri", "Eike Luedeling"]
 publication_types = ["2"]

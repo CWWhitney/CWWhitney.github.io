@@ -1,5 +1,5 @@
 +++
-title = "Assessing Expected Utility and Profitability to Support Decision-Making for Disease Control Strategies in Ornamental Heather Production"
+title = "Assessing expected utility and profitability to support decision-making for disease control strategies in ornamental heather production"
 date = "2022-01-01"
 authors = ["Marius Ruett", "Tobias Dalhaus", "Cory Whitney", "Eike Luedeling"]
 publication_types = ["2"]

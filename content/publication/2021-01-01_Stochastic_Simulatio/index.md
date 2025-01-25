@@ -1,5 +1,5 @@
 +++
-title = "Stochastic Simulation of Restoration Outcomes for a Dry Afromontane Forest Landscape in Northern Ethiopia"
+title = "Stochastic simulation of restoration outcomes for a dry afromontane forest landscape in northern Ethiopia"
 date = "2021-01-01"
 authors = ["Yvonne Tamba", "Joshua Wafula", "Cory Whitney", "Eike Luedeling", "Negusse Yigzaw", "Aklilu Negussie", "Caroline Muchiri", "Yemane Gebru", "Keith Shepherd", "Ermias Aynekulu"]
 publication_types = ["2"]

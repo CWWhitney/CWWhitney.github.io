@@ -1,5 +1,5 @@
 +++
-title = "Hyperspectral Imaging for High-Throughput Vitality Monitoring in Ornamental Plant Production"
+title = "Hyperspectral imaging for high-throughput vitality monitoring in ornamental plant production"
 date = "2022-01-01"
 authors = ["Marius Ruett", "Laura Verena Junker-Frohn", "Bastian Siegmann", "Jan Ellenberger", "Hannah Jaenicke", "Cory Whitney", "Eike Luedeling", "Peter Tiede-Arlt", "Uwe Rascher"]
 publication_types = ["2"]

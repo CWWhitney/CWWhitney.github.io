@@ -1,5 +1,5 @@
 +++
-title = "Decision Analysis of Agroforestry Options Reveals Adoption Risks for Resource-Poor Farmers"
+title = "Decision analysis of agroforestry options reveals adoption risks for resource-poor farmers"
 date = "2020-01-01"
 authors = ["Hoa Do", "Eike Luedeling", "Cory Whitney"]
 publication_types = ["2"]

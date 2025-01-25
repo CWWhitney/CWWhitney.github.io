@@ -1,5 +1,5 @@
 +++
-title = "Adapting Sweet Cherry Orchards to Extreme Weather Events – Decision Analysis in Support of Farmers' Investments in Central Chile"
+title = "Adapting sweet cherry orchards to extreme weather events – Decision Analysis in support of farmers' investments in Central Chile"
 date = "2021-01-01"
 authors = ["Gonzalo Rojas", "Eduardo Fernandez", "Cory Whitney", "Eike Luedeling", "Italo F. Cuneo"]
 publication_types = ["2"]

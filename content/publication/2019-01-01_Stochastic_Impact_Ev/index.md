@@ -1,5 +1,5 @@
 +++
-title = "Stochastic Impact Evaluation of an Irrigation Development Intervention in Northern Ethiopia"
+title = "Stochastic impact evaluation of an irrigation development intervention in Northern Ethiopia"
 date = "2019-01-01"
 authors = ["Negusse Yigzaw", "John Mburu", "Chris Ackello-Ogutu", "Cory Whitney", "Eike Luedeling"]
 publication_types = ["2"]

@@ -1,5 +1,5 @@
 +++
-title = "Ring-Widths of Abies at Tree-Line Ecotone Reveal Three Centuries of Early Winter Season Temperature Changes in Yunnan, China"
+title = "Ring-widths of Abies at tree-line ecotone reveal three centuries of early winter season temperature changes in Yunnan, China"
 date = "2020-01-01"
 authors = ["Yingfeng Bi", "Cory Whitney", "Zenxin Fan", "Jingchao Yang", "Zhikun Wu", "Wei Huang", "Jianwen Li", "Xuefei Yang"]
 publication_types = ["2"]

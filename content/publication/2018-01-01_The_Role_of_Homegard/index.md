@@ -1,5 +1,5 @@
 +++
-title = "The Role of Homegardens for Food and Nutrition Security in Uganda"
+title = "The role of homegardens for food and nutrition security in Uganda"
 date = "2018-01-01"
 authors = ["Cory Whitney", "Eike Luedeling", "Oilver Hensel", "John R. S. Tabuti", "Michael Krawinkel", "Jens Gebauer", "Katja Kehlenbeck"]
 publication_types = ["2"]

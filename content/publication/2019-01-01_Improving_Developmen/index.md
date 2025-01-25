@@ -1,5 +1,5 @@
 +++
-title = "Improving Development Efficiency through Decision Analysis: Reservoir Protection in Burkina Faso"
+title = "Improving development efficiency through decision analysis: Reservoir protection in Burkina Faso"
 date = "2019-01-01"
 authors = ["Denis Lanzanova", "Cory Whitney", "Keith Shepherd", "Eike Luedeling"]
 publication_types = ["2"]

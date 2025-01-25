@@ -1,5 +1,5 @@
 +++
-title = "Crop Modelling in Data-Poor Environments – A Knowledge-Informed Probabilistic Approach to Appreciate Risks and Uncertainties in Flood-Based Farming Systems"
+title = "Crop modelling in data-poor environments – A knowledge-informed probabilistic approach to appreciate risks and uncertainties in flood-based farming systems"
 date = "2021-01-01"
 authors = ["Issoufou Liman Harou", "Cory Whitney", "James Kung'u", "Eike Luedeling"]
 publication_types = ["2"]

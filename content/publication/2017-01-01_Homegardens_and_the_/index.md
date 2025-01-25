@@ -1,5 +1,5 @@
 +++
-title = "Homegardens and the Future of Food and Nutrition Security in Southwest Uganda"
+title = "Homegardens and the future of food and nutrition security in southwest Uganda"
 date = "2017-01-01"
 authors = ["Cory Whitney", "John R.S. Tabuti", "Oliver Hensel", "Ching-hua Yeh", "Jens Gebauer", "Eike Luedeling"]
 publication_types = ["2"]

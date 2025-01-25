@@ -1,5 +1,5 @@
 +++
-title = "Agroforestry and Reforestation with the Gold Standard-Decision Analysis of a Voluntary Carbon Offset Label"
+title = "Agroforestry and reforestation with the Gold Standard-Decision Analysis of a voluntary carbon offset label"
 date = "2022-01-01"
 authors = ["Leonie Netter", "Eike Luedeling", "Cory Whitney"]
 publication_types = ["2"]

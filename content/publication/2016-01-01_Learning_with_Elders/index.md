@@ -1,5 +1,5 @@
 +++
-title = "Learning with Elders; Human Ecology and Ethnobotany Explorations in Northern and Central Vietnam"
+title = "Learning with elders; human ecology and ethnobotany explorations in northern and central Vietnam"
 date = "2016-01-01"
 authors = ["Cory Whitney", "Sin Min Vang", "Giang Le Hong", "Vu Van Can", "Keith Barber", "Tran Thi Lanh"]
 publication_types = ["2"]

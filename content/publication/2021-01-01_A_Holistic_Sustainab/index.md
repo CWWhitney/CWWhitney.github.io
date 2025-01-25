@@ -1,5 +1,5 @@
 +++
-title = "A Holistic Sustainability Assessment of Organic (Certified and Non-Certified) and Non-Organic Smallholder Farms in Kenya"
+title = "A holistic sustainability assessment of organic (certified and non-certified) and non-organic smallholder farms in Kenya"
 date = "2021-01-01"
 authors = ["Juliet Wanjiku Kamau", "Christian Shader", "Lisa Biber-Freudenberger", "Till Stellmacher", "David Amudavi", "Jan Landert", "Johan Blockeel", "Cory Whitney", "Christian Borgemeister"]
 publication_types = ["2"]

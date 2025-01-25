@@ -1,5 +1,5 @@
 +++
-title = "Allometric Models for Aboveground Biomass Estimation of Small Trees and Shrubs in African Savanna Ecosystems"
+title = "Allometric models for aboveground biomass estimation of small trees and shrubs in African savanna ecosystems"
 date = "2023-01-01"
 authors = ["Antonia Nyamukuru", "Cory Whitney", "John R. S. Tabuti", "Josephine Esaete", "Matthew Low"]
 publication_types = ["2"]

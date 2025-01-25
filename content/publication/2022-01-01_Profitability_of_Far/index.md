@@ -1,5 +1,5 @@
 +++
-title = "Profitability of Farm-Scale Management Strategies against the Boll Weevil in the Tropics: Case Study from the Colombian Caribbean"
+title = "Profitability of farm-scale management strategies against the boll weevil in the tropics: case study from the Colombian Caribbean"
 date = "2022-01-01"
 authors = ["Oscar Burbano-Figueroa", "Alexandra Sierra-Monroy", "Cory Whitney", "Christian Borgemeister", "Eike Luedeling"]
 publication_types = ["2"]

@@ -1,5 +1,5 @@
 +++
-title = "Ethnobotany and Agrobiodiversity; Valuation of Plants in the Homegardens of Southwestern Uganda"
+title = "Ethnobotany and agrobiodiversity; valuation of plants in the homegardens of southwestern Uganda"
 date = "2018-01-01"
 authors = ["Cory Whitney", "Joseph Bahati", "J. Gebauer"]
 publication_types = ["2"]

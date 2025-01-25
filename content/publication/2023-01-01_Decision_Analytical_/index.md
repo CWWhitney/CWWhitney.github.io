@@ -1,5 +1,5 @@
 +++
-title = "Decision Analytical Methods for Assessing the Efficacy of Agroecology Interventions"
+title = "Decision analytical methods for assessing the efficacy of agroecology interventions"
 date = "2023-01-01"
 authors = ["Cory Whitney", "Lisa Biber-Freudenberger", "Eike Luedeling"]
 publication_types = ["2"]

@@ -1,5 +1,5 @@
 +++
-title = "Indigenous Communities’ Perceptions Reveal Threats and Management Options of Wild Edible Plants in Semiarid Lands of Northwestern Kenya"
+title = "Indigenous communities’ perceptions reveal threats and management options of wild edible plants in semiarid lands of northwestern Kenya"
 date = "2023-01-01"
 authors = ["Wyclife Agumba Oluoch", "Cory Whitney", "Celine Termote", "Christian Borgemeister", "Christine B. Schmitt"]
 publication_types = ["2"]

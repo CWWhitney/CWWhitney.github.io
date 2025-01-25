@@ -1,5 +1,5 @@
 +++
-title = "Farm-Planning under Risk: An Application of Decision Analysis and Portfolio Theory for the Assessment of Crop Diversification Strategies in Horticultural Systems"
+title = "Farm-planning under risk: An application of decision analysis and portfolio theory for the assessment of crop diversification strategies in horticultural systems"
 date = "2022-01-01"
 authors = ["Oscar Burbano-Figueroa", "Alexandra Sierra-Monroy", "Adriana David-Hinestroza", "Cory Whitney", "Christian Borgemeister", "Eike Luedeling"]
 publication_types = ["2"]
