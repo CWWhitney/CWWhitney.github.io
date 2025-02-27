@@ -19,8 +19,8 @@
   weight = 60
   
 [[main]]
-name = "Forestrun"
-url = "forestrun/"
+name = "Running"
+url = "running/"
 weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
