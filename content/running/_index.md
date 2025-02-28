@@ -10,7 +10,7 @@ layout: "single"
 Follow my latest runs and races:
 
 ### 📈 **My Strava Activity**
-🚴 Want to see where I'm running? Here's my latest Strava activity:
+Want to see where I'm running? Here's my latest Strava activity:
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/22697310'></iframe>
 

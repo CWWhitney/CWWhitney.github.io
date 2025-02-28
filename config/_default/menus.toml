@@ -19,9 +19,14 @@
   weight = 60
   
 [[main]]
+name = "Programming"
+url = "programming/"
+weight = 70
+  
+[[main]]
 name = "Running"
 url = "running/"
-weight = 70
+weight = 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
