@@ -1,5 +1,5 @@
 ---
-title: "Forestrun"
+title: "Running"
 summary: "Running, racing, and training."
 type: "page"
 layout: "single"
