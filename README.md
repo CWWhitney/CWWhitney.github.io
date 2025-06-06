@@ -6,20 +6,18 @@ Please visit [my website](https://cory-whitney.com/).
 
 | Quick Links                                                                                                                                               |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**ORCID: 0000-0003-4988-4583**](https://orcid.org/0000-0003-4988-4583)                                                                                |
-| [**Twitter @human_ecologist**](https://twitter.com/human_ecologist)                                                                                       |
+| [**ORCID: 0000-0003-4988-4583**](https://orcid.org/0000-0003-4988-4583)                                                                                |                                                                                     |
 | [**Scholar**](https://scholar.google.de/citations?user=YPIcAA4AAAAJ&hl=en) |
 | [**ResearchGate**](https://www.researchgate.net/profile/Cory_Whitney)                                                                                   |
 | [**Academia.edu**](https://bonn.academia.edu/CoryWhitney)                                          |
 | [**LinkedIn**](https://www.linkedin.com/in/corywhitney/?originalSubdomain=de) |
-| [**Center for Development Research (ZEF)**](https://www.zef.de/index.php?id=2232&tx_zefportal_staff[ref]=2252&tx_zefportal_staff[uid]=1799&no_cache=1) |
-| [**University of Bonn**](https://www.gartenbauwissenschaft.uni-bonn.de/department/contact/cory-whitney/cory-whitney-en) |
-| [**The World Agroforestry Centre (ICRAF)**](https://apps.worldagroforestry.org/staff/cory-whitney) 
+| [**Center for Development Research (ZEF)**](https://www.zef.de/index.php?id=2232&tx_zefportal_staff_info[ref]=2252&tx_zefportal_staff_info[uid]=1799&tx_zefportal_staff_profile[uid]=1799&no_cache=1) |
+| [**University of Bonn**](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/cory-whitney) |
 | [Cory Whitney website](https://cory-whitney.com/) |
 
 # bib files are in content/publication with bibtex_2academic.R
 
-Run the site with these:
+Run the site with these from `blogdown`, `RefManageR` and `anytime` libraries:
 
 - use the bib file
 source("content/publication/bibtex_2academic.R")
