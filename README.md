@@ -15,12 +15,12 @@ Please visit [my website](https://cory-whitney.com/).
 | [**University of Bonn**](https://www.gartenbauwissenschaften.uni-bonn.de/en/staff/cory-whitney) |
 | [Cory Whitney website](https://cory-whitney.com/) |
 
-# bib files are in content/publication with bibtex_2academic.R
 
-Run the site with these from `blogdown`, `RefManageR` and `anytime` libraries:
+Run the site with these from `blogdown`, `RefManageR` and `anytime` libraries with `bibtex_2academic.R`: 
 
 - use the bib file
-source("content/publication/bibtex_2academic.R")
+move latest bib files to content/publication and run
+`source("content/publication/bibtex_2academic.R")`
 
 - see the site locally
 blogdown::serve_site()
