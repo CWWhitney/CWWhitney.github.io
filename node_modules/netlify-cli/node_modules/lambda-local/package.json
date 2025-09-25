@@ -1,7 +1,7 @@
 {
   "name": "lambda-local",
-  "version": "2.1.2",
-  "description": "Commandline tool to run Lambda functions on your local machine.",
+  "version": "2.2.0",
+  "description": "Commandline tool and API to run Lambda functions on your local machine.",
   "main": "build/lambdalocal.js",
   "types": "build/lambdalocal.d.ts",
   "bin": {
