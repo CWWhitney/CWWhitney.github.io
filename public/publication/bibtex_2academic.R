@@ -1,6 +1,6 @@
 # The function: bibtex_2academic from 
 # http://www.pik-potsdam.de/~pichler/blog/post/set-this-up/setting-up-this-site/
-# Run this whole file with
+# Run with
 # source("content/publication/bibtex_2academic.R")
 # serve with
 # blogdown::serve_site()
@@ -158,7 +158,7 @@ bibtex_2academic <- function(bibfile,
 
 
 # Running the function for publications
-# source("content/publication/bibtex_2academic.R")
+
 my_bibfile <- "content/publication/papers.bib"
 out_fold   <- "content/publication"
 bibtex_2academic(
