@@ -24,8 +24,8 @@ url = "programming/"
 weight = 70
   
 [[main]]
-name = "Running"
-url = "running/"
+name = "Teaching"
+url = "teaching/"
 weight = 80
 
 # Link to a PDF of your resume/CV from the menu.
