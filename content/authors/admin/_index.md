@@ -46,9 +46,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/human_ecologist
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.de/citations?user=YPIcAA4AAAAJ&hl
@@ -73,4 +70,4 @@ email: "cory@cory-whitney.com"
 highlight_name: false
 ---
 
-I am a human ecologist building probabilistic models to de-risk agricultural choices for smallholder farmers and the organizations that support them. I apply transdisciplinary approaches to translate complex, localized knowledge—from indigenous communities to government planners—into systems understanding of decision problems and actionable forecasts to support them. Using Bayesian networks and Monte Carlo simulations, I quantify synergies and trade-offs in development interventions, pinpointing strategies that boost food security and income while minimizing social and environmental risks.
+My research tackles a core problem in sustainable development: well-intentioned policies often fail because they overlook local reality and deep uncertainty. As a human ecologist, I bridge this gap by co-developing probabilistic decision models with stakeholders — from smallholder farmers to policymakers — to embed their lived experience directly into the analysis. My focus is on practical tools. I use Bayesian networks and Monte Carlo simulations to quantify the trade-offs of agricultural interventions, identify leverage points, and pinpoint strategies that are robust, resilient, and equitable. The ultimate goal is to replace best guesses with informed confidence for the communities most affected by these decisions.
