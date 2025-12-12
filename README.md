@@ -18,7 +18,7 @@ Please visit [my website](https://cory-whitney.com/).
 
 Run the site with these from `blogdown`, `RefManageR` and `anytime` libraries with `bibtex_2academic.R`: 
 
-- use the bib file
+- use the bib file (BibTeX only)
 move latest bib files to content/publication and run
 `source("content/publication/bibtex_2academic.R")`
 
