@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Cory Whitney</title>
-    <link>/categories/</link>
-      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/categories/</link>
+      <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>/images/icon_hu_d686267daab28486.png</url>
+      <url>//localhost:1313/images/icon_hu_d686267daab28486.png</url>
       <title>Categories</title>
-      <link>/categories/</link>
+      <link>//localhost:1313/categories/</link>
     </image>
     
   </channel>

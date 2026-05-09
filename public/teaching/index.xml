@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching | Cory Whitney</title>
-    <link>/teaching/</link>
-      <atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/teaching/</link>
+      <atom:link href="//localhost:1313/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>/images/icon_hu_d686267daab28486.png</url>
+      <url>//localhost:1313/images/icon_hu_d686267daab28486.png</url>
       <title>Teaching</title>
-      <link>/teaching/</link>
+      <link>//localhost:1313/teaching/</link>
     </image>
     
   </channel>
