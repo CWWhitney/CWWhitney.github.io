@@ -2,7 +2,6 @@
 title: "Programming"
 summary: "Resources and tutorials on R programming, decision modeling, and more."
 type: "page"
-layout: "single"
 ---
 
 ## Contents
