@@ -29,3 +29,6 @@ rsconnect/
 
 # Local Netlify folder
 .netlify
+
+# Node dependencies
+node_modules/
