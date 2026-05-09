@@ -19,11 +19,6 @@
   weight = 60
   
 [[main]]
-name = "Blog"
-url = "post/"
-weight = 65
-
-[[main]]
 name = "Programming"
 url = "programming/"
 weight = 70
