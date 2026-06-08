@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Cory Whitney</title>
-    <link>/event/</link>
-      <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/event/</link>
+      <atom:link href="//localhost:1313/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu_d686267daab28486.png</url>
+      <url>//localhost:1313/images/icon_hu_d686267daab28486.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/event/</link>
+      <link>//localhost:1313/event/</link>
     </image>
     
     <item>
       <title>Assessing agroforestry options for sustainable land use in Germany</title>
-      <link>/talk/assessing-agroforestry-options-for-sustainable-land-use-in-germany/</link>
+      <link>//localhost:1313/talk/assessing-agroforestry-options-for-sustainable-land-use-in-germany/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/talk/assessing-agroforestry-options-for-sustainable-land-use-in-germany/</guid>
+      <guid>//localhost:1313/talk/assessing-agroforestry-options-for-sustainable-land-use-in-germany/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
