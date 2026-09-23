@@ -19,7 +19,7 @@ date: "2015-01-01T00:00:00Z"
 publishDate: "2015-01-01T00:00:00Z"
 
 authors: ["Cory Whitney", "Joseph Bahati", "Jens Gebauer"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

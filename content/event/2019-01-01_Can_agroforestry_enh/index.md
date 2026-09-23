@@ -19,7 +19,7 @@ date: "2019-01-01T00:00:00Z"
 publishDate: "2019-01-01T00:00:00Z"
 
 authors: ["S Kuyah", "C Whitney", "M Jonsson", "G Sileshi", "I Oborn", "C Muthuri", "E Luedeling"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

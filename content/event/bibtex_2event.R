@@ -40,6 +40,10 @@ bibtex_2event <- function(bibfile,
   # about a talk/conference contribution
   create_md <- function(x) {
 
+    # bib fields such as "address"/"booktitle"/"abstract"/"url" are absent
+    # entirely (not just NA) from x when no entry in the whole file has them
+    get_field <- function(field) if (field %in% names(x)) x[[field]] else NA
+
     # define a date and create filename by appending date and start of title
     if (!is.na(x[["year"]])) {
       x[["date"]] <- paste0(x[["year"]], "-01-01")
@@ -63,8 +67,8 @@ bibtex_2event <- function(bibfile,
       # Title (of the talk/paper) and conference/event name
       write(paste0("title: ", x[["title"]]), fileConn, append = T)
       write("", fileConn, append = T)
-      if (!is.na(x[["booktitle"]])) {
-        write(paste0("event: ", x[["booktitle"]]), fileConn, append = T)
+      if (!is.na(get_field("booktitle"))) {
+        write(paste0("event: ", get_field("booktitle")), fileConn, append = T)
       } else {
         write("event: \"\"", fileConn, append = T)
       }
@@ -72,8 +76,8 @@ bibtex_2event <- function(bibfile,
       write("", fileConn, append = T)
 
       # Location. Kept as a single free-text field; address sub-fields left blank.
-      if (!is.na(x[["address"]])) {
-        write(paste0("location: ", x[["address"]]), fileConn, append = T)
+      if (!is.na(get_field("address"))) {
+        write(paste0("location: ", get_field("address")), fileConn, append = T)
       } else {
         write("location: \"\"", fileConn, append = T)
       }
@@ -86,8 +90,8 @@ bibtex_2event <- function(bibfile,
       write("", fileConn, append = T)
 
       write(paste0("summary: ", x[["title"]]), fileConn, append = T)
-      if (abstract & !is.na(x[["abstract"]])) {
-        write(paste0("abstract: \"", x[["abstract"]], "\""), fileConn, append = T)
+      if (abstract & !is.na(get_field("abstract"))) {
+        write(paste0("abstract: \"", get_field("abstract"), "\""), fileConn, append = T)
       } else {
         write("abstract: \"\"", fileConn, append = T)
       }
@@ -113,7 +117,7 @@ bibtex_2event <- function(bibfile,
       write("", fileConn, append = T)
 
       write("links: []", fileConn, append = T)
-      write(paste0("url_pdf: \"", ifelse(is.na(x[["url"]]), "", x[["url"]]), "\""), fileConn, append = T)
+      write(paste0("url_pdf: \"", ifelse(is.na(get_field("url")), "", get_field("url")), "\""), fileConn, append = T)
       write("url_code: \"\"", fileConn, append = T)
       write("url_slides: \"\"", fileConn, append = T)
       write("url_video: \"\"", fileConn, append = T)

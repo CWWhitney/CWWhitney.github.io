@@ -19,7 +19,7 @@ date: "2022-01-01T00:00:00Z"
 publishDate: "2022-01-01T00:00:00Z"
 
 authors: ["Eike Luedeling", "Katja Schiffers", "Hoa Do", "Leonie Netter", "Frederik Kuhl", "Cory Whitney"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

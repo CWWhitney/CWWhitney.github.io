@@ -19,7 +19,7 @@ date: "2021-01-01T00:00:00Z"
 publishDate: "2021-01-01T00:00:00Z"
 
 authors: ["K. Schiffers", "C. Urbach", "E. Fernandez", "Cory Whitney", "E. Fadon", "E. Luedeling"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

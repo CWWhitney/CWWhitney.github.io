@@ -19,7 +19,7 @@ date: "2023-01-01T00:00:00Z"
 publishDate: "2023-01-01T00:00:00Z"
 
 authors: ["Kien Dang", "Thi Thu Giang Luu", "Simone Kathrin Kriesemer", "Hung Pham-Van", "Bui Thi Khanh Hoa", "Dung Pham-Van", "Eike Luedeling", "Cory Whitney"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

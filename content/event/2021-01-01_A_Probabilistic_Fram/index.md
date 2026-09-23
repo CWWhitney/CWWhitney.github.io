@@ -19,7 +19,7 @@ date: "2021-01-01T00:00:00Z"
 publishDate: "2021-01-01T00:00:00Z"
 
 authors: ["Yvonne Tamba", "Cory Whitney", "Eike Luedeling", "Keith Shepherd", "Ermias Aynekulu", "Aklilu Negussie", "Negusse Yigzaw", "Joshua Wafula", "Yemane Gebru", "Caroline Muchiri"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

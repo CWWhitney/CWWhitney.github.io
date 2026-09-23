@@ -19,7 +19,7 @@ date: "2024-01-01T00:00:00Z"
 publishDate: "2024-01-01T00:00:00Z"
 
 authors: ["Sau Nguyen", "Thi Tan Loc Nguyen", "Simone Kathrin Kriesemer", "Thi Thu Giang Luu", "Cory Whitney"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

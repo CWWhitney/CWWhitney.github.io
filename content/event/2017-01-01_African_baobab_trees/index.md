@@ -19,7 +19,7 @@ date: "2017-01-01T00:00:00Z"
 publishDate: "2017-01-01T00:00:00Z"
 
 authors: ["J Gebauer", "Cory Whitney", "John R. S. Tabuti"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

@@ -19,7 +19,7 @@ date: "2026-01-01T00:00:00Z"
 publishDate: "2026-01-01T00:00:00Z"
 
 authors: ["Tesfaye Berhanu Woldeyohanes", "Cory Whitney", "Ermias Aynekulu"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

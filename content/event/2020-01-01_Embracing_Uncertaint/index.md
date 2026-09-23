@@ -19,7 +19,7 @@ date: "2020-01-01T00:00:00Z"
 publishDate: "2020-01-01T00:00:00Z"
 
 authors: ["Gonzalo Rojas", "Eduardo Fernandez", "Cory Whitney", "Eike Luedeling", "Italo Cuneo"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

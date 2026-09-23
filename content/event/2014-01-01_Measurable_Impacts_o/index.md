@@ -19,7 +19,7 @@ date: "2014-01-01T00:00:00Z"
 publishDate: "2014-01-01T00:00:00Z"
 
 authors: ["Cory Whitney", "K den Braber", "N Tu Tuyet", "S Thorndal Jorgensen"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

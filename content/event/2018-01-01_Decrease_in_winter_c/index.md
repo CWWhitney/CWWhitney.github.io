@@ -19,7 +19,7 @@ date: "2018-01-01T00:00:00Z"
 publishDate: "2018-01-01T00:00:00Z"
 
 authors: ["E. Luedeling", "E. Fernandez", "Cory Whitney"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

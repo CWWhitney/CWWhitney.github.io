@@ -19,7 +19,7 @@ date: "2019-01-01T00:00:00Z"
 publishDate: "2019-01-01T00:00:00Z"
 
 authors: ["Su Myat Thwe", "Lukas Pawera", "Cory Whitney", "Zbynek Polesny"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

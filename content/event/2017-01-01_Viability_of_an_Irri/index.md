@@ -19,7 +19,7 @@ date: "2017-01-01T00:00:00Z"
 publishDate: "2017-01-01T00:00:00Z"
 
 authors: ["Negusse Yigzaw", "Cory Whitney", "Chris-Ackello Ogutu", "John Mburu", "Eike Luedeling"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

@@ -19,7 +19,7 @@ date: "2016-01-01T00:00:00Z"
 publishDate: "2016-01-01T00:00:00Z"
 
 authors: ["Cory Whitney", "Eike Luedeling", "J Gebauer", "Nyamukuru A", "John R. S. Tabuti", "K Kehlenbeck"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

@@ -19,7 +19,7 @@ date: "2017-01-01T00:00:00Z"
 publishDate: "2017-01-01T00:00:00Z"
 
 authors: ["Eike Luedeling", "Cory Whitney", "Todd Rosenstock", "Keith Shepherd"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

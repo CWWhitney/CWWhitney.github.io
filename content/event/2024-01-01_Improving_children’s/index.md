@@ -19,7 +19,7 @@ date: "2024-01-01T00:00:00Z"
 publishDate: "2024-01-01T00:00:00Z"
 
 authors: ["Thi Kim Anh Dinh", "Quoc Toan Luu", "Simone Kathrin Kriesemer", "Cory Whitney", "Thi Thu Giang Luu"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

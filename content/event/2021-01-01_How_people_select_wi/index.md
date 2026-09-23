@@ -19,7 +19,7 @@ date: "2021-01-01T00:00:00Z"
 publishDate: "2021-01-01T00:00:00Z"
 
 authors: ["Yao Fu", "Xi Yinxian", "Aye Mya Mon", "Yang Xuefei", "Cory Whitney"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

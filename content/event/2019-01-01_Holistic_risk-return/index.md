@@ -19,7 +19,7 @@ date: "2019-01-01T00:00:00Z"
 publishDate: "2019-01-01T00:00:00Z"
 
 authors: ["K Shepherd", "E Luedeling", "C Whitney", "C Muchiri", "Y Tamba"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

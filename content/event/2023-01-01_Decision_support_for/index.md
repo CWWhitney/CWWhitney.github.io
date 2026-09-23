@@ -19,7 +19,7 @@ date: "2023-01-01T00:00:00Z"
 publishDate: "2023-01-01T00:00:00Z"
 
 authors: ["Christine Schmitz", "Lars Zimmermann", "Cory Whitney", "Martin Balmer", "Eike Luedeling "]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

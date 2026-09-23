@@ -19,7 +19,7 @@ date: "2025-01-01T00:00:00Z"
 publishDate: "2025-01-01T00:00:00Z"
 
 authors: ["Cory Whitney", "Johannes Kopton", "Eike Luedeling", "Thi Giang Luu"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

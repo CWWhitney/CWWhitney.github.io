@@ -19,7 +19,7 @@ date: "2020-01-01T00:00:00Z"
 publishDate: "2020-01-01T00:00:00Z"
 
 authors: ["Leonie Netter", "Eike Luedeling", "Cory Whitney"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

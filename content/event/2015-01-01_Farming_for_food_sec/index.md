@@ -19,7 +19,7 @@ date: "2015-01-01T00:00:00Z"
 publishDate: "2015-01-01T00:00:00Z"
 
 authors: ["C. Whitney", "Jens Gebauer", "Joseph Bahati", "Eike Luedeling"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

@@ -19,7 +19,7 @@ date: "2024-01-01T00:00:00Z"
 publishDate: "2024-01-01T00:00:00Z"
 
 authors: ["Dorcas Sanginga Alame", "Cory Whitney", "Peter Asare-Nuamah", "Janina Dierks", "Eike Luedeling"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

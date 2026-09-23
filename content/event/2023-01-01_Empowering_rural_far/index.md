@@ -19,7 +19,7 @@ date: "2023-01-01T00:00:00Z"
 publishDate: "2023-01-01T00:00:00Z"
 
 authors: ["Alexandra P C Krause", "Eike Luedeling", "Cory Whitney"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

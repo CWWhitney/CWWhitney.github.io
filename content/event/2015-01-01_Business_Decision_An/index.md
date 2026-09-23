@@ -19,7 +19,7 @@ date: "2015-01-01T00:00:00Z"
 publishDate: "2015-01-01T00:00:00Z"
 
 authors: ["Eike Luedeling", "Jan de Leeuw", "Christine Lamanna", "Todd Rosenstock", "Cory Whitney", "Keith Shepherd"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

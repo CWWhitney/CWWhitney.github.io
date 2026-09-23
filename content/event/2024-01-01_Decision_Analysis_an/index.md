@@ -19,7 +19,7 @@ date: "2024-01-01T00:00:00Z"
 publishDate: "2024-01-01T00:00:00Z"
 
 authors: ["Lucas Hoffmann", "Kasargodu Anebagilu Prajna", "Luedeling Eike", "Cory Whitney"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

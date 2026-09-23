@@ -19,7 +19,7 @@ date: "2025-01-01T00:00:00Z"
 publishDate: "2025-01-01T00:00:00Z"
 
 authors: ["Kien Dang", "Cory Whitney"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

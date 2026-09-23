@@ -19,7 +19,7 @@ date: "2024-01-01T00:00:00Z"
 publishDate: "2024-01-01T00:00:00Z"
 
 authors: ["Denise Margaret Matias", "Augustin Vial", "Cory Whitney", "Bryan Joel Mariano"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

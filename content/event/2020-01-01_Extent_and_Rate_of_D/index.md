@@ -19,7 +19,7 @@ date: "2020-01-01T00:00:00Z"
 publishDate: "2020-01-01T00:00:00Z"
 
 authors: ["Fatuma Mutesi", "David Mfitumukiza", "Cory Whitney", "John Robert Stephen Tabuti"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

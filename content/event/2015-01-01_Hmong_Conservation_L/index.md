@@ -19,7 +19,7 @@ date: "2015-01-01T00:00:00Z"
 publishDate: "2015-01-01T00:00:00Z"
 
 authors: ["Cory Whitney", "Min (Meej Vaj) Vang Sin", "Giang Le Hong", "Can Vu Van", "Keith Barber", "Lanh Tran Thi"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

@@ -19,7 +19,7 @@ date: "2024-01-01T00:00:00Z"
 publishDate: "2024-01-01T00:00:00Z"
 
 authors: ["Cory Whitney", "Thi Thu Giang Luu", "Bui Thi Khanh Hoa", "Pham-Van Hung", "Lisa Biber-Freudenberger", "Simone Kathrin Kriesemer", "Eike Luedeling"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

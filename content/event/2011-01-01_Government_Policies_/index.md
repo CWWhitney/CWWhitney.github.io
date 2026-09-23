@@ -19,7 +19,7 @@ date: "2011-01-01T00:00:00Z"
 publishDate: "2011-01-01T00:00:00Z"
 
 authors: ["Jeung Hyoung Lee", "Hyun Sun DiMatteo Jo", "Susanne Padel", "Robert Anderson", "Marco Schluter", "Francis Blake", "Katsushige Murayama", "Vitoon R. Panyakul", "Chang Gil Kim", "Manoj Kumar Menon", "Xiao Xingii", "Thimmaiah Appachanda", "Yoshiaki Watanabe", "Tim Marshall", "Sophia Twarog", "Jin Ha Kim", "Moses Muwanga", "Roberto Ugas", "Koen den Braber"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

@@ -19,7 +19,7 @@ date: "2023-01-01T00:00:00Z"
 publishDate: "2023-01-01T00:00:00Z"
 
 authors: ["Ha L T Nguyen", "Lisa Biber-Freudenberger", "Simone Kathrin Kriesemer", "Eike Luedeling", "Swe Zin Moe", "Bui Thi Khanh Hoa", "Thi Sau Nguyen", "Thi Thu Giang Luu", "Cory Whitney"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

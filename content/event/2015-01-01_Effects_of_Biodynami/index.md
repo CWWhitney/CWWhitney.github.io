@@ -19,7 +19,7 @@ date: "2015-01-01T00:00:00Z"
 publishDate: "2015-01-01T00:00:00Z"
 
 authors: ["E. Han", "Cory Whitney", "W. Niether", "W. Nelson", "T. Baars"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

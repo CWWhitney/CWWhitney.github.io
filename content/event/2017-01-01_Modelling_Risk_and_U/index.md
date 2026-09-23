@@ -19,7 +19,7 @@ date: "2017-01-01T00:00:00Z"
 publishDate: "2017-01-01T00:00:00Z"
 
 authors: ["Issoufou Liman Harou", "Cory Whitney", "James Kungu", "Eike Luedeling"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

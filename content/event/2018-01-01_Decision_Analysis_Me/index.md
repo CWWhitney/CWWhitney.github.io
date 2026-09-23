@@ -19,7 +19,7 @@ date: "2018-01-01T00:00:00Z"
 publishDate: "2018-01-01T00:00:00Z"
 
 authors: ["C Whitney", "K Shepherd", "E Luedeling"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

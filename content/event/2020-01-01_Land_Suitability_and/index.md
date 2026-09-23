@@ -19,7 +19,7 @@ date: "2020-01-01T00:00:00Z"
 publishDate: "2020-01-01T00:00:00Z"
 
 authors: ["Angella Kyobutungi", "Jimmy Obala", "Ellen Kayendeke", "Vincent Muwanika", "John Robert Stephen Tabuti"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

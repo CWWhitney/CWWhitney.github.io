@@ -19,7 +19,7 @@ date: "2024-01-01T00:00:00Z"
 publishDate: "2024-01-01T00:00:00Z"
 
 authors: ["Hannah Kamau", "Cory Whitney", "Eike Luedeling", "Lisa Biber-Freudenberger"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

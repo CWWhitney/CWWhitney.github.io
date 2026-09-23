@@ -19,7 +19,7 @@ date: "2022-01-01T00:00:00Z"
 publishDate: "2022-01-01T00:00:00Z"
 
 authors: ["Cory Whitney", "Frederik Kuhl", "Katja Schiffers", "Eike Luedeling"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

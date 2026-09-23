@@ -19,7 +19,7 @@ date: "2018-01-01T00:00:00Z"
 publishDate: "2018-01-01T00:00:00Z"
 
 authors: ["Cory Whitney", "Keith Shepherd", "Michael Krawinkel", "Denis Lanzanova", "Eike Luedeling"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

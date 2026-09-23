@@ -19,7 +19,7 @@ date: "2025-01-01T00:00:00Z"
 publishDate: "2025-01-01T00:00:00Z"
 
 authors: ["Cory Whitney", "Kim-Anh Do", "Thi Thu Giang Luu"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

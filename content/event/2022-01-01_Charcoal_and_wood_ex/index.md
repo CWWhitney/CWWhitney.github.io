@@ -19,7 +19,7 @@ date: "2022-01-01T00:00:00Z"
 publishDate: "2022-01-01T00:00:00Z"
 
 authors: ["John R. S. Tabuti", "Cory Whitney", "David Mfitumukiza", "Anke Barahukwa", "Derik Kisegu", "Fatuma Mutesi"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

@@ -19,7 +19,7 @@ date: "2023-01-01T00:00:00Z"
 publishDate: "2023-01-01T00:00:00Z"
 
 authors: ["Z. Heuschkel", "C.W. Whitney", "E. Luedeling"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

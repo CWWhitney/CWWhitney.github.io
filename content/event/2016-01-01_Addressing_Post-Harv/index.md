@@ -19,7 +19,7 @@ date: "2016-01-01T00:00:00Z"
 publishDate: "2016-01-01T00:00:00Z"
 
 authors: ["C. Whitney", "E. Mukiibi", "Carolyne Nakaketo", "J. Gebauer", "A. M. Rietveld", "K. Kehlenbeck"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

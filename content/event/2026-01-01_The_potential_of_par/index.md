@@ -19,7 +19,7 @@ date: "2026-01-01T00:00:00Z"
 publishDate: "2026-01-01T00:00:00Z"
 
 authors: ["Anna Kullmer Matas", "Cory Whitney"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

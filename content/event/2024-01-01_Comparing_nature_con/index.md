@@ -19,7 +19,7 @@ date: "2024-01-01T00:00:00Z"
 publishDate: "2024-01-01T00:00:00Z"
 
 authors: ["Lisa Biber-Freudenberger", "Juliet Wanjiku Kamau", "Cory W. Whitney", "B. Mattson"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

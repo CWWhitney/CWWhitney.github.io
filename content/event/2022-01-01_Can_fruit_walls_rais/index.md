@@ -19,7 +19,7 @@ date: "2022-01-01T00:00:00Z"
 publishDate: "2022-01-01T00:00:00Z"
 
 authors: ["Lars Zimmermann", "Cory Whitney", "Eike Luedeling", "Martin Balmer"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

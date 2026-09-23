@@ -19,7 +19,7 @@ date: "2025-01-01T00:00:00Z"
 publishDate: "2025-01-01T00:00:00Z"
 
 authors: ["Prajna Kasargodu Anebagilu", "Simon Swatek", "Marcos Martinez Jimenez", "Andrew Marcil", "Cory Whitney", "Eike Luedeling"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

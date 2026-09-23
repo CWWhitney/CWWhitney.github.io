@@ -19,7 +19,7 @@ date: "2025-01-01T00:00:00Z"
 publishDate: "2025-01-01T00:00:00Z"
 
 authors: ["Thi Sau Nguyen", "Thi Thu Giang Luu", "Lars Caspersen", "Thi Tan Loc Nguyen", "Simone Kathrin Kriesemer", "Cory Whitney"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 

@@ -19,7 +19,7 @@ date: "2024-01-01T00:00:00Z"
 publishDate: "2024-01-01T00:00:00Z"
 
 authors: ["Bui Thi Khanh Hoa", "Pham-Van Hung", "Simone Kathrin Kriesemer", "Thi Giang Luu", "Cory Whitney"]
-tags: []
+tags: ["Conference"]
 
 featured: false
 
