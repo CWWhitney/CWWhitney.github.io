@@ -5,12 +5,20 @@
     <link>//localhost:1313/tag/invited-talk/</link>
       <atom:link href="//localhost:1313/tag/invited-talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Invited Talk</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/images/icon_hu_d686267daab28486.png</url>
       <title>Invited Talk</title>
       <link>//localhost:1313/tag/invited-talk/</link>
     </image>
+    
+    <item>
+      <title>Sino-Europe Young Leadership in Bioeconomy: Mountain Futures Summer School</title>
+      <link>//localhost:1313/talk/sino-europe-young-leadership-in-bioeconomy-mountain-futures-summer-school/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/talk/sino-europe-young-leadership-in-bioeconomy-mountain-futures-summer-school/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Academic Writing</title>

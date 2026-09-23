@@ -41,6 +41,9 @@
     <loc>//localhost:1313/publication/2026-01-01_determinants_of_pige/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tag/invited-talk/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/publication_types/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -54,6 +57,9 @@
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/publication/2026-01-01_school_food_environm/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/talk/sino-europe-young-leadership-in-bioeconomy-mountain-futures-summer-school/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/talk/the-potential-of-participatory-approaches-in-school-based-prevention-of-non-communicable-diseases-in-mexico/</loc>
@@ -279,9 +285,6 @@
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/publication/2022-01-01_integrated_participa/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tag/invited-talk/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/publication/2022-01-01_limitations_of_using/</loc>
