@@ -1,7 +1,7 @@
 ---
-title: Advanced Scientific Writing and Communication
+title: "Advanced Scientific Writing and Communication"
 
-event: Department of Horticultural Sciences / ARTS Masters programs, INRES, University of Bonn, Germany
+event: "Department of Horticultural Sciences / ARTS Masters programs, INRES, University of Bonn, Germany"
 event_url: ""
 
 location: ""
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Advanced Scientific Writing and Communication
+summary: "Advanced Scientific Writing and Communication"
 abstract: ""
 
 date: "2018-01-01T00:00:00Z"

@@ -1,10 +1,10 @@
 ---
-title: Modelling agricultural realities to support development decisions
+title: "Modelling agricultural realities to support development decisions"
 
-event: Tropentag Bonn: Future Agriculture: Socio-ecological transitions and bio-cultural shifts
+event: "Tropentag Bonn: Future Agriculture: Socio-ecological transitions and bio-cultural shifts"
 event_url: ""
 
-location: Bonn, Germany
+location: "Bonn, Germany"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Modelling agricultural realities to support development decisions
+summary: "Modelling agricultural realities to support development decisions"
 abstract: ""
 
 date: "2017-01-01T00:00:00Z"

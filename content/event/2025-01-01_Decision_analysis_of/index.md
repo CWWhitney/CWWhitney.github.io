@@ -1,7 +1,7 @@
 ---
-title: Decision analysis of the transition from rice to vegetables in upland areas of Indonesia
+title: "Decision analysis of the transition from rice to vegetables in upland areas of Indonesia"
 
-event: Tropentag: Reconcile land system changes with planetary health
+event: "Tropentag: Reconcile land system changes with planetary health"
 event_url: ""
 
 location: ""
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Decision analysis of the transition from rice to vegetables in upland areas of Indonesia
+summary: "Decision analysis of the transition from rice to vegetables in upland areas of Indonesia"
 abstract: ""
 
 date: "2025-01-01T00:00:00Z"

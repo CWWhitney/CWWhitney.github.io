@@ -1,10 +1,10 @@
 ---
-title: Addressing Post-Harvest Losses During Traditional Banana Fermentation for Increased Food Security in Southwest Uganda
+title: "Addressing Post-Harvest Losses During Traditional Banana Fermentation for Increased Food Security in Southwest Uganda"
 
-event: Tropentag 2016: Solidarity in a competing world - fair use of resources
+event: "Tropentag 2016: Solidarity in a competing world - fair use of resources"
 event_url: ""
 
-location: Vienna, Austria
+location: "Vienna, Austria"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Addressing Post-Harvest Losses During Traditional Banana Fermentation for Increased Food Security in Southwest Uganda
+summary: "Addressing Post-Harvest Losses During Traditional Banana Fermentation for Increased Food Security in Southwest Uganda"
 abstract: ""
 
 date: "2016-01-01T00:00:00Z"

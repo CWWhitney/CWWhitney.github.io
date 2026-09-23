@@ -1,10 +1,10 @@
 ---
-title: A Decision Analysis Approach for Optimizing School Garden Interventions - Addressing Child Health, Biodiversity, and Economic Outcomes
+title: "A Decision Analysis Approach for Optimizing School Garden Interventions - Addressing Child Health, Biodiversity, and Economic Outcomes"
 
-event: 8th International BioSC Symposium
+event: "8th International BioSC Symposium"
 event_url: ""
 
-location: Bonn, Germany
+location: "Bonn, Germany"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: A Decision Analysis Approach for Optimizing School Garden Interventions - Addressing Child Health, Biodiversity, and Economic Outcomes
+summary: "A Decision Analysis Approach for Optimizing School Garden Interventions - Addressing Child Health, Biodiversity, and Economic Outcomes"
 abstract: ""
 
 date: "2025-01-01T00:00:00Z"

@@ -1,10 +1,10 @@
 ---
-title: Agrobiodiversity of Homegardens in Pyay District, Myanmar
+title: "Agrobiodiversity of Homegardens in Pyay District, Myanmar"
 
-event: Tropentag 2019: International Research on Food Security, Natural Resource Management and Rural Development
+event: "Tropentag 2019: International Research on Food Security, Natural Resource Management and Rural Development"
 event_url: ""
 
-location: Goettingen, Germany
+location: "Goettingen, Germany"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Agrobiodiversity of Homegardens in Pyay District, Myanmar
+summary: "Agrobiodiversity of Homegardens in Pyay District, Myanmar"
 abstract: ""
 
 date: "2019-01-01T00:00:00Z"

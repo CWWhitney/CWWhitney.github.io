@@ -1,10 +1,10 @@
 ---
-title: Supporting agroforestry innovations with holistic, decision-focused modeling
+title: "Supporting agroforestry innovations with holistic, decision-focused modeling"
 
-event: 5th World Congress on Agroforestry
+event: "5th World Congress on Agroforestry"
 event_url: ""
 
-location: Quebec City, Canada
+location: "Quebec City, Canada"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Supporting agroforestry innovations with holistic, decision-focused modeling
+summary: "Supporting agroforestry innovations with holistic, decision-focused modeling"
 abstract: ""
 
 date: "2022-01-01T00:00:00Z"

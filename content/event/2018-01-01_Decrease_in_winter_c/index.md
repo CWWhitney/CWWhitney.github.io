@@ -1,10 +1,10 @@
 ---
-title: Decrease in winter chill availability in Chile by the end of 21st century due to climate change
+title: "Decrease in winter chill availability in Chile by the end of 21st century due to climate change"
 
-event: Sixth Plant Dormancy Symposium
+event: "Sixth Plant Dormancy Symposium"
 event_url: ""
 
-location: Japan
+location: "Japan"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Decrease in winter chill availability in Chile by the end of 21st century due to climate change
+summary: "Decrease in winter chill availability in Chile by the end of 21st century due to climate change"
 abstract: ""
 
 date: "2018-01-01T00:00:00Z"

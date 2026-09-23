@@ -1,7 +1,7 @@
 ---
-title: Gardenhub: optimising school gardens for sustainable food environments
+title: "Gardenhub: optimising school gardens for sustainable food environments"
 
-event: Tropentag: Reconcile land system changes with planetary health
+event: "Tropentag: Reconcile land system changes with planetary health"
 event_url: ""
 
 location: ""
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Gardenhub: optimising school gardens for sustainable food environments
+summary: "Gardenhub: optimising school gardens for sustainable food environments"
 abstract: ""
 
 date: "2025-01-01T00:00:00Z"

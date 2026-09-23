@@ -1,5 +1,5 @@
 ---
-title: A new modelling framework for fruit and nut tree phenology
+title: "A new modelling framework for fruit and nut tree phenology"
 
 event: ""
 event_url: ""
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: A new modelling framework for fruit and nut tree phenology
+summary: "A new modelling framework for fruit and nut tree phenology"
 abstract: ""
 
 date: "2021-01-01T00:00:00Z"

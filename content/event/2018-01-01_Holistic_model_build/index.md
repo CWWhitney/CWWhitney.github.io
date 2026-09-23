@@ -1,10 +1,10 @@
 ---
-title: Holistic model building: supporting risk transfer decisions in agroforestry systems
+title: "Holistic model building: supporting risk transfer decisions in agroforestry systems"
 
-event: 4th Annual meeting of the FLARE network (Forests \& Livelihoods: Assessment, Research, and Engagement)
+event: "4th Annual meeting of the FLARE network (Forests & Livelihoods: Assessment, Research, and Engagement)"
 event_url: ""
 
-location: Copenhagen
+location: "Copenhagen"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Holistic model building: supporting risk transfer decisions in agroforestry systems
+summary: "Holistic model building: supporting risk transfer decisions in agroforestry systems"
 abstract: ""
 
 date: "2018-01-01T00:00:00Z"

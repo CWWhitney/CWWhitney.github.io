@@ -1,7 +1,7 @@
 ---
-title: Improving children’s nutrition: A decision-analytic approach to school meal interventions in Vietnam
+title: "Improving children’s nutrition: A decision-analytic approach to school meal interventions in Vietnam"
 
-event: Tropentag: Reconcile land system changes with planetary health
+event: "Tropentag: Reconcile land system changes with planetary health"
 event_url: ""
 
 location: ""
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Improving children’s nutrition: A decision-analytic approach to school meal interventions in Vietnam
+summary: "Improving children’s nutrition: A decision-analytic approach to school meal interventions in Vietnam"
 abstract: ""
 
 date: "2025-01-01T00:00:00Z"

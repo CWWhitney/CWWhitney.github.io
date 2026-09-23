@@ -1,10 +1,10 @@
 ---
-title: Local knowledge for food security in Uganda; Postharvest practices in homegardens of the Ugandan Southwest
+title: "Local knowledge for food security in Uganda; Postharvest practices in homegardens of the Ugandan Southwest"
 
-event: The First International Congress on Postharvest Loss Prevention, Rome, October 2015
+event: "The First International Congress on Postharvest Loss Prevention, Rome, October 2015"
 event_url: ""
 
-location: October 4-7
+location: "October 4-7"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Local knowledge for food security in Uganda; Postharvest practices in homegardens of the Ugandan Southwest
+summary: "Local knowledge for food security in Uganda; Postharvest practices in homegardens of the Ugandan Southwest"
 abstract: ""
 
 date: "2015-01-01T00:00:00Z"

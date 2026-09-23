@@ -1,10 +1,10 @@
 ---
-title: Decision support for selecting suitable frost protection methods for apricot orchards in Germany
+title: "Decision support for selecting suitable frost protection methods for apricot orchards in Germany"
 
-event: International syposium on models for plant growth, environments, farm management in orchards and protected cultivation - Horchimodel2023
+event: "International syposium on models for plant growth, environments, farm management in orchards and protected cultivation - Horchimodel2023"
 event_url: ""
 
-location: Almería, Spain
+location: "Almería, Spain"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Decision support for selecting suitable frost protection methods for apricot orchards in Germany
+summary: "Decision support for selecting suitable frost protection methods for apricot orchards in Germany"
 abstract: ""
 
 date: "2023-01-01T00:00:00Z"

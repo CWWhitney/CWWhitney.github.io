@@ -1,10 +1,10 @@
 ---
-title: Development of agroforestry in upland northern Vietnam: A farmers’ perspective
+title: "Development of agroforestry in upland northern Vietnam: A farmers’ perspective"
 
-event: Competing pathways for equitable food systems transformation: trade-offs and synergies
+event: "Competing pathways for equitable food systems transformation: trade-offs and synergies"
 event_url: ""
 
-location: Berlin, Germany
+location: "Berlin, Germany"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Development of agroforestry in upland northern Vietnam: A farmers’ perspective
+summary: "Development of agroforestry in upland northern Vietnam: A farmers’ perspective"
 abstract: ""
 
 date: "2023-01-01T00:00:00Z"

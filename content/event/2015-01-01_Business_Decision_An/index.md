@@ -1,10 +1,10 @@
 ---
-title: Business Decision Analysis Principles in Research for Agricultural Development
+title: "Business Decision Analysis Principles in Research for Agricultural Development"
 
-event: Tropentag 2015: Management of land use systems for enhanced food security: conflicts, controversies and resolutions
+event: "Tropentag 2015: Management of land use systems for enhanced food security: conflicts, controversies and resolutions"
 event_url: ""
 
-location: Berlin, Germany
+location: "Berlin, Germany"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Business Decision Analysis Principles in Research for Agricultural Development
+summary: "Business Decision Analysis Principles in Research for Agricultural Development"
 abstract: ""
 
 date: "2015-01-01T00:00:00Z"

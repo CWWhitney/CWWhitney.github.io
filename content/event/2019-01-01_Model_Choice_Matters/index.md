@@ -1,10 +1,10 @@
 ---
-title: Model Choice Matters --- Sensitivity of Chill Metrics to Future Warming in Mediterranean and Temperate Environments
+title: "Model Choice Matters --- Sensitivity of Chill Metrics to Future Warming in Mediterranean and Temperate Environments"
 
-event: Tropentag 2019: International Research on Food Security, Natural Resource Management and Rural Development
+event: "Tropentag 2019: International Research on Food Security, Natural Resource Management and Rural Development"
 event_url: ""
 
-location: Goettingen, Germany
+location: "Goettingen, Germany"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Model Choice Matters --- Sensitivity of Chill Metrics to Future Warming in Mediterranean and Temperate Environments
+summary: "Model Choice Matters --- Sensitivity of Chill Metrics to Future Warming in Mediterranean and Temperate Environments"
 abstract: ""
 
 date: "2019-01-01T00:00:00Z"

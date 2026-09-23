@@ -1,10 +1,10 @@
 ---
-title: Co-creation and design of Agroforestry farming systems
+title: "Co-creation and design of Agroforestry farming systems"
 
-event: 26th International Conference of the Society for Human Ecology
+event: "26th International Conference of the Society for Human Ecology"
 event_url: ""
 
-location: Mons, Belgium
+location: "Mons, Belgium"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Co-creation and design of Agroforestry farming systems
+summary: "Co-creation and design of Agroforestry farming systems"
 abstract: ""
 
 date: "2025-01-01T00:00:00Z"

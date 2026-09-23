@@ -1,10 +1,10 @@
 ---
-title: Ethnobotany of Wartime: Wild Plants for Human Nutrition During the Conflict in Syria
+title: "Ethnobotany of Wartime: Wild Plants for Human Nutrition During the Conflict in Syria"
 
-event: Tropentag Towards shifting paradigms in agriculture for a healthy and sustainable future
+event: "Tropentag Towards shifting paradigms in agriculture for a healthy and sustainable future"
 event_url: ""
 
-location: Prague, Czech Republic
+location: "Prague, Czech Republic"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Ethnobotany of Wartime: Wild Plants for Human Nutrition During the Conflict in Syria
+summary: "Ethnobotany of Wartime: Wild Plants for Human Nutrition During the Conflict in Syria"
 abstract: ""
 
 date: "2021-01-01T00:00:00Z"

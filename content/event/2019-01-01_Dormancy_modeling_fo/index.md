@@ -1,10 +1,10 @@
 ---
-title: Dormancy modeling for warming orchards
+title: "Dormancy modeling for warming orchards"
 
-event: Proceedings of the EGU General Assembly 2019
+event: "Proceedings of the EGU General Assembly 2019"
 event_url: ""
 
-location: Vienna, Austria
+location: "Vienna, Austria"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Dormancy modeling for warming orchards
+summary: "Dormancy modeling for warming orchards"
 abstract: ""
 
 date: "2019-01-01T00:00:00Z"

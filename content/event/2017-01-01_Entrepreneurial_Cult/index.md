@@ -1,7 +1,7 @@
 ---
-title: Entrepreneurial Culture And Capability of Organic Farmers’ Organizations in the Philippines
+title: "Entrepreneurial Culture And Capability of Organic Farmers’ Organizations in the Philippines"
 
-event: Innovative Research for Organic 3.0, Thuenen Report 54 - Volume 2
+event: "Innovative Research for Organic 3.0, Thuenen Report 54 - Volume 2"
 event_url: ""
 
 location: ""
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Entrepreneurial Culture And Capability of Organic Farmers’ Organizations in the Philippines
+summary: "Entrepreneurial Culture And Capability of Organic Farmers’ Organizations in the Philippines"
 abstract: ""
 
 date: "2017-01-01T00:00:00Z"

@@ -1,7 +1,7 @@
 ---
-title: Introduction to R
+title: "Introduction to R"
 
-event: Kunming Institute of Botany, Yunnan, China
+event: "Kunming Institute of Botany, Yunnan, China"
 event_url: ""
 
 location: ""
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Introduction to R
+summary: "Introduction to R"
 abstract: ""
 
 date: "2019-01-01T00:00:00Z"

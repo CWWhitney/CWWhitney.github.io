@@ -1,7 +1,7 @@
 ---
-title: Understanding diverse adaptation pathways to support agroforestry transition in northwestern Vietnam
+title: "Understanding diverse adaptation pathways to support agroforestry transition in northwestern Vietnam"
 
-event: Tropentag: Reconcile land system changes with planetary health
+event: "Tropentag: Reconcile land system changes with planetary health"
 event_url: ""
 
 location: ""
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Understanding diverse adaptation pathways to support agroforestry transition in northwestern Vietnam
+summary: "Understanding diverse adaptation pathways to support agroforestry transition in northwestern Vietnam"
 abstract: ""
 
 date: "2025-01-01T00:00:00Z"

@@ -1,5 +1,5 @@
 ---
-title: Forecasting yield in temperate fruit trees from winter chill accumulation
+title: "Forecasting yield in temperate fruit trees from winter chill accumulation"
 
 event: ""
 event_url: ""
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Forecasting yield in temperate fruit trees from winter chill accumulation
+summary: "Forecasting yield in temperate fruit trees from winter chill accumulation"
 abstract: ""
 
 date: "2021-01-01T00:00:00Z"

@@ -1,10 +1,10 @@
 ---
-title: Wild collection and cultivation of native species in Iceland
+title: "Wild collection and cultivation of native species in Iceland"
 
 event: ""
 event_url: ""
 
-location: Istanbul, Turkey
+location: "Istanbul, Turkey"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Wild collection and cultivation of native species in Iceland
+summary: "Wild collection and cultivation of native species in Iceland"
 abstract: ""
 
 date: "2014-01-01T00:00:00Z"

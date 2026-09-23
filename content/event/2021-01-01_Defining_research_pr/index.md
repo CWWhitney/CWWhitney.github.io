@@ -1,10 +1,10 @@
 ---
-title: Defining research priorities in complex agroforestry systems
+title: "Defining research priorities in complex agroforestry systems"
 
-event: Agroforestry for the transition towards sustainability and bioeconomy
+event: "Agroforestry for the transition towards sustainability and bioeconomy"
 event_url: ""
 
-location: Nuoro, Italy
+location: "Nuoro, Italy"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Defining research priorities in complex agroforestry systems
+summary: "Defining research priorities in complex agroforestry systems"
 abstract: ""
 
 date: "2021-01-01T00:00:00Z"

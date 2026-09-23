@@ -1,10 +1,10 @@
 ---
-title: Agroforestry adaptation in individual households in northwestern Vietnam: who needs what and implications for practice and policy
+title: "Agroforestry adaptation in individual households in northwestern Vietnam: who needs what and implications for practice and policy"
 
-event: Proceedings THE 3rd INTERNATIONAL AGROBIODIVERSITY CONGRESS
+event: "Proceedings THE 3rd INTERNATIONAL AGROBIODIVERSITY CONGRESS"
 event_url: ""
 
-location: Kunming,China
+location: "Kunming,China"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Agroforestry adaptation in individual households in northwestern Vietnam: who needs what and implications for practice and policy
+summary: "Agroforestry adaptation in individual households in northwestern Vietnam: who needs what and implications for practice and policy"
 abstract: ""
 
 date: "2025-01-01T00:00:00Z"

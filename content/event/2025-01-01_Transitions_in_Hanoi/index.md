@@ -1,7 +1,7 @@
 ---
-title: Transitions in Hanoi's vegetable food environment: insights from systems thinking and leverage points
+title: "Transitions in Hanoi's vegetable food environment: insights from systems thinking and leverage points"
 
-event: Tropentag 2025
+event: "Tropentag 2025"
 event_url: ""
 
 location: ""
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Transitions in Hanoi's vegetable food environment: insights from systems thinking and leverage points
+summary: "Transitions in Hanoi's vegetable food environment: insights from systems thinking and leverage points"
 abstract: ""
 
 date: "2025-01-01T00:00:00Z"

@@ -1,10 +1,10 @@
 ---
-title: Proposing a Human Ecology Model for Homegarden Research
+title: "Proposing a Human Ecology Model for Homegarden Research"
 
-event: Trails, Traditions, and New Directions Society for Applied Anthropology 77th Annual Meeting
+event: "Trails, Traditions, and New Directions Society for Applied Anthropology 77th Annual Meeting"
 event_url: ""
 
-location: Santa Fe, New Mexico
+location: "Santa Fe, New Mexico"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Proposing a Human Ecology Model for Homegarden Research
+summary: "Proposing a Human Ecology Model for Homegarden Research"
 abstract: ""
 
 date: "2017-01-01T00:00:00Z"

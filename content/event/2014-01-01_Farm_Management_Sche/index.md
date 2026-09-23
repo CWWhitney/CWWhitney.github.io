@@ -1,10 +1,10 @@
 ---
-title: Farm Management Schemes within Organic PGS; Survey and Analysis in Sóc Sơn, Hanoi, Vietnam
+title: "Farm Management Schemes within Organic PGS; Survey and Analysis in Sóc Sơn, Hanoi, Vietnam"
 
 event: ""
 event_url: ""
 
-location: Istanbul, Turkey
+location: "Istanbul, Turkey"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Farm Management Schemes within Organic PGS; Survey and Analysis in Sóc Sơn, Hanoi, Vietnam
+summary: "Farm Management Schemes within Organic PGS; Survey and Analysis in Sóc Sơn, Hanoi, Vietnam"
 abstract: ""
 
 date: "2014-01-01T00:00:00Z"

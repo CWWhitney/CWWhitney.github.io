@@ -1,10 +1,10 @@
 ---
-title: Value of plants in Ugandan homegardens; results of homegardens inventories and participatory ethnobotany investigations
+title: "Value of plants in Ugandan homegardens; results of homegardens inventories and participatory ethnobotany investigations"
 
-event: Botany 2015: Science and Plants for People
+event: "Botany 2015: Science and Plants for People"
 event_url: ""
 
-location: July 25-29
+location: "July 25-29"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Value of plants in Ugandan homegardens; results of homegardens inventories and participatory ethnobotany investigations
+summary: "Value of plants in Ugandan homegardens; results of homegardens inventories and participatory ethnobotany investigations"
 abstract: ""
 
 date: "2015-01-01T00:00:00Z"

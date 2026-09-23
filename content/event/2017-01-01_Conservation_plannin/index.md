@@ -1,10 +1,10 @@
 ---
-title: Conservation planning and livelihoods derived from Lake Victoria’s native floristic diversity
+title: "Conservation planning and livelihoods derived from Lake Victoria’s native floristic diversity"
 
-event: African Great Lakes Conference 2017
+event: "African Great Lakes Conference 2017"
 event_url: ""
 
-location: May, 2-5
+location: "May, 2-5"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Conservation planning and livelihoods derived from Lake Victoria’s native floristic diversity
+summary: "Conservation planning and livelihoods derived from Lake Victoria’s native floristic diversity"
 abstract: ""
 
 date: "2017-01-01T00:00:00Z"

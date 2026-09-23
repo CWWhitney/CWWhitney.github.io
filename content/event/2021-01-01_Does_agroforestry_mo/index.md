@@ -1,10 +1,10 @@
 ---
-title: Does agroforestry modelling need a paradigm shift?
+title: "Does agroforestry modelling need a paradigm shift?"
 
-event: Agroforestry for the transition towards sustainability and bioeconomy
+event: "Agroforestry for the transition towards sustainability and bioeconomy"
 event_url: ""
 
-location: Nuoro, Italy
+location: "Nuoro, Italy"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Does agroforestry modelling need a paradigm shift?
+summary: "Does agroforestry modelling need a paradigm shift?"
 abstract: ""
 
 date: "2021-01-01T00:00:00Z"

@@ -1,10 +1,10 @@
 ---
-title: Land Suitability and Socioeconomic Factors for Pigeonpea Cultivation in Uganda
+title: "Land Suitability and Socioeconomic Factors for Pigeonpea Cultivation in Uganda"
 
 event: ""
 event_url: ""
 
-location: Prague, Czech Republic (online)
+location: "Prague, Czech Republic (online)"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Land Suitability and Socioeconomic Factors for Pigeonpea Cultivation in Uganda
+summary: "Land Suitability and Socioeconomic Factors for Pigeonpea Cultivation in Uganda"
 abstract: ""
 
 date: "2020-01-01T00:00:00Z"

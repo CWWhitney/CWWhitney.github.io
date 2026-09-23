@@ -1,10 +1,10 @@
 ---
-title: Using Decision Analysis to Support Agricultural Land Use Policy in Peri-Urban Hanoi: Integrating Local Knowledge and Validation
+title: "Using Decision Analysis to Support Agricultural Land Use Policy in Peri-Urban Hanoi: Integrating Local Knowledge and Validation"
 
-event: Nurturing regenerative food systems in a changing climate
+event: "Nurturing regenerative food systems in a changing climate"
 event_url: ""
 
-location: Upsaala, Sweden
+location: "Upsaala, Sweden"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Using Decision Analysis to Support Agricultural Land Use Policy in Peri-Urban Hanoi: Integrating Local Knowledge and Validation
+summary: "Using Decision Analysis to Support Agricultural Land Use Policy in Peri-Urban Hanoi: Integrating Local Knowledge and Validation"
 abstract: ""
 
 date: "2025-01-01T00:00:00Z"

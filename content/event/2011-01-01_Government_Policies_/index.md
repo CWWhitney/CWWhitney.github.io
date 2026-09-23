@@ -1,10 +1,10 @@
 ---
-title: Government Policies for the Promotion of Organic Agriculture with a Focus on the Asian Pacific Region
+title: "Government Policies for the Promotion of Organic Agriculture with a Focus on the Asian Pacific Region"
 
-event: Special Workshop; Government Policies for the Promotion of Organic Agriculture with a Focus on the Asian Pacific Region, 17th IFOAM OWC, South Korea
+event: "Special Workshop; Government Policies for the Promotion of Organic Agriculture with a Focus on the Asian Pacific Region, 17th IFOAM OWC, South Korea"
 event_url: ""
 
-location: Seoul, South Korea
+location: "Seoul, South Korea"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Government Policies for the Promotion of Organic Agriculture with a Focus on the Asian Pacific Region
+summary: "Government Policies for the Promotion of Organic Agriculture with a Focus on the Asian Pacific Region"
 abstract: ""
 
 date: "2011-01-01T00:00:00Z"

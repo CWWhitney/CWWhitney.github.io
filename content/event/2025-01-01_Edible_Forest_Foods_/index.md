@@ -1,10 +1,10 @@
 ---
-title: Edible Forest Foods of the Dzao community in Ba Vi National Park -Traditional Knowledge and Agroecological Potential
+title: "Edible Forest Foods of the Dzao community in Ba Vi National Park -Traditional Knowledge and Agroecological Potential"
 
-event: 26th International Conference of the Society for Human Ecology
+event: "26th International Conference of the Society for Human Ecology"
 event_url: ""
 
-location: Mons, Belgium
+location: "Mons, Belgium"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Edible Forest Foods of the Dzao community in Ba Vi National Park -Traditional Knowledge and Agroecological Potential
+summary: "Edible Forest Foods of the Dzao community in Ba Vi National Park -Traditional Knowledge and Agroecological Potential"
 abstract: ""
 
 date: "2025-01-01T00:00:00Z"

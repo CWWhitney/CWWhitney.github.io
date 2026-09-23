@@ -1,10 +1,10 @@
 ---
-title: Assessing the Potential of Integrated Soil Fertility Management in Northern Ghana: A Critical Inquiry
+title: "Assessing the Potential of Integrated Soil Fertility Management in Northern Ghana: A Critical Inquiry"
 
-event: DQ Europe Conference
+event: "DQ Europe Conference"
 event_url: ""
 
-location: Stevenage, Hertfordshire
+location: "Stevenage, Hertfordshire"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Assessing the Potential of Integrated Soil Fertility Management in Northern Ghana: A Critical Inquiry
+summary: "Assessing the Potential of Integrated Soil Fertility Management in Northern Ghana: A Critical Inquiry"
 abstract: ""
 
 date: "2025-01-01T00:00:00Z"

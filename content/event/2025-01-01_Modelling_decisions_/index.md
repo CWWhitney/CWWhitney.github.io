@@ -1,7 +1,7 @@
 ---
-title: Modelling decisions to improve food environments for vulnerable urban communities in hanoi, Vietnam
+title: "Modelling decisions to improve food environments for vulnerable urban communities in hanoi, Vietnam"
 
-event: Tropentag: Reconcile land system changes with planetary health
+event: "Tropentag: Reconcile land system changes with planetary health"
 event_url: ""
 
 location: ""
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Modelling decisions to improve food environments for vulnerable urban communities in hanoi, Vietnam
+summary: "Modelling decisions to improve food environments for vulnerable urban communities in hanoi, Vietnam"
 abstract: ""
 
 date: "2025-01-01T00:00:00Z"

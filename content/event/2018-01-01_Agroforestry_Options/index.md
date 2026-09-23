@@ -1,10 +1,10 @@
 ---
-title: Agroforestry Options in Northwest Vietnam
+title: "Agroforestry Options in Northwest Vietnam"
 
-event: Tropentag 2018: Global food security and food safety: The role of universities
+event: "Tropentag 2018: Global food security and food safety: The role of universities"
 event_url: ""
 
-location: Ghent, Belgium
+location: "Ghent, Belgium"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Agroforestry Options in Northwest Vietnam
+summary: "Agroforestry Options in Northwest Vietnam"
 abstract: ""
 
 date: "2018-01-01T00:00:00Z"

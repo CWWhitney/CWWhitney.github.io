@@ -1,10 +1,10 @@
 ---
-title: Bridging Science and Practice for Sustainable Tomato Cultivation
+title: "Bridging Science and Practice for Sustainable Tomato Cultivation"
 
-event: 26th International Conference of the Society for Human Ecology
+event: "26th International Conference of the Society for Human Ecology"
 event_url: ""
 
-location: Mons, Belgium
+location: "Mons, Belgium"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Bridging Science and Practice for Sustainable Tomato Cultivation
+summary: "Bridging Science and Practice for Sustainable Tomato Cultivation"
 abstract: ""
 
 date: "2025-01-01T00:00:00Z"

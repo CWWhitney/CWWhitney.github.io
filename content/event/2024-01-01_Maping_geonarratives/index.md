@@ -1,10 +1,10 @@
 ---
-title: Maping geonarratives of biodiversity conservation through the diaspora
+title: "Maping geonarratives of biodiversity conservation through the diaspora"
 
-event: Berlin Science Week 2024
+event: "Berlin Science Week 2024"
 event_url: ""
 
-location: Berlin
+location: "Berlin"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Maping geonarratives of biodiversity conservation through the diaspora
+summary: "Maping geonarratives of biodiversity conservation through the diaspora"
 abstract: ""
 
 date: "2024-01-01T00:00:00Z"

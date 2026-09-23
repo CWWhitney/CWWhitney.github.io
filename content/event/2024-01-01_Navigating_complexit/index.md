@@ -1,7 +1,7 @@
 ---
-title: Navigating complexity: holistic decision-making in agri-food system transitions
+title: "Navigating complexity: holistic decision-making in agri-food system transitions"
 
-event: 4th System Innovation towards Sustainable Agriculture (SISA)
+event: "4th System Innovation towards Sustainable Agriculture (SISA)"
 event_url: ""
 
 location: ""
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Navigating complexity: holistic decision-making in agri-food system transitions
+summary: "Navigating complexity: holistic decision-making in agri-food system transitions"
 abstract: ""
 
 date: "2024-01-01T00:00:00Z"

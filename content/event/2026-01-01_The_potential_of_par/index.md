@@ -1,10 +1,10 @@
 ---
-title: The potential of participatory approaches in school-based prevention of non-communicable diseases in Mexico
+title: "The potential of participatory approaches in school-based prevention of non-communicable diseases in Mexico"
 
 event: ""
 event_url: ""
 
-location: Goettingen, Germany
+location: "Goettingen, Germany"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: The potential of participatory approaches in school-based prevention of non-communicable diseases in Mexico
+summary: "The potential of participatory approaches in school-based prevention of non-communicable diseases in Mexico"
 abstract: ""
 
 date: "2026-01-01T00:00:00Z"

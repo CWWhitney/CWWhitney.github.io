@@ -1,7 +1,7 @@
 ---
-title: Contribution of agroforestry to livelihoods and climate change mitigation in east Africa
+title: "Contribution of agroforestry to livelihoods and climate change mitigation in east Africa"
 
-event: Tropentag: Reconcile land system changes with planetary health
+event: "Tropentag: Reconcile land system changes with planetary health"
 event_url: ""
 
 location: ""
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Contribution of agroforestry to livelihoods and climate change mitigation in east Africa
+summary: "Contribution of agroforestry to livelihoods and climate change mitigation in east Africa"
 abstract: ""
 
 date: "2025-01-01T00:00:00Z"

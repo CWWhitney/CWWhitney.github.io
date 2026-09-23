@@ -1,10 +1,10 @@
 ---
-title: Agronomic and economic performance of integrated soil fertility management across an organic matter continuum and climate variability
+title: "Agronomic and economic performance of integrated soil fertility management across an organic matter continuum and climate variability"
 
 event: ""
 event_url: ""
 
-location: Goettingen, Germany
+location: "Goettingen, Germany"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Agronomic and economic performance of integrated soil fertility management across an organic matter continuum and climate variability
+summary: "Agronomic and economic performance of integrated soil fertility management across an organic matter continuum and climate variability"
 abstract: ""
 
 date: "2026-01-01T00:00:00Z"

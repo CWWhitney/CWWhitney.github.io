@@ -1,10 +1,10 @@
 ---
-title: Leverage Points For Sustainable Nutrition Transitions in Hanoi’s Food Environment
+title: "Leverage Points For Sustainable Nutrition Transitions in Hanoi’s Food Environment"
 
-event: Nurturing regenerative food systems in a changing climate
+event: "Nurturing regenerative food systems in a changing climate"
 event_url: ""
 
-location: Upsaala, Sweden
+location: "Upsaala, Sweden"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Leverage Points For Sustainable Nutrition Transitions in Hanoi’s Food Environment
+summary: "Leverage Points For Sustainable Nutrition Transitions in Hanoi’s Food Environment"
 abstract: ""
 
 date: "2025-01-01T00:00:00Z"

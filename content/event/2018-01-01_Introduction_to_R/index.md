@@ -1,7 +1,7 @@
 ---
-title: Introduction to R
+title: "Introduction to R"
 
-event: Bonn International Graduate School for Development Research, Center for Development Research, University of Bonn, Germany
+event: "Bonn International Graduate School for Development Research, Center for Development Research, University of Bonn, Germany"
 event_url: ""
 
 location: ""
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Introduction to R
+summary: "Introduction to R"
 abstract: ""
 
 date: "2018-01-01T00:00:00Z"

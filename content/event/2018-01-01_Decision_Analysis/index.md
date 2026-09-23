@@ -1,7 +1,7 @@
 ---
-title: Decision Analysis
+title: "Decision Analysis"
 
-event: Department of Horticultural Sciences / ARTS Masters programs, INRES, University of Bonn, Germany
+event: "Department of Horticultural Sciences / ARTS Masters programs, INRES, University of Bonn, Germany"
 event_url: ""
 
 location: ""
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Decision Analysis
+summary: "Decision Analysis"
 abstract: ""
 
 date: "2018-01-01T00:00:00Z"

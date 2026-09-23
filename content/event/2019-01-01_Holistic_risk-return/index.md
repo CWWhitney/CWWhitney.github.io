@@ -1,10 +1,10 @@
 ---
-title: Holistic risk-return analysis for improving planning and performance measurement of agroforestry interventions
+title: "Holistic risk-return analysis for improving planning and performance measurement of agroforestry interventions"
 
-event: 4th World Congress on Agroforestry
+event: "4th World Congress on Agroforestry"
 event_url: ""
 
-location: Montpellier, France
+location: "Montpellier, France"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Holistic risk-return analysis for improving planning and performance measurement of agroforestry interventions
+summary: "Holistic risk-return analysis for improving planning and performance measurement of agroforestry interventions"
 abstract: ""
 
 date: "2019-01-01T00:00:00Z"

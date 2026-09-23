@@ -1,10 +1,10 @@
 ---
-title: Can agroforestry enhance ecosystem services provision without reducing productivity?
+title: "Can agroforestry enhance ecosystem services provision without reducing productivity?"
 
-event: 4th World Congress on Agroforestry
+event: "4th World Congress on Agroforestry"
 event_url: ""
 
-location: Montpellier, France
+location: "Montpellier, France"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Can agroforestry enhance ecosystem services provision without reducing productivity?
+summary: "Can agroforestry enhance ecosystem services provision without reducing productivity?"
 abstract: ""
 
 date: "2019-01-01T00:00:00Z"

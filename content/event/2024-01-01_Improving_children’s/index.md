@@ -1,10 +1,10 @@
 ---
-title: Improving children’s nutrition: evidence-based policy recommendations for school meal programmes in urban vietnam
+title: "Improving children’s nutrition: evidence-based policy recommendations for school meal programmes in urban vietnam"
 
-event: Tropentag 2024
+event: "Tropentag 2024"
 event_url: ""
 
-location: Vienna, Austria
+location: "Vienna, Austria"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Improving children’s nutrition: evidence-based policy recommendations for school meal programmes in urban vietnam
+summary: "Improving children’s nutrition: evidence-based policy recommendations for school meal programmes in urban vietnam"
 abstract: ""
 
 date: "2024-01-01T00:00:00Z"

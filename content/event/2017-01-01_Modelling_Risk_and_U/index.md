@@ -1,10 +1,10 @@
 ---
-title: Modelling Risk and Uncertainty in Flood-based Farming Systems in East Africa
+title: "Modelling Risk and Uncertainty in Flood-based Farming Systems in East Africa"
 
-event: Tropentag Bonn: Future Agriculture: Socio-ecological transitions and bio-cultural shifts
+event: "Tropentag Bonn: Future Agriculture: Socio-ecological transitions and bio-cultural shifts"
 event_url: ""
 
-location: Bonn, Germany
+location: "Bonn, Germany"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Modelling Risk and Uncertainty in Flood-based Farming Systems in East Africa
+summary: "Modelling Risk and Uncertainty in Flood-based Farming Systems in East Africa"
 abstract: ""
 
 date: "2017-01-01T00:00:00Z"

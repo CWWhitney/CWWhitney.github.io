@@ -1,10 +1,10 @@
 ---
-title: Ex-ante evaluation of integrated soil fertility management as a sustainable intensification practice: A probabilistic modelling approach
+title: "Ex-ante evaluation of integrated soil fertility management as a sustainable intensification practice: A probabilistic modelling approach"
 
-event: Tropentag 2024
+event: "Tropentag 2024"
 event_url: ""
 
-location: Vienna, Austria
+location: "Vienna, Austria"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Ex-ante evaluation of integrated soil fertility management as a sustainable intensification practice: A probabilistic modelling approach
+summary: "Ex-ante evaluation of integrated soil fertility management as a sustainable intensification practice: A probabilistic modelling approach"
 abstract: ""
 
 date: "2024-01-01T00:00:00Z"

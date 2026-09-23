@@ -1,10 +1,10 @@
 ---
-title: Empowering rural farm women in agricultural development: A decision analysis approach with a focus on gender
+title: "Empowering rural farm women in agricultural development: A decision analysis approach with a focus on gender"
 
-event: Competing pathways for equitable food systems transformation: trade-offs and synergies
+event: "Competing pathways for equitable food systems transformation: trade-offs and synergies"
 event_url: ""
 
-location: Berlin, Germany
+location: "Berlin, Germany"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Empowering rural farm women in agricultural development: A decision analysis approach with a focus on gender
+summary: "Empowering rural farm women in agricultural development: A decision analysis approach with a focus on gender"
 abstract: ""
 
 date: "2023-01-01T00:00:00Z"

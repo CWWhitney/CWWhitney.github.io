@@ -1,5 +1,5 @@
 ---
-title: Decision Analysis Methods Guide; Agricultural Policy for Nutrition
+title: "Decision Analysis Methods Guide; Agricultural Policy for Nutrition"
 
 event: ""
 event_url: ""
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Decision Analysis Methods Guide; Agricultural Policy for Nutrition
+summary: "Decision Analysis Methods Guide; Agricultural Policy for Nutrition"
 abstract: ""
 
 date: "2018-01-01T00:00:00Z"

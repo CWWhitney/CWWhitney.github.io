@@ -1,10 +1,10 @@
 ---
-title: Use of Decision Analysis to promote agroforestry adoption - Hof Lebensberg, the German Living Lab within the ReForest project
+title: "Use of Decision Analysis to promote agroforestry adoption - Hof Lebensberg, the German Living Lab within the ReForest project"
 
-event: 7th European Agroforestry Conference
+event: "7th European Agroforestry Conference"
 event_url: ""
 
-location: Brno, CZ
+location: "Brno, CZ"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Use of Decision Analysis to promote agroforestry adoption - Hof Lebensberg, the German Living Lab within the ReForest project
+summary: "Use of Decision Analysis to promote agroforestry adoption - Hof Lebensberg, the German Living Lab within the ReForest project"
 abstract: ""
 
 date: "2024-01-01T00:00:00Z"

@@ -1,10 +1,10 @@
 ---
-title: Stakeholder Dynamics and Decision Pathways in Farmers’ Transition from Rice to Vegetables in Indonesia
+title: "Stakeholder Dynamics and Decision Pathways in Farmers’ Transition from Rice to Vegetables in Indonesia"
 
-event: 6th International Multidisciplinary Conference for Young Researchers (MCYR 2025)
+event: "6th International Multidisciplinary Conference for Young Researchers (MCYR 2025)"
 event_url: ""
 
-location: Prague, Czech Republic
+location: "Prague, Czech Republic"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Stakeholder Dynamics and Decision Pathways in Farmers’ Transition from Rice to Vegetables in Indonesia
+summary: "Stakeholder Dynamics and Decision Pathways in Farmers’ Transition from Rice to Vegetables in Indonesia"
 abstract: ""
 
 date: "2025-01-01T00:00:00Z"

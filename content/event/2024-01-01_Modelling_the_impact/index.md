@@ -1,10 +1,10 @@
 ---
-title: Modelling the impact of land use choices on livelihoods and food environments in peri-urban hanoi
+title: "Modelling the impact of land use choices on livelihoods and food environments in peri-urban hanoi"
 
-event: Tropentag 2024
+event: "Tropentag 2024"
 event_url: ""
 
-location: Vienna, Austria
+location: "Vienna, Austria"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Modelling the impact of land use choices on livelihoods and food environments in peri-urban hanoi
+summary: "Modelling the impact of land use choices on livelihoods and food environments in peri-urban hanoi"
 abstract: ""
 
 date: "2024-01-01T00:00:00Z"

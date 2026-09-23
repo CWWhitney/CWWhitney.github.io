@@ -1,10 +1,10 @@
 ---
-title: Decision Analysis Tools Reveal Benefits of Fruit Trees for Enhanced Nutrition Security in Kenya
+title: "Decision Analysis Tools Reveal Benefits of Fruit Trees for Enhanced Nutrition Security in Kenya"
 
-event: Tropentag, Ghent: Global food security and food safety: The role of universities
+event: "Tropentag, Ghent: Global food security and food safety: The role of universities"
 event_url: ""
 
-location: Ghent, Belgium
+location: "Ghent, Belgium"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Decision Analysis Tools Reveal Benefits of Fruit Trees for Enhanced Nutrition Security in Kenya
+summary: "Decision Analysis Tools Reveal Benefits of Fruit Trees for Enhanced Nutrition Security in Kenya"
 abstract: ""
 
 date: "2018-01-01T00:00:00Z"

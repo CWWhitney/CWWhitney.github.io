@@ -1,7 +1,7 @@
 ---
-title: Mabira Forest Biodiversity Assessment
+title: "Mabira Forest Biodiversity Assessment"
 
-event: College of Agricultural and Environmental Sciences, Makerere University, Uganda
+event: "College of Agricultural and Environmental Sciences, Makerere University, Uganda"
 event_url: ""
 
 location: ""
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Mabira Forest Biodiversity Assessment
+summary: "Mabira Forest Biodiversity Assessment"
 abstract: ""
 
 date: "2014-01-01T00:00:00Z"

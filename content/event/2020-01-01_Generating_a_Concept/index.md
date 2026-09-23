@@ -1,10 +1,10 @@
 ---
-title: Generating a Conceptual Framework of Agro-Climate Information Interventions in Vietnam
+title: "Generating a Conceptual Framework of Agro-Climate Information Interventions in Vietnam"
 
 event: ""
 event_url: ""
 
-location: Prague, Czech Republic (online)
+location: "Prague, Czech Republic (online)"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Generating a Conceptual Framework of Agro-Climate Information Interventions in Vietnam
+summary: "Generating a Conceptual Framework of Agro-Climate Information Interventions in Vietnam"
 abstract: ""
 
 date: "2020-01-01T00:00:00Z"

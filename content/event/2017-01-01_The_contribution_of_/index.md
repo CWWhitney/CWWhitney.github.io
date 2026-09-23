@@ -1,10 +1,10 @@
 ---
-title: The contribution of small-holder farmers to increasing tree cover in Kaliro District
+title: "The contribution of small-holder farmers to increasing tree cover in Kaliro District"
 
-event: Proceedings: International Conference on Ecosystem Resilience and Agricultural Productivity
+event: "Proceedings: International Conference on Ecosystem Resilience and Agricultural Productivity"
 event_url: ""
 
-location: Kampala, Uganda
+location: "Kampala, Uganda"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: The contribution of small-holder farmers to increasing tree cover in Kaliro District
+summary: "The contribution of small-holder farmers to increasing tree cover in Kaliro District"
 abstract: ""
 
 date: "2017-01-01T00:00:00Z"

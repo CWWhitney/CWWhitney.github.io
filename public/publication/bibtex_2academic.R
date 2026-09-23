@@ -25,7 +25,7 @@ bibtex_2academic <- function(bibfile,
     rownames_to_column() %>% # retain rownames (as labels for bibtex re-export)
 
     mutate_all(~str_remove_all(.,"[{}\"]")) %>%   ### remove {}" from bibtext entries
-    mutate_all(~str_replace_all(.,'\\\\%', '%'))  ### some replace double escaped % for markdown
+    mutate_all(~str_replace_all(.,'\\\\([%&_#$])', '\\1'))  ### unescape LaTeX \%, \&, \_, \#, \$ for markdown
      
   
   # make bibtype the name of the type column (default for WriteBib)

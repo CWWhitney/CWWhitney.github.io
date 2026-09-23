@@ -1,10 +1,10 @@
 ---
-title: Unpacking the outcomes and trade-offs of Integrated Soil Fertility Management with probabilistic modeling approaches
+title: "Unpacking the outcomes and trade-offs of Integrated Soil Fertility Management with probabilistic modeling approaches"
 
-event: 26th International Conference of the Society for Human Ecology
+event: "26th International Conference of the Society for Human Ecology"
 event_url: ""
 
-location: Mons, Belgium
+location: "Mons, Belgium"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Unpacking the outcomes and trade-offs of Integrated Soil Fertility Management with probabilistic modeling approaches
+summary: "Unpacking the outcomes and trade-offs of Integrated Soil Fertility Management with probabilistic modeling approaches"
 abstract: ""
 
 date: "2025-01-01T00:00:00Z"

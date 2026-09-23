@@ -1,10 +1,10 @@
 ---
-title: Measurable Impacts of the “Principles of Organic Agriculture”; Survey of A Vietnamese Organic PGS
+title: "Measurable Impacts of the “Principles of Organic Agriculture”; Survey of A Vietnamese Organic PGS"
 
-event: Building Organic Bridges. Proceedings of the 4th ISOFAR Scientific Conference at the Organic World Congress 2014 in Istanbul, Turkey
+event: "Building Organic Bridges. Proceedings of the 4th ISOFAR Scientific Conference at the Organic World Congress 2014 in Istanbul, Turkey"
 event_url: ""
 
-location: Istanbul, Turkey
+location: "Istanbul, Turkey"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Measurable Impacts of the “Principles of Organic Agriculture”; Survey of A Vietnamese Organic PGS
+summary: "Measurable Impacts of the “Principles of Organic Agriculture”; Survey of A Vietnamese Organic PGS"
 abstract: ""
 
 date: "2014-01-01T00:00:00Z"

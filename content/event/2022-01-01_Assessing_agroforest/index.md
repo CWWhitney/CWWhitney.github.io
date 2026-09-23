@@ -1,10 +1,10 @@
 ---
-title: Assessing agroforestry options for sustainable land use in Germany
+title: "Assessing agroforestry options for sustainable land use in Germany"
 
-event: EURAF 2022
+event: "EURAF 2022"
 event_url: ""
 
-location: Nuoro, Italy
+location: "Nuoro, Italy"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Assessing agroforestry options for sustainable land use in Germany
+summary: "Assessing agroforestry options for sustainable land use in Germany"
 abstract: ""
 
 date: "2022-01-01T00:00:00Z"

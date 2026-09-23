@@ -1,7 +1,7 @@
 ---
-title: Decision Analysis
+title: "Decision Analysis"
 
-event: Biosphere Reserves Institute, Eberswalde University for Sustainable Development (HNEE), Germany
+event: "Biosphere Reserves Institute, Eberswalde University for Sustainable Development (HNEE), Germany"
 event_url: ""
 
 location: ""
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Decision Analysis
+summary: "Decision Analysis"
 abstract: ""
 
 date: "2022-01-01T00:00:00Z"

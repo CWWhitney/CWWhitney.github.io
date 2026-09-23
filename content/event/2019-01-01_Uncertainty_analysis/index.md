@@ -1,10 +1,10 @@
 ---
-title: Uncertainty analysis in agroforestry planning: A case study in Northwest Vietnam
+title: "Uncertainty analysis in agroforestry planning: A case study in Northwest Vietnam"
 
-event: 4th World Congress on Agroforestry
+event: "4th World Congress on Agroforestry"
 event_url: ""
 
-location: Montpellier, France
+location: "Montpellier, France"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Uncertainty analysis in agroforestry planning: A case study in Northwest Vietnam
+summary: "Uncertainty analysis in agroforestry planning: A case study in Northwest Vietnam"
 abstract: ""
 
 date: "2019-01-01T00:00:00Z"

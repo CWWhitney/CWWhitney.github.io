@@ -1,10 +1,10 @@
 ---
-title: Building Food Communities: Farm Management Schemes within Organic PGS; Survey and Analysis in Soc Son, Hanoi, Vietnam
+title: "Building Food Communities: Farm Management Schemes within Organic PGS; Survey and Analysis in Soc Son, Hanoi, Vietnam"
 
-event: The OWC Pre-Conference Building Food Communities is Bringing Together Community- Supported Agriculture (CSA) and Participatory Guarantee Systems (PGS)
+event: "The OWC Pre-Conference Building Food Communities is Bringing Together Community- Supported Agriculture (CSA) and Participatory Guarantee Systems (PGS)"
 event_url: ""
 
-location: Istanbul, Turkey
+location: "Istanbul, Turkey"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Building Food Communities: Farm Management Schemes within Organic PGS; Survey and Analysis in Soc Son, Hanoi, Vietnam
+summary: "Building Food Communities: Farm Management Schemes within Organic PGS; Survey and Analysis in Soc Son, Hanoi, Vietnam"
 abstract: ""
 
 date: "2014-01-01T00:00:00Z"

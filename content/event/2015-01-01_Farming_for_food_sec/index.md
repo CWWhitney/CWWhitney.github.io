@@ -1,10 +1,10 @@
 ---
-title: Farming for food security; probabilistic simulations of farm contribution to nutrition in southwest Uganda
+title: "Farming for food security; probabilistic simulations of farm contribution to nutrition in southwest Uganda"
 
-event: Tropentag 2015: Management of land use systems for enhanced food security: conflicts, controversies and resolutions
+event: "Tropentag 2015: Management of land use systems for enhanced food security: conflicts, controversies and resolutions"
 event_url: ""
 
-location: Berlin, Germany
+location: "Berlin, Germany"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Farming for food security; probabilistic simulations of farm contribution to nutrition in southwest Uganda
+summary: "Farming for food security; probabilistic simulations of farm contribution to nutrition in southwest Uganda"
 abstract: ""
 
 date: "2015-01-01T00:00:00Z"

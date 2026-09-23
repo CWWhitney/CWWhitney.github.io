@@ -1,10 +1,10 @@
 ---
-title: Intervention Forecasting and Monitoring A Land Use Decision in Peri-Urban Hanoi
+title: "Intervention Forecasting and Monitoring A Land Use Decision in Peri-Urban Hanoi"
 
-event: Science in support of combatting land degradation, June 2024
+event: "Science in support of combatting land degradation, June 2024"
 event_url: ""
 
-location: Bonn, Germany
+location: "Bonn, Germany"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Intervention Forecasting and Monitoring A Land Use Decision in Peri-Urban Hanoi
+summary: "Intervention Forecasting and Monitoring A Land Use Decision in Peri-Urban Hanoi"
 abstract: ""
 
 date: "2024-01-01T00:00:00Z"

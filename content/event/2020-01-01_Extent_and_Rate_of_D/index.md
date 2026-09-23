@@ -1,10 +1,10 @@
 ---
-title: Extent and Rate of Deforestation in West Bugwe Central Forest Reserve, Uganda
+title: "Extent and Rate of Deforestation in West Bugwe Central Forest Reserve, Uganda"
 
-event: Tropentag 2020: Food and nutrition security and its resilience to global crises
+event: "Tropentag 2020: Food and nutrition security and its resilience to global crises"
 event_url: ""
 
-location: Hohenheim, Germany (virtual)
+location: "Hohenheim, Germany (virtual)"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Extent and Rate of Deforestation in West Bugwe Central Forest Reserve, Uganda
+summary: "Extent and Rate of Deforestation in West Bugwe Central Forest Reserve, Uganda"
 abstract: ""
 
 date: "2020-01-01T00:00:00Z"

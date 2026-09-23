@@ -1,10 +1,10 @@
 ---
-title: Hmong Conservation: Lessons in Ethnobotany from the Elders of Long Lan, Luang Prabang, Lao People’s Democratic Republic
+title: "Hmong Conservation: Lessons in Ethnobotany from the Elders of Long Lan, Luang Prabang, Lao People’s Democratic Republic"
 
-event: Society of Ethnobiology Annual Meeting 2015
+event: "Society of Ethnobiology Annual Meeting 2015"
 event_url: ""
 
-location: Santa Barbara, CA
+location: "Santa Barbara, CA"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Hmong Conservation: Lessons in Ethnobotany from the Elders of Long Lan, Luang Prabang, Lao People’s Democratic Republic
+summary: "Hmong Conservation: Lessons in Ethnobotany from the Elders of Long Lan, Luang Prabang, Lao People’s Democratic Republic"
 abstract: ""
 
 date: "2015-01-01T00:00:00Z"

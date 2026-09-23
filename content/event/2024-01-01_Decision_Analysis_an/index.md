@@ -1,10 +1,10 @@
 ---
-title: Decision Analysis and Impact Pathway for Agroforestry Integration on Dairy Farms in the Eifel Region, Germany
+title: "Decision Analysis and Impact Pathway for Agroforestry Integration on Dairy Farms in the Eifel Region, Germany"
 
-event: 7th European Agroforestry Conference
+event: "7th European Agroforestry Conference"
 event_url: ""
 
-location: Brno, CZ
+location: "Brno, CZ"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Decision Analysis and Impact Pathway for Agroforestry Integration on Dairy Farms in the Eifel Region, Germany
+summary: "Decision Analysis and Impact Pathway for Agroforestry Integration on Dairy Farms in the Eifel Region, Germany"
 abstract: ""
 
 date: "2024-01-01T00:00:00Z"

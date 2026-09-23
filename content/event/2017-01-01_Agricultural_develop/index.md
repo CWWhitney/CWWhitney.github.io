@@ -1,10 +1,10 @@
 ---
-title: Agricultural development interventions on household nutrition in Kenya and Uganda
+title: "Agricultural development interventions on household nutrition in Kenya and Uganda"
 
-event: Agriculture, Nutrition, Health Scientific Symposium \& Academy Week
+event: "Agriculture, Nutrition, Health Scientific Symposium & Academy Week"
 event_url: ""
 
-location: Kathmandu, Nepal
+location: "Kathmandu, Nepal"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Agricultural development interventions on household nutrition in Kenya and Uganda
+summary: "Agricultural development interventions on household nutrition in Kenya and Uganda"
 abstract: ""
 
 date: "2017-01-01T00:00:00Z"

@@ -1,10 +1,10 @@
 ---
-title: Bayesian Networks for impact modeling of development interventions
+title: "Bayesian Networks for impact modeling of development interventions"
 
-event: Living in a global world: ethnobotany, local knowledge and sustainability. 58th Annual Meeting of the Society for Economic Botany. Book of Abstracts
+event: "Living in a global world: ethnobotany, local knowledge and sustainability. 58th Annual Meeting of the Society for Economic Botany. Book of Abstracts"
 event_url: ""
 
-location: June 2
+location: "June 2"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Bayesian Networks for impact modeling of development interventions
+summary: "Bayesian Networks for impact modeling of development interventions"
 abstract: ""
 
 date: "2017-01-01T00:00:00Z"

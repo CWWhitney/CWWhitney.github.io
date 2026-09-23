@@ -1,7 +1,7 @@
 ---
-title: Farmers’ decision-making: iterative model validation and livelihood alternatives for agricultural land in peri-urban hanoi
+title: "Farmers’ decision-making: iterative model validation and livelihood alternatives for agricultural land in peri-urban hanoi"
 
-event: Tropentag: Reconcile land system changes with planetary health
+event: "Tropentag: Reconcile land system changes with planetary health"
 event_url: ""
 
 location: ""
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Farmers’ decision-making: iterative model validation and livelihood alternatives for agricultural land in peri-urban hanoi
+summary: "Farmers’ decision-making: iterative model validation and livelihood alternatives for agricultural land in peri-urban hanoi"
 abstract: ""
 
 date: "2025-01-01T00:00:00Z"

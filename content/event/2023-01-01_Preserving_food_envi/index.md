@@ -1,10 +1,10 @@
 ---
-title: Preserving food environments and livelihoods: Transitions and challenges for the Ca Dong people in Vietnam
+title: "Preserving food environments and livelihoods: Transitions and challenges for the Ca Dong people in Vietnam"
 
-event: Competing pathways for equitable food systems transformation: trade-offs and synergies
+event: "Competing pathways for equitable food systems transformation: trade-offs and synergies"
 event_url: ""
 
-location: Berlin, Germany
+location: "Berlin, Germany"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Preserving food environments and livelihoods: Transitions and challenges for the Ca Dong people in Vietnam
+summary: "Preserving food environments and livelihoods: Transitions and challenges for the Ca Dong people in Vietnam"
 abstract: ""
 
 date: "2023-01-01T00:00:00Z"

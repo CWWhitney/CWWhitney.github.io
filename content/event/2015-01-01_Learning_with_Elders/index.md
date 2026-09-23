@@ -1,10 +1,10 @@
 ---
-title: Learning with Elders of the Dao, Hmong, Lu, Ma Lieng, Sach, Tai, Tay, and Xinh Mun Ethnic Communities of Northern Vietnam
+title: "Learning with Elders of the Dao, Hmong, Lu, Ma Lieng, Sach, Tai, Tay, and Xinh Mun Ethnic Communities of Northern Vietnam"
 
-event: 38th Annual Conference of the Society of Ethnobiology 'The Many Faces of Ethnobiology'
+event: "38th Annual Conference of the Society of Ethnobiology 'The Many Faces of Ethnobiology'"
 event_url: ""
 
-location: May 6-9
+location: "May 6-9"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Learning with Elders of the Dao, Hmong, Lu, Ma Lieng, Sach, Tai, Tay, and Xinh Mun Ethnic Communities of Northern Vietnam
+summary: "Learning with Elders of the Dao, Hmong, Lu, Ma Lieng, Sach, Tai, Tay, and Xinh Mun Ethnic Communities of Northern Vietnam"
 abstract: ""
 
 date: "2015-01-01T00:00:00Z"

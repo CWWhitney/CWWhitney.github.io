@@ -1,10 +1,10 @@
 ---
-title: Agroforestry and Reforestation with the Gold Standard– Decision Analysis of a Voluntary Carbon Offset Label
+title: "Agroforestry and Reforestation with the Gold Standard– Decision Analysis of a Voluntary Carbon Offset Label"
 
-event: Tropentag 2020 - Food and nutrition security and its resilience to global crises
+event: "Tropentag 2020 - Food and nutrition security and its resilience to global crises"
 event_url: ""
 
-location: Hohenheim, Germany (virtual)
+location: "Hohenheim, Germany (virtual)"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Agroforestry and Reforestation with the Gold Standard– Decision Analysis of a Voluntary Carbon Offset Label
+summary: "Agroforestry and Reforestation with the Gold Standard– Decision Analysis of a Voluntary Carbon Offset Label"
 abstract: ""
 
 date: "2020-01-01T00:00:00Z"

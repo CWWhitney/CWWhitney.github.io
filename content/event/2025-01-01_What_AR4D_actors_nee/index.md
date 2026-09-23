@@ -1,10 +1,10 @@
 ---
-title: What AR4D actors need to know about Integrated Soil Fertility Management for Northern Ghana
+title: "What AR4D actors need to know about Integrated Soil Fertility Management for Northern Ghana"
 
-event: Global Forum for Food and Agriculture (GFFA)
+event: "Global Forum for Food and Agriculture (GFFA)"
 event_url: ""
 
-location: Berlin, Germany
+location: "Berlin, Germany"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: What AR4D actors need to know about Integrated Soil Fertility Management for Northern Ghana
+summary: "What AR4D actors need to know about Integrated Soil Fertility Management for Northern Ghana"
 abstract: ""
 
 date: "2025-01-01T00:00:00Z"

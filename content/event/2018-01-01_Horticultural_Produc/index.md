@@ -1,7 +1,7 @@
 ---
-title: Horticultural Production and Research
+title: "Horticultural Production and Research"
 
-event: Department of Horticultural Sciences / ARTS Masters programs, INRES, University of Bonn, Germany
+event: "Department of Horticultural Sciences / ARTS Masters programs, INRES, University of Bonn, Germany"
 event_url: ""
 
 location: ""
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Horticultural Production and Research
+summary: "Horticultural Production and Research"
 abstract: ""
 
 date: "2018-01-01T00:00:00Z"

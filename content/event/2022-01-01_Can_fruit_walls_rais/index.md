@@ -1,10 +1,10 @@
 ---
-title: Can fruit walls raise the prospects of sensing and robotic technology in apple production?
+title: "Can fruit walls raise the prospects of sensing and robotic technology in apple production?"
 
-event: 31st International Horticultural Congress
+event: "31st International Horticultural Congress"
 event_url: ""
 
-location: Angers, France
+location: "Angers, France"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Can fruit walls raise the prospects of sensing and robotic technology in apple production?
+summary: "Can fruit walls raise the prospects of sensing and robotic technology in apple production?"
 abstract: ""
 
 date: "2022-01-01T00:00:00Z"

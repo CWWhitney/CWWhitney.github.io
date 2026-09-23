@@ -1,10 +1,10 @@
 ---
-title: Scaling regenerative agriculture through peer-led extension: causal evidence from the village-based advisor model in Kenya
+title: "Scaling regenerative agriculture through peer-led extension: causal evidence from the village-based advisor model in Kenya"
 
 event: ""
 event_url: ""
 
-location: Goettingen, Germany
+location: "Goettingen, Germany"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Scaling regenerative agriculture through peer-led extension: causal evidence from the village-based advisor model in Kenya
+summary: "Scaling regenerative agriculture through peer-led extension: causal evidence from the village-based advisor model in Kenya"
 abstract: ""
 
 date: "2026-01-01T00:00:00Z"

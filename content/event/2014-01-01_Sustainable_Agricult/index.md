@@ -1,7 +1,7 @@
 ---
-title: Sustainable Agricultural Production Systems
+title: "Sustainable Agricultural Production Systems"
 
-event: Faculty of Life Sciences, Rhine Waal University of Applied Sciences, Germany
+event: "Faculty of Life Sciences, Rhine Waal University of Applied Sciences, Germany"
 event_url: ""
 
 location: ""
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Sustainable Agricultural Production Systems
+summary: "Sustainable Agricultural Production Systems"
 abstract: ""
 
 date: "2014-01-01T00:00:00Z"

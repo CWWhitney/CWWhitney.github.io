@@ -1,10 +1,10 @@
 ---
-title: Land consolidation in kenya: An ex-ante evaluation of benefits, costs and risks
+title: "Land consolidation in kenya: An ex-ante evaluation of benefits, costs and risks"
 
-event: Tropentag 2024
+event: "Tropentag 2024"
 event_url: ""
 
-location: Vienna, Austria
+location: "Vienna, Austria"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Land consolidation in kenya: An ex-ante evaluation of benefits, costs and risks
+summary: "Land consolidation in kenya: An ex-ante evaluation of benefits, costs and risks"
 abstract: ""
 
 date: "2024-01-01T00:00:00Z"

@@ -1,10 +1,10 @@
 ---
-title: Decision analysis for agroforestry: supporting sustainable agricultural decisions
+title: "Decision analysis for agroforestry: supporting sustainable agricultural decisions"
 
-event: DQ Europe Conference
+event: "DQ Europe Conference"
 event_url: ""
 
-location: Stevenage, Hertfordshire
+location: "Stevenage, Hertfordshire"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Decision analysis for agroforestry: supporting sustainable agricultural decisions
+summary: "Decision analysis for agroforestry: supporting sustainable agricultural decisions"
 abstract: ""
 
 date: "2025-01-01T00:00:00Z"

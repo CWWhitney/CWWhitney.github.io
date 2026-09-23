@@ -1,10 +1,10 @@
 ---
-title: Improving urban consumers’ access to safe vegetables: case for factories and workers in hanoi, Vietnam
+title: "Improving urban consumers’ access to safe vegetables: case for factories and workers in hanoi, Vietnam"
 
-event: Tropentag 2024
+event: "Tropentag 2024"
 event_url: ""
 
-location: Vienna, Austria
+location: "Vienna, Austria"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Improving urban consumers’ access to safe vegetables: case for factories and workers in hanoi, Vietnam
+summary: "Improving urban consumers’ access to safe vegetables: case for factories and workers in hanoi, Vietnam"
 abstract: ""
 
 date: "2024-01-01T00:00:00Z"

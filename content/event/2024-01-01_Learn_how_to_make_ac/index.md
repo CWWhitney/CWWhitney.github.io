@@ -1,10 +1,10 @@
 ---
-title: Learn how to make accurate estimates: Calibration training with an interactive online application
+title: "Learn how to make accurate estimates: Calibration training with an interactive online application"
 
-event: 2024 Annual Conference of the Decision Sciences Institute Proceedings
+event: "2024 Annual Conference of the Decision Sciences Institute Proceedings"
 event_url: ""
 
-location: Phoenix, Arizona
+location: "Phoenix, Arizona"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Learn how to make accurate estimates: Calibration training with an interactive online application
+summary: "Learn how to make accurate estimates: Calibration training with an interactive online application"
 abstract: ""
 
 date: "2024-01-01T00:00:00Z"

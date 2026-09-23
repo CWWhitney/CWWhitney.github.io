@@ -1,10 +1,10 @@
 ---
-title: A Probabilistic Framework for the Cost-Benefit Evaluation of Restoration Outcomes for a Dry Afromontane Forest in Northern Ethiopia
+title: "A Probabilistic Framework for the Cost-Benefit Evaluation of Restoration Outcomes for a Dry Afromontane Forest in Northern Ethiopia"
 
-event: Tropentag Towards shifting paradigms in agriculture for a healthy and sustainable future
+event: "Tropentag Towards shifting paradigms in agriculture for a healthy and sustainable future"
 event_url: ""
 
-location: Prague, Czech Republic
+location: "Prague, Czech Republic"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: A Probabilistic Framework for the Cost-Benefit Evaluation of Restoration Outcomes for a Dry Afromontane Forest in Northern Ethiopia
+summary: "A Probabilistic Framework for the Cost-Benefit Evaluation of Restoration Outcomes for a Dry Afromontane Forest in Northern Ethiopia"
 abstract: ""
 
 date: "2021-01-01T00:00:00Z"

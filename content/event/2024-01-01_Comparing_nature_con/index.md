@@ -1,10 +1,10 @@
 ---
-title: Comparing nature conservation policies using a Bayesian decision network: modeling sequential effects on adoption, farming practices, and biodiversity
+title: "Comparing nature conservation policies using a Bayesian decision network: modeling sequential effects on adoption, farming practices, and biodiversity"
 
-event: Proceedings of the 7th European Congress of Conservation Biology
+event: "Proceedings of the 7th European Congress of Conservation Biology"
 event_url: ""
 
-location: Bologna
+location: "Bologna"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Comparing nature conservation policies using a Bayesian decision network: modeling sequential effects on adoption, farming practices, and biodiversity
+summary: "Comparing nature conservation policies using a Bayesian decision network: modeling sequential effects on adoption, farming practices, and biodiversity"
 abstract: ""
 
 date: "2024-01-01T00:00:00Z"

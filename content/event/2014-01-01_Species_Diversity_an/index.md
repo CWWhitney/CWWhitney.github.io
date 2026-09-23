@@ -1,10 +1,10 @@
 ---
-title: Species Diversity and Post-Harvest Practices on the Forest Edge Homegardens in Southwestern Uganda
+title: "Species Diversity and Post-Harvest Practices on the Forest Edge Homegardens in Southwestern Uganda"
 
-event: Tropentag 2014: Czech Republic 'Bridging the gap between increasing knowledge and decreasing resources'
+event: "Tropentag 2014: Czech Republic 'Bridging the gap between increasing knowledge and decreasing resources'"
 event_url: ""
 
-location: Prague, Czech Republic
+location: "Prague, Czech Republic"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Species Diversity and Post-Harvest Practices on the Forest Edge Homegardens in Southwestern Uganda
+summary: "Species Diversity and Post-Harvest Practices on the Forest Edge Homegardens in Southwestern Uganda"
 abstract: ""
 
 date: "2014-01-01T00:00:00Z"

@@ -1,10 +1,10 @@
 ---
-title: African baobab trees (Adansonia digitata L.) recorded in Uganda
+title: "African baobab trees (Adansonia digitata L.) recorded in Uganda"
 
-event: Society for Economic Botany Annual Meeting 2017
+event: "Society for Economic Botany Annual Meeting 2017"
 event_url: ""
 
-location: Bragança, Portugal
+location: "Bragança, Portugal"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: African baobab trees (Adansonia digitata L.) recorded in Uganda
+summary: "African baobab trees (Adansonia digitata L.) recorded in Uganda"
 abstract: ""
 
 date: "2017-01-01T00:00:00Z"

@@ -1,7 +1,7 @@
 ---
-title: Assessing the impact of social networks on the adoption of integrated soil fertility management in northern Ghana
+title: "Assessing the impact of social networks on the adoption of integrated soil fertility management in northern Ghana"
 
-event: Tropentag: Reconcile land system changes with planetary health
+event: "Tropentag: Reconcile land system changes with planetary health"
 event_url: ""
 
 location: ""
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Assessing the impact of social networks on the adoption of integrated soil fertility management in northern Ghana
+summary: "Assessing the impact of social networks on the adoption of integrated soil fertility management in northern Ghana"
 abstract: ""
 
 date: "2025-01-01T00:00:00Z"

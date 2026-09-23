@@ -1,7 +1,7 @@
 ---
-title: How people select wild edible plants – Case study with Tibetan and Naxi people in Northwest Yunnan, China
+title: "How people select wild edible plants – Case study with Tibetan and Naxi people in Northwest Yunnan, China"
 
-event: SHE XXIV International Conference of the Society for Human Ecology
+event: "SHE XXIV International Conference of the Society for Human Ecology"
 event_url: ""
 
 location: ""
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: How people select wild edible plants – Case study with Tibetan and Naxi people in Northwest Yunnan, China
+summary: "How people select wild edible plants – Case study with Tibetan and Naxi people in Northwest Yunnan, China"
 abstract: ""
 
 date: "2021-01-01T00:00:00Z"

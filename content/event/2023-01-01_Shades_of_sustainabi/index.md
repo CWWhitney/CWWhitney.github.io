@@ -1,5 +1,5 @@
 ---
-title: Shades of sustainability – is there room for a new sustainability label in fruit production?
+title: "Shades of sustainability – is there room for a new sustainability label in fruit production?"
 
 event: ""
 event_url: ""
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Shades of sustainability – is there room for a new sustainability label in fruit production?
+summary: "Shades of sustainability – is there room for a new sustainability label in fruit production?"
 abstract: ""
 
 date: "2023-01-01T00:00:00Z"

@@ -1,7 +1,7 @@
 ---
-title: Tropical Production Systems
+title: "Tropical Production Systems"
 
-event: Department of Horticultural Sciences / ARTS Masters programs, INRES, University of Bonn, Germany
+event: "Department of Horticultural Sciences / ARTS Masters programs, INRES, University of Bonn, Germany"
 event_url: ""
 
 location: ""
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Tropical Production Systems
+summary: "Tropical Production Systems"
 abstract: ""
 
 date: "2018-01-01T00:00:00Z"

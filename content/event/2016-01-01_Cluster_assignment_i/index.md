@@ -1,10 +1,10 @@
 ---
-title: Cluster assignment indicates four distinct homegarden types in southwest Uganda
+title: "Cluster assignment indicates four distinct homegarden types in southwest Uganda"
 
 event: ""
 event_url: ""
 
-location: Pine Mountain, Kentucky, USA
+location: "Pine Mountain, Kentucky, USA"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Cluster assignment indicates four distinct homegarden types in southwest Uganda
+summary: "Cluster assignment indicates four distinct homegarden types in southwest Uganda"
 abstract: ""
 
 date: "2016-01-01T00:00:00Z"

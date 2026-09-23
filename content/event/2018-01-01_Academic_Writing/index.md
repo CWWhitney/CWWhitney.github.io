@@ -1,7 +1,7 @@
 ---
-title: Academic Writing
+title: "Academic Writing"
 
-event: Bonn International Graduate School for Development Research, Center for Development Research, University of Bonn, Germany
+event: "Bonn International Graduate School for Development Research, Center for Development Research, University of Bonn, Germany"
 event_url: ""
 
 location: ""
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Academic Writing
+summary: "Academic Writing"
 abstract: ""
 
 date: "2018-01-01T00:00:00Z"

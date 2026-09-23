@@ -1,10 +1,10 @@
 ---
-title: Nutrition interventions for enhanced child health outcomes in Hanoi, Vietnam
+title: "Nutrition interventions for enhanced child health outcomes in Hanoi, Vietnam"
 
-event: Competing pathways for equitable food systems transformation: trade-offs and synergies
+event: "Competing pathways for equitable food systems transformation: trade-offs and synergies"
 event_url: ""
 
-location: Berlin, Germany
+location: "Berlin, Germany"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Nutrition interventions for enhanced child health outcomes in Hanoi, Vietnam
+summary: "Nutrition interventions for enhanced child health outcomes in Hanoi, Vietnam"
 abstract: ""
 
 date: "2023-01-01T00:00:00Z"

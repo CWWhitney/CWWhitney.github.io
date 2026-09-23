@@ -1,10 +1,10 @@
 ---
-title: Needs assessment where it is most needed: Decision science contributes to formulate research questions and capacity development foci in Malawi
+title: "Needs assessment where it is most needed: Decision science contributes to formulate research questions and capacity development foci in Malawi"
 
-event: DQ Europe Conference
+event: "DQ Europe Conference"
 event_url: ""
 
-location: Stevenage, Hertfordshire
+location: "Stevenage, Hertfordshire"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Needs assessment where it is most needed: Decision science contributes to formulate research questions and capacity development foci in Malawi
+summary: "Needs assessment where it is most needed: Decision science contributes to formulate research questions and capacity development foci in Malawi"
 abstract: ""
 
 date: "2025-01-01T00:00:00Z"

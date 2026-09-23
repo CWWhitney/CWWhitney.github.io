@@ -1,10 +1,10 @@
 ---
-title: Modeling the benefits of fruit trees in agricultural landscapes of Kenya
+title: "Modeling the benefits of fruit trees in agricultural landscapes of Kenya"
 
-event: 4th Annual meeting of the FLARE network (Forests \& Livelihoods: Assessment, Research, and Engagement)
+event: "4th Annual meeting of the FLARE network (Forests & Livelihoods: Assessment, Research, and Engagement)"
 event_url: ""
 
-location: Copenhagen
+location: "Copenhagen"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Modeling the benefits of fruit trees in agricultural landscapes of Kenya
+summary: "Modeling the benefits of fruit trees in agricultural landscapes of Kenya"
 abstract: ""
 
 date: "2018-01-01T00:00:00Z"

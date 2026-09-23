@@ -1,10 +1,10 @@
 ---
-title: An open-source modelling framework for fruit and nut tree phenology
+title: "An open-source modelling framework for fruit and nut tree phenology"
 
-event: Advancing together: Enhancing quality of life through HortScience
+event: "Advancing together: Enhancing quality of life through HortScience"
 event_url: ""
 
-location: Virtual
+location: "Virtual"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: An open-source modelling framework for fruit and nut tree phenology
+summary: "An open-source modelling framework for fruit and nut tree phenology"
 abstract: ""
 
 date: "2021-01-01T00:00:00Z"

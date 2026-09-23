@@ -1,10 +1,10 @@
 ---
-title: Wirtschaftliche und ökologische Entscheidungsanalyse der Tomatensämlings- und Tomatenproduktion mit Priming
+title: "Wirtschaftliche und ökologische Entscheidungsanalyse der Tomatensämlings- und Tomatenproduktion mit Priming"
 
-event: Agrarforschungstag NRW
+event: "Agrarforschungstag NRW"
 event_url: ""
 
-location: Düsseldorf
+location: "Düsseldorf"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Wirtschaftliche und ökologische Entscheidungsanalyse der Tomatensämlings- und Tomatenproduktion mit Priming
+summary: "Wirtschaftliche und ökologische Entscheidungsanalyse der Tomatensämlings- und Tomatenproduktion mit Priming"
 abstract: ""
 
 date: "2024-01-01T00:00:00Z"

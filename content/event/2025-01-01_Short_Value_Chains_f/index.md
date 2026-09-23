@@ -1,10 +1,10 @@
 ---
-title: Short Value Chains for Vulnerable Urban Consumers: Linking Factory Workers with A Certified Vegetable Cooperative in Vietnam
+title: "Short Value Chains for Vulnerable Urban Consumers: Linking Factory Workers with A Certified Vegetable Cooperative in Vietnam"
 
-event: Nurturing regenerative food systems in a changing climate
+event: "Nurturing regenerative food systems in a changing climate"
 event_url: ""
 
-location: Upsaala, Sweden
+location: "Upsaala, Sweden"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Short Value Chains for Vulnerable Urban Consumers: Linking Factory Workers with A Certified Vegetable Cooperative in Vietnam
+summary: "Short Value Chains for Vulnerable Urban Consumers: Linking Factory Workers with A Certified Vegetable Cooperative in Vietnam"
 abstract: ""
 
 date: "2025-01-01T00:00:00Z"

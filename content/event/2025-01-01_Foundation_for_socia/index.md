@@ -1,7 +1,7 @@
 ---
-title: Foundation for social forestry adoption in aceh, indonesia: insights from field assessments and stakeholder perspectives
+title: "Foundation for social forestry adoption in aceh, indonesia: insights from field assessments and stakeholder perspectives"
 
-event: Tropentag: Reconcile land system changes with planetary health
+event: "Tropentag: Reconcile land system changes with planetary health"
 event_url: ""
 
 location: ""
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Foundation for social forestry adoption in aceh, indonesia: insights from field assessments and stakeholder perspectives
+summary: "Foundation for social forestry adoption in aceh, indonesia: insights from field assessments and stakeholder perspectives"
 abstract: ""
 
 date: "2025-01-01T00:00:00Z"

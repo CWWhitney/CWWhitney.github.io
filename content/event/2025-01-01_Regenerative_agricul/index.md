@@ -1,7 +1,7 @@
 ---
-title: Regenerative agriculture for planetary health: empirical assessment and probabilistic modelling of soil, agronomic, and economic outcomes in Kenya
+title: "Regenerative agriculture for planetary health: empirical assessment and probabilistic modelling of soil, agronomic, and economic outcomes in Kenya"
 
-event: Tropentag: Reconcile land system changes with planetary health
+event: "Tropentag: Reconcile land system changes with planetary health"
 event_url: ""
 
 location: ""
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Regenerative agriculture for planetary health: empirical assessment and probabilistic modelling of soil, agronomic, and economic outcomes in Kenya
+summary: "Regenerative agriculture for planetary health: empirical assessment and probabilistic modelling of soil, agronomic, and economic outcomes in Kenya"
 abstract: ""
 
 date: "2025-01-01T00:00:00Z"

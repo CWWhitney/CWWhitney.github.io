@@ -1,10 +1,10 @@
 ---
-title: Food security and traditional farming systems; a case study of homegardens in Southwestern Uganda
+title: "Food security and traditional farming systems; a case study of homegardens in Southwestern Uganda"
 
-event: Tropentag 2015: Management of land use systems for enhanced food security: conflicts, controversies and resolutions
+event: "Tropentag 2015: Management of land use systems for enhanced food security: conflicts, controversies and resolutions"
 event_url: ""
 
-location: Berlin, Germany
+location: "Berlin, Germany"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Food security and traditional farming systems; a case study of homegardens in Southwestern Uganda
+summary: "Food security and traditional farming systems; a case study of homegardens in Southwestern Uganda"
 abstract: ""
 
 date: "2015-01-01T00:00:00Z"

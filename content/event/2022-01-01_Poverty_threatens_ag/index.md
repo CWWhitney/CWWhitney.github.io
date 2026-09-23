@@ -1,10 +1,10 @@
 ---
-title: Poverty threatens agroforestry systems in Kaliro, Uganda
+title: "Poverty threatens agroforestry systems in Kaliro, Uganda"
 
-event: Proceedings of the 5th World Congress on Agroforestry 2022
+event: "Proceedings of the 5th World Congress on Agroforestry 2022"
 event_url: ""
 
-location: Quebec, Canada
+location: "Quebec, Canada"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Poverty threatens agroforestry systems in Kaliro, Uganda
+summary: "Poverty threatens agroforestry systems in Kaliro, Uganda"
 abstract: ""
 
 date: "2022-01-01T00:00:00Z"

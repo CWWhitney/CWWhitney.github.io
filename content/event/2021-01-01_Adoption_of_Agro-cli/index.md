@@ -1,10 +1,10 @@
 ---
-title: Adoption of Agro-climate Services
+title: "Adoption of Agro-climate Services"
 
-event: Tropentag Towards shifting paradigms in agriculture for a healthy and sustainable future
+event: "Tropentag Towards shifting paradigms in agriculture for a healthy and sustainable future"
 event_url: ""
 
-location: Prague, Czech Republic
+location: "Prague, Czech Republic"
 address:
   street: 
   city: 
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Adoption of Agro-climate Services
+summary: "Adoption of Agro-climate Services"
 abstract: ""
 
 date: "2021-01-01T00:00:00Z"
