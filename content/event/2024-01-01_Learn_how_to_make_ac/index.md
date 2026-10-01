@@ -13,7 +13,7 @@ address:
   country: 
 
 summary: "Learn how to make accurate estimates: Calibration training with an interactive online application"
-abstract: ""
+abstract: "Learn how to make accurate estimates: Calibration training with an interactive online application Christine Schmitz (University of Bonn), Eike Luedeling (University of Bonn), Cory Whitney (University of Bonn)"
 
 date: "2024-01-01T00:00:00Z"
 publishDate: "2024-01-01T00:00:00Z"

@@ -1,7 +1,7 @@
 ---
 title: "Agronomic and economic performance of integrated soil fertility management across an organic matter continuum and climate variability"
 
-event: "Tropentag 2026"
+event: ""
 event_url: ""
 
 location: "Goettingen, Germany"

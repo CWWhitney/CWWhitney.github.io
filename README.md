@@ -27,10 +27,6 @@ libraries with `bibtex_2academic.R`:
   `source("content/event/bibtex_2event.R")`. Fill in the conference name
   in Zotero ("Proceedings Title") so it shows as the event name.
 
-- activities, one event at a time: rename a Zotero export to the event
-  name (e.g. `Tropentag 2026.bib`), put it in `bib_inbox/` and run
-  `source("scripts/import_activities.R")` (see `bib_inbox/README.md`)
-
 - see the site locally blogdown::serve_site()
 
 - see the site online blogdown::build_site()

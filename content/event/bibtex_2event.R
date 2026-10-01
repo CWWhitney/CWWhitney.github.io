@@ -12,10 +12,13 @@ bibtex_2event <- function(bibfile,
                           outfold,
                           abstract = FALSE,
                           overwrite = FALSE,
-                          category = NULL) {
+                          category = NULL,
+                          pdf_bib = bibfile) {
   # category (e.g. "Conference" or "Invited Talk") is written into the
   # "tags" front matter so entries from different bib files can share one
   # activities timeline while remaining filterable by type.
+  # pdf_bib is a bib file with Zotero "file" fields (e.g. the master CV bib);
+  # the first PDF attached to each entry is copied into its page folder.
 
   require(RefManageR)
   require(dplyr)
@@ -35,6 +38,24 @@ bibtex_2event <- function(bibfile,
     mutate_all(~str_replace_all(.,'\\\\([%&_#$])', '\\1')) %>%  ### unescape LaTeX \%, \&, \_, \#, \$ for markdown/YAML
     select(-any_of("file"))   ### local Zotero attachment paths must not be published in cite.bib
 
+  # citation key -> path of the first PDF attachment, read from the raw bib
+  # text because Zotero escapes ";" in file names as "\\;" in the bib
+  pdf_paths <- local({
+    lines <- if (file.exists(pdf_bib)) readLines(pdf_bib, encoding = "UTF-8", warn = FALSE) else character(0)
+    keys  <- str_match(lines, "^\\s*@\\w+\\s*\\{\\s*([^,\\s]+)\\s*,")[, 2]
+    for (i in seq_along(keys)) if (is.na(keys[i]) && i > 1) keys[i] <- keys[i - 1]
+    is_file <- str_detect(lines, "^\\s*file\\s*=\\s*\\{")
+    files <- str_match(lines[is_file], "^\\s*file\\s*=\\s*\\{(.*)\\},?\\s*$")[, 2]
+    first_pdf <- vapply(files, function(f) {
+      parts <- str_split(str_replace_all(f, fixed("\\;"), "\u0001"), fixed(";"))[[1]]
+      parts <- str_replace_all(parts, fixed("\u0001"), ";")
+      pdfs  <- str_match(parts, "^[^:]*:(/.*\\.pdf):application/pdf$")[, 2]
+      pdfs  <- pdfs[!is.na(pdfs)]
+      if (length(pdfs) > 0) pdfs[1] else NA_character_
+    }, character(1), USE.NAMES = FALSE)
+    setNames(first_pdf, keys[is_file])
+  })
+
   # make bibtype the name of the type column (default for WriteBib)
   if (has_name(mytalks, "document_type") & !(has_name(mytalks, "bibtype"))) {
     mytalks <- mytalks %>% rename(bibtype = document_type)
@@ -48,7 +69,10 @@ bibtex_2event <- function(bibfile,
     # entirely (not just NA) from x when no entry in the whole file has them
     get_field <- function(field) if (field %in% names(x)) x[[field]] else NA
     # colons/quotes in free text break unquoted YAML scalars, so quote them
-    yaml_str <- function(value) paste0("\"", str_replace_all(value, '"', '\\"'), "\"")
+    yaml_str <- function(value) {
+      value <- str_squish(str_replace_all(value, fixed("\\"), "\\\\"))
+      paste0("\"", str_replace_all(value, '"', '\\\\"'), "\"")
+    }
 
     # define a date and create filename by appending date and start of title
     # use the bib "month" field when present, so talks sort within the year
@@ -69,6 +93,13 @@ bibtex_2event <- function(bibfile,
     dir.create(file.path(outfold, foldername), showWarnings = FALSE)
     filename = "index.md"
     outsubfold = paste(outfold, foldername, sep="/")
+
+    # Zotero PDF -> <folder>/<folder>.pdf; the theme shows a "PDF" button
+    # for a bundle file named after the page folder
+    pdf_from <- unname(pdf_paths[x[["rowname"]]])
+    if (length(pdf_from) == 1 && !is.na(pdf_from) && file.exists(pdf_from)) {
+      file.copy(pdf_from, file.path(outsubfold, paste0(foldername, ".pdf")), overwrite = TRUE)
+    }
 
     if (!file.exists(file.path(outsubfold, filename)) | overwrite) {
       fileConn <- file.path(outsubfold, filename)
@@ -151,15 +182,27 @@ bibtex_2event <- function(bibfile,
 
 
 # Running the function for conference contributions
+#
+# The master CV bib (exported from Zotero, with PDF attachment paths) is the
+# source when it exists on this machine. A copy without the local "file"
+# paths is kept in the repo so the site can be rebuilt elsewhere.
 
-my_bibfile <- "content/event/conferences.bib"
-out_fold   <- "content/event"
+master_bibfile <- "~/Library/CloudStorage/Dropbox/_profile/_master/curriculum_vitae/bib/conferences.bib"
+my_bibfile     <- "content/event/conferences.bib"
+out_fold       <- "content/event"
+if (file.exists(master_bibfile)) {
+  master_lines <- readLines(master_bibfile, encoding = "UTF-8", warn = FALSE)
+  writeLines(master_lines[!grepl("^\\s*file\\s*=\\s*\\{", master_lines)], my_bibfile, useBytes = TRUE)
+} else {
+  master_bibfile <- my_bibfile
+}
 bibtex_2event(
-  bibfile  = my_bibfile,
+  bibfile   = my_bibfile,
   outfold   = out_fold,
-  abstract  = FALSE,
+  abstract  = TRUE,
   overwrite = TRUE,
-  category  = "Conference"
+  category  = "Conference",
+  pdf_bib   = path.expand(master_bibfile)
 )
 
 # Running the function for invited talks/lectures, if that bib file exists.
@@ -171,7 +214,7 @@ if (file.exists(lectures_bibfile)) {
   bibtex_2event(
     bibfile   = lectures_bibfile,
     outfold   = out_fold,
-    abstract  = FALSE,
+    abstract  = TRUE,
     overwrite = TRUE,
     category  = "Invited Talk"
   )

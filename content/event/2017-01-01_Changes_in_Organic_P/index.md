@@ -1,7 +1,7 @@
 ---
 title: "Changes in Organic Participatory Guarantee Systems (PGS) in Northern Vietnam"
 
-event: "5th ISOFAR Scientific Conference Innovative Research for Organic 3.0  at the 19th Organic World Congress"
+event: "5th ISOFAR Scientific Conference Innovative Research for Organic 3.0 at the 19th Organic World Congress"
 event_url: ""
 
 location: "New Delhi, India"
