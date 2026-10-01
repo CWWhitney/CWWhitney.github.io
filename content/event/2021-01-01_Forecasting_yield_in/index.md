@@ -15,8 +15,8 @@ address:
 summary: "Forecasting yield in temperate fruit trees from winter chill accumulation"
 abstract: ""
 
-date: "2021-01-01T00:00:00Z"
-publishDate: "2021-01-01T00:00:00Z"
+date: "2021-11-01T00:00:00Z"
+publishDate: "2021-11-01T00:00:00Z"
 
 authors: ["Cory Whitney", "E. Fernandez", "K. Schiffers", "I.F. Cuneo", "E. Luedeling"]
 tags: ["Conference"]

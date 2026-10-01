@@ -1,7 +1,7 @@
 ---
 title: "Scaling regenerative agriculture through peer-led extension: causal evidence from the village-based advisor model in Kenya"
 
-event: ""
+event: "Tropentag 2026"
 event_url: ""
 
 location: "Goettingen, Germany"

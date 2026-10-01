@@ -15,8 +15,8 @@ address:
 summary: "Shades of sustainability – is there room for a new sustainability label in fruit production?"
 abstract: ""
 
-date: "2023-01-01T00:00:00Z"
-publishDate: "2023-01-01T00:00:00Z"
+date: "2023-10-01T00:00:00Z"
+publishDate: "2023-10-01T00:00:00Z"
 
 authors: ["Z. Heuschkel", "C.W. Whitney", "E. Luedeling"]
 tags: ["Conference"]

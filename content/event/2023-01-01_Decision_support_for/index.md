@@ -15,8 +15,8 @@ address:
 summary: "Decision support for selecting suitable frost protection methods for apricot orchards in Germany"
 abstract: ""
 
-date: "2023-01-01T00:00:00Z"
-publishDate: "2023-01-01T00:00:00Z"
+date: "2023-06-01T00:00:00Z"
+publishDate: "2023-06-01T00:00:00Z"
 
 authors: ["Christine Schmitz", "Lars Zimmermann", "Cory Whitney", "Martin Balmer", "Eike Luedeling "]
 tags: ["Conference"]

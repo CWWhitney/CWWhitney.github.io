@@ -15,8 +15,8 @@ address:
 summary: "Agroforestry and Reforestation with the Gold Standard– Decision Analysis of a Voluntary Carbon Offset Label"
 abstract: ""
 
-date: "2020-01-01T00:00:00Z"
-publishDate: "2020-01-01T00:00:00Z"
+date: "2020-09-01T00:00:00Z"
+publishDate: "2020-09-01T00:00:00Z"
 
 authors: ["Leonie Netter", "Eike Luedeling", "Cory Whitney"]
 tags: ["Conference"]

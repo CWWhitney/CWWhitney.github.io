@@ -24,12 +24,16 @@ bibtex_2event <- function(bibfile,
   require(tibble)
 
   # Import the bibtex file and convert to data.frame
-  mytalks   <- ReadBib(bibfile, check = "warn", .Encoding = "UTF-8") %>%
+  # check = FALSE: with "warn", RefManageR silently drops entries that lack
+  # a "required" field (e.g. @inproceedings without booktitle, as in Zotero
+  # exports of conference abstracts), so those talks never appeared.
+  mytalks   <- ReadBib(bibfile, check = FALSE, .Encoding = "UTF-8") %>%
     as.data.frame() %>%
     rownames_to_column() %>% # retain rownames (as labels for bibtex re-export)
 
     mutate_all(~str_remove_all(.,"[{}\"]")) %>%   ### remove {}" from bibtext entries
-    mutate_all(~str_replace_all(.,'\\\\([%&_#$])', '\\1'))  ### unescape LaTeX \%, \&, \_, \#, \$ for markdown/YAML
+    mutate_all(~str_replace_all(.,'\\\\([%&_#$])', '\\1')) %>%  ### unescape LaTeX \%, \&, \_, \#, \$ for markdown/YAML
+    select(-any_of("file"))   ### local Zotero attachment paths must not be published in cite.bib
 
   # make bibtype the name of the type column (default for WriteBib)
   if (has_name(mytalks, "document_type") & !(has_name(mytalks, "bibtype"))) {
@@ -47,13 +51,17 @@ bibtex_2event <- function(bibfile,
     yaml_str <- function(value) paste0("\"", str_replace_all(value, '"', '\\"'), "\"")
 
     # define a date and create filename by appending date and start of title
+    # use the bib "month" field when present, so talks sort within the year
+    month <- match(str_sub(tolower(get_field("month")), 1, 3), tolower(month.abb))
     if (!is.na(x[["year"]])) {
-      x[["date"]] <- paste0(x[["year"]], "-01-01")
+      x[["date"]] <- paste0(x[["year"]], "-", sprintf("%02d", ifelse(is.na(month), 1, month)), "-01")
     } else {
       x[["date"]] <- "2999-01-01"
     }
 
-    foldername <- paste(x[["date"]], x[["title"]] %>%
+    # folder name keeps the year-01-01 prefix (not the month) so existing
+    # folders are reused rather than duplicated
+    foldername <- paste(str_sub(x[["date"]], 1, 4) %>% paste0("-01-01"), x[["title"]] %>%
                           str_replace_all(fixed(" "), "_") %>%
                           str_remove_all(fixed(":")) %>%
                           str_sub(1, 20), sep = "_")

@@ -15,8 +15,8 @@ address:
 summary: "Can fruit walls raise the prospects of sensing and robotic technology in apple production?"
 abstract: ""
 
-date: "2022-01-01T00:00:00Z"
-publishDate: "2022-01-01T00:00:00Z"
+date: "2022-08-01T00:00:00Z"
+publishDate: "2022-08-01T00:00:00Z"
 
 authors: ["Lars Zimmermann", "Cory Whitney", "Eike Luedeling", "Martin Balmer"]
 tags: ["Conference"]

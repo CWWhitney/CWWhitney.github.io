@@ -15,8 +15,8 @@ address:
 summary: "Supporting agroforestry innovations with holistic, decision-focused modeling"
 abstract: ""
 
-date: "2022-01-01T00:00:00Z"
-publishDate: "2022-01-01T00:00:00Z"
+date: "2022-07-01T00:00:00Z"
+publishDate: "2022-07-01T00:00:00Z"
 
 authors: ["Eike Luedeling", "Katja Schiffers", "Hoa Do", "Leonie Netter", "Frederik Kuhl", "Cory Whitney"]
 tags: ["Conference"]
