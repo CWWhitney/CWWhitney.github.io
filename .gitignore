@@ -32,3 +32,5 @@ rsconnect/
 
 # Node dependencies
 node_modules/
+# processed inbox exports keep local Zotero paths; not for the public repo
+bib_inbox/processed/*.bib
