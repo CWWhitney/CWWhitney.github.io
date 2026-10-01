@@ -17,10 +17,19 @@ website](https://cory-whitney.com/).
 Run the site with these from `blogdown`, `RefManageR` and `anytime`
 libraries with `bibtex_2academic.R`:
 
-- use the bib file (BibTeX only) move latest bib files to
-  content/publication and run
+- publications: export the publications collection from Zotero (BibTeX
+  only), save it as `content/publication/papers.bib` and run
   `source("content/publication/bibtex_2academic.R")`
-  `source("content/event/bibtex_2event.R")`
+
+- activities (talks and conferences): export the conferences collection
+  from Zotero (BibTeX only), save it as `content/event/conferences.bib`
+  (invited talks: `content/event/lectures.bib`) and run
+  `source("content/event/bibtex_2event.R")`. Fill in the conference name
+  in Zotero ("Proceedings Title") so it shows as the event name.
+
+- activities, one event at a time: rename a Zotero export to the event
+  name (e.g. `Tropentag 2026.bib`), put it in `bib_inbox/` and run
+  `source("scripts/import_activities.R")` (see `bib_inbox/README.md`)
 
 - see the site locally blogdown::serve_site()
 
