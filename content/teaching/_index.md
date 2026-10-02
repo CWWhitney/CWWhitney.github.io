@@ -24,12 +24,13 @@ I teach and lecture in programs at the **University of Bonn** and the **Bonn Int
 
 I am committed to mentoring the next generation of scientists through direct supervision and academic tutoring.
 
-**Current PhD & MSc Supervision**
-- PhD: D. Sanginga, S. Moon
-- MSc: N. Syifaun Naïsi
+**PhD & MSc Supervision**
+- Current PhD: D. Sanginga
+- Current MSc: M. Uzun
+- Past MSc: N. Syifaun Nafsi
 
 **Past & Present Tutoring**
-- PhDs: H. Do, O. Burbano-Figueroa, E. Fernandez, I. Liman, G. Luu, A. Mya Mon, W. Olnoch, M. Ruett, N. Sulaiman, N. Yigzaw
+- PhDs: S. Moon, H. Do, O. Burbano-Figueroa, E. Fernandez, I. Liman, G. Luu, A. Mya Mon, W. Olnoch, M. Ruett, N. Sulaiman, N. Yigzaw
 - MScs: S. Moon, D. Ahebwe, D. Bastakoti, H. Muftumbiro, P. Phyo Hein, G. Rojas, A. Mendizábal Mondragón
 
 ### Pedagogical Foundation

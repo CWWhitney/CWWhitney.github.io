@@ -22,14 +22,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Invited instructor
-    company: Sino-Europe Young Leadership in Bioeconomy - Mountain Futures Summer School
-    company_url: ''
-    location: Yunnan, China
-    date_start: '2026-08-12'
-    date_end: '2026-08-25'
-    description: Teaching at a summer school on bioeconomy and mountain futures, hosted by Mountain Futures and the Landscape Alliance (CIFOR & ICRAF).
-
   - title: Postdoctoral researcher
     company: University of Bonn, Institute of Crop Science and Resource Conservation (INRES), Horticulture Institute
     company_url: ''

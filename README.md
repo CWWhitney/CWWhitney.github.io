@@ -1,4 +1,4 @@
-<img src="content/authors/admin/avatar.png" alt="Cory Whitney hex" align="right" width = "25%" height="25%"/>
+<img src="content/authors/admin/avatar.jpg" alt="Cory Whitney" align="right" width = "25%" height="25%"/>
 
 You have landed on my github.io page. Please visit [my
 website](https://cory-whitney.com/).

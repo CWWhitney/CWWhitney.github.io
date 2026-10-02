@@ -6,12 +6,12 @@ title: Dr. Cory Whitney
 superuser: true
 
 # Role/position/tagline
-role: Researcher
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name:  University of Bonn
-  url: https://www.uni-bonn.de/
+- name: Institute of Crop Science and Resource Conservation (INRES), University of Bonn
+  url: https://www.inres.uni-bonn.de/
 
 # Short bio (displayed in user profile at end of posts)
 bio: "Main research topics: Human Ecology, Agroforestry, and Decision Analysis"
@@ -31,12 +31,6 @@ education:
   - course: MSc in Sustainable International Agriculture/International Organic Agriculture
     institution: George-August University Göttingen/University of Kassel
     year: 2011
-  - course: BA in Human Ecology
-    institution: College of the Atlantic
-    year: 2003
-  - course: AA in Natural Resources Management
-    institution: Sterling College, Vermont
-    year: 2001
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -49,6 +43,9 @@ social:
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.de/citations?user=YPIcAA4AAAAJ&hl
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-4988-4583
 - icon: github
   icon_pack: fab
   link: https://github.com/CWWhitney
