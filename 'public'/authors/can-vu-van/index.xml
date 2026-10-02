@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Can Vu Van | Cory Whitney</title>
+    <link>/authors/can-vu-van/</link>
+      <atom:link href="/authors/can-vu-van/index.xml" rel="self" type="application/rss+xml" />
+    <description>Can Vu Van</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Can Vu Van</title>
+      <link>/authors/can-vu-van/</link>
+    </image>
+    
+    <item>
+      <title>Hmong Conservation: Lessons in Ethnobotany from the Elders of Long Lan, Luang Prabang, Lao People’s Democratic Republic</title>
+      <link>/talk/hmong-conservation-lessons-in-ethnobotany-from-the-elders-of-long-lan-luang-prabang-lao-peoples-democratic-republic/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/talk/hmong-conservation-lessons-in-ethnobotany-from-the-elders-of-long-lan-luang-prabang-lao-peoples-democratic-republic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning with Elders of the Dao, Hmong, Lu, Ma Lieng, Sach, Tai, Tay, and Xinh Mun Ethnic Communities of Northern Vietnam</title>
+      <link>/talk/learning-with-elders-of-the-dao-hmong-lu-ma-lieng-sach-tai-tay-and-xinh-mun-ethnic-communities-of-northern-vietnam/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/talk/learning-with-elders-of-the-dao-hmong-lu-ma-lieng-sach-tai-tay-and-xinh-mun-ethnic-communities-of-northern-vietnam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conservation and ethnobotanical knowledge of a Hmong community in Long Lan, Luang Prabang, Lao People’s Democratic Republic</title>
+      <link>/publication/2014-01-01_conservation_and_eth/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-01-01_conservation_and_eth/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

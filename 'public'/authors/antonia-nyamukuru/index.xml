@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antonia Nyamukuru | Cory Whitney</title>
+    <link>/authors/antonia-nyamukuru/</link>
+      <atom:link href="/authors/antonia-nyamukuru/index.xml" rel="self" type="application/rss+xml" />
+    <description>Antonia Nyamukuru</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Antonia Nyamukuru</title>
+      <link>/authors/antonia-nyamukuru/</link>
+    </image>
+    
+    <item>
+      <title>Allometric models for aboveground biomass estimation of small trees and shrubs in African savanna ecosystems</title>
+      <link>/publication/2023-01-01_allometric_models_fo/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023-01-01_allometric_models_fo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crop diversity in homegardens of southwest Uganda and its importance for rural livelihoods</title>
+      <link>/publication/2018-01-01_crop_diversity_in_ho/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_crop_diversity_in_ho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Food security and traditional farming systems; a case study of homegardens in Southwestern Uganda</title>
+      <link>/talk/food-security-and-traditional-farming-systems-a-case-study-of-homegardens-in-southwestern-uganda/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/talk/food-security-and-traditional-farming-systems-a-case-study-of-homegardens-in-southwestern-uganda/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sin Min Vang | Cory Whitney</title>
+    <link>/authors/sin-min-vang/</link>
+      <atom:link href="/authors/sin-min-vang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sin Min Vang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Sin Min Vang</title>
+      <link>/authors/sin-min-vang/</link>
+    </image>
+    
+    <item>
+      <title>Learning with elders; human ecology and ethnobotany explorations in northern and central Vietnam</title>
+      <link>/publication/2016-01-01_learning_with_elders/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-01-01_learning_with_elders/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

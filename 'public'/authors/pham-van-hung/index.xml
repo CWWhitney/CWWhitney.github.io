@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pham-Van Hung | Cory Whitney</title>
+    <link>/authors/pham-van-hung/</link>
+      <atom:link href="/authors/pham-van-hung/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pham-Van Hung</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Pham-Van Hung</title>
+      <link>/authors/pham-van-hung/</link>
+    </image>
+    
+    <item>
+      <title>Intervention Forecasting and Monitoring A Land Use Decision in Peri-Urban Hanoi</title>
+      <link>/talk/intervention-forecasting-and-monitoring-a-land-use-decision-in-peri-urban-hanoi/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/intervention-forecasting-and-monitoring-a-land-use-decision-in-peri-urban-hanoi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling the impact of land use choices on livelihoods and food environments in peri-urban hanoi</title>
+      <link>/talk/modelling-the-impact-of-land-use-choices-on-livelihoods-and-food-environments-in-peri-urban-hanoi/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/modelling-the-impact-of-land-use-choices-on-livelihoods-and-food-environments-in-peri-urban-hanoi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

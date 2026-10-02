@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lars Caspersen | Cory Whitney</title>
+    <link>/authors/lars-caspersen/</link>
+      <atom:link href="/authors/lars-caspersen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lars Caspersen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Lars Caspersen</title>
+      <link>/authors/lars-caspersen/</link>
+    </image>
+    
+    <item>
+      <title>Modelling decisions to improve food environments for vulnerable urban communities in hanoi, Vietnam</title>
+      <link>/talk/modelling-decisions-to-improve-food-environments-for-vulnerable-urban-communities-in-hanoi-vietnam/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/talk/modelling-decisions-to-improve-food-environments-for-vulnerable-urban-communities-in-hanoi-vietnam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Participatory modelling of scenarios to restore nitrogen cycles in a nutrient-saturated area</title>
+      <link>/publication/2024-01-01_participatory_modell/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/2024-01-01_participatory_modell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decision support for farmers – a systems approach illustrated by an analysis on the impact of integrating chickens into German apple orchards</title>
+      <link>/talk/decision-support-for-farmers-a-systems-approach-illustrated-by-an-analysis-on-the-impact-of-integrating-chickens-into-german-apple-orchards/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/talk/decision-support-for-farmers-a-systems-approach-illustrated-by-an-analysis-on-the-impact-of-integrating-chickens-into-german-apple-orchards/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

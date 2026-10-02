@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javier Miranda | Cory Whitney</title>
+    <link>/authors/javier-miranda/</link>
+      <atom:link href="/authors/javier-miranda/index.xml" rel="self" type="application/rss+xml" />
+    <description>Javier Miranda</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Javier Miranda</title>
+      <link>/authors/javier-miranda/</link>
+    </image>
+    
+    <item>
+      <title>Unpacking the outcomes and trade-offs of Integrated Soil Fertility Management with probabilistic modeling approaches</title>
+      <link>/talk/unpacking-the-outcomes-and-trade-offs-of-integrated-soil-fertility-management-with-probabilistic-modeling-approaches/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/talk/unpacking-the-outcomes-and-trade-offs-of-integrated-soil-fertility-management-with-probabilistic-modeling-approaches/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

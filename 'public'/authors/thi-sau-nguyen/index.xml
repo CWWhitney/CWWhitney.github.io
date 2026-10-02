@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thi Sau Nguyen | Cory Whitney</title>
+    <link>/authors/thi-sau-nguyen/</link>
+      <atom:link href="/authors/thi-sau-nguyen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thi Sau Nguyen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Thi Sau Nguyen</title>
+      <link>/authors/thi-sau-nguyen/</link>
+    </image>
+    
+    <item>
+      <title>Modelling decisions to improve food environments for vulnerable urban communities in hanoi, Vietnam</title>
+      <link>/talk/modelling-decisions-to-improve-food-environments-for-vulnerable-urban-communities-in-hanoi-vietnam/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/talk/modelling-decisions-to-improve-food-environments-for-vulnerable-urban-communities-in-hanoi-vietnam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nutrition interventions for enhanced child health outcomes in Hanoi, Vietnam</title>
+      <link>/talk/nutrition-interventions-for-enhanced-child-health-outcomes-in-hanoi-vietnam/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/talk/nutrition-interventions-for-enhanced-child-health-outcomes-in-hanoi-vietnam/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

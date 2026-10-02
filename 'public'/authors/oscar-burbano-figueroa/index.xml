@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oscar Burbano-Figueroa | Cory Whitney</title>
+    <link>/authors/oscar-burbano-figueroa/</link>
+      <atom:link href="/authors/oscar-burbano-figueroa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Oscar Burbano-Figueroa</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Oscar Burbano-Figueroa</title>
+      <link>/authors/oscar-burbano-figueroa/</link>
+    </image>
+    
+    <item>
+      <title>Farm-planning under risk: An application of decision analysis and portfolio theory for the assessment of crop diversification strategies in horticultural systems</title>
+      <link>/publication/2022-01-01_farm-planning_under_/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-01-01_farm-planning_under_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Profitability of farm-scale management strategies against the boll weevil in the tropics: case study from the Colombian Caribbean</title>
+      <link>/publication/2022-01-01_profitability_of_far/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-01-01_profitability_of_far/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

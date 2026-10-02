@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luedeling Eike | Cory Whitney</title>
+    <link>/authors/luedeling-eike/</link>
+      <atom:link href="/authors/luedeling-eike/index.xml" rel="self" type="application/rss+xml" />
+    <description>Luedeling Eike</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Luedeling Eike</title>
+      <link>/authors/luedeling-eike/</link>
+    </image>
+    
+    <item>
+      <title>Decision Analysis and Impact Pathway for Agroforestry Integration on Dairy Farms in the Eifel Region, Germany</title>
+      <link>/talk/decision-analysis-and-impact-pathway-for-agroforestry-integration-on-dairy-farms-in-the-eifel-region-germany/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/decision-analysis-and-impact-pathway-for-agroforestry-integration-on-dairy-farms-in-the-eifel-region-germany/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

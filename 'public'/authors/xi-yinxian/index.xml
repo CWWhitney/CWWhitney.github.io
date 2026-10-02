@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xi Yinxian | Cory Whitney</title>
+    <link>/authors/xi-yinxian/</link>
+      <atom:link href="/authors/xi-yinxian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xi Yinxian</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Xi Yinxian</title>
+      <link>/authors/xi-yinxian/</link>
+    </image>
+    
+    <item>
+      <title>How people select wild edible plants – Case study with Tibetan and Naxi people in Northwest Yunnan, China</title>
+      <link>/talk/how-people-select-wild-edible-plants-case-study-with-tibetan-and-naxi-people-in-northwest-yunnan-china/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/how-people-select-wild-edible-plants-case-study-with-tibetan-and-naxi-people-in-northwest-yunnan-china/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

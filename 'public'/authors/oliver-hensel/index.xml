@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oliver Hensel | Cory Whitney</title>
+    <link>/authors/oliver-hensel/</link>
+      <atom:link href="/authors/oliver-hensel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Oliver Hensel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Oliver Hensel</title>
+      <link>/authors/oliver-hensel/</link>
+    </image>
+    
+    <item>
+      <title>Crop diversity in homegardens of southwest Uganda and its importance for rural livelihoods</title>
+      <link>/publication/2018-01-01_crop_diversity_in_ho/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_crop_diversity_in_ho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homegardens and the future of food and nutrition security in southwest Uganda</title>
+      <link>/publication/2017-01-01_homegardens_and_the_/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_homegardens_and_the_/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

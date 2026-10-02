@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christine Schmitz | Cory Whitney</title>
+    <link>/authors/christine-schmitz/</link>
+      <atom:link href="/authors/christine-schmitz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christine Schmitz</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Christine Schmitz</title>
+      <link>/authors/christine-schmitz/</link>
+    </image>
+    
+    <item>
+      <title>Model-based decision support for the choice of active spring frost protection measures in apple production</title>
+      <link>/publication/2025-01-01_model-based_decision/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/2025-01-01_model-based_decision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn how to make accurate estimates: Calibration training with an interactive online application</title>
+      <link>/talk/learn-how-to-make-accurate-estimates-calibration-training-with-an-interactive-online-application/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/learn-how-to-make-accurate-estimates-calibration-training-with-an-interactive-online-application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decision support for selecting suitable frost protection methods for apricot orchards in Germany</title>
+      <link>/talk/decision-support-for-selecting-suitable-frost-protection-methods-for-apricot-orchards-in-germany/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/talk/decision-support-for-selecting-suitable-frost-protection-methods-for-apricot-orchards-in-germany/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

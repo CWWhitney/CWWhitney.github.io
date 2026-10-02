@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hung Pham-Van | Cory Whitney</title>
+    <link>/authors/hung-pham-van/</link>
+      <atom:link href="/authors/hung-pham-van/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hung Pham-Van</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Hung Pham-Van</title>
+      <link>/authors/hung-pham-van/</link>
+    </image>
+    
+    <item>
+      <title>Farmers’ decision-making: iterative model validation and livelihood alternatives for agricultural land in peri-urban hanoi</title>
+      <link>/talk/farmers-decision-making-iterative-model-validation-and-livelihood-alternatives-for-agricultural-land-in-peri-urban-hanoi/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/talk/farmers-decision-making-iterative-model-validation-and-livelihood-alternatives-for-agricultural-land-in-peri-urban-hanoi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Decision Analysis to Support Agricultural Land Use Policy in Peri-Urban Hanoi: Integrating Local Knowledge and Validation</title>
+      <link>/talk/using-decision-analysis-to-support-agricultural-land-use-policy-in-peri-urban-hanoi-integrating-local-knowledge-and-validation/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/talk/using-decision-analysis-to-support-agricultural-land-use-policy-in-peri-urban-hanoi-integrating-local-knowledge-and-validation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preserving food environments and livelihoods: Transitions and challenges for the Ca Dong people in Vietnam</title>
+      <link>/talk/preserving-food-environments-and-livelihoods-transitions-and-challenges-for-the-ca-dong-people-in-vietnam/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/talk/preserving-food-environments-and-livelihoods-transitions-and-challenges-for-the-ca-dong-people-in-vietnam/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

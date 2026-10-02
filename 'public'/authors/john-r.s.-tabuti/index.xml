@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John R.S. Tabuti | Cory Whitney</title>
+    <link>/authors/john-r.s.-tabuti/</link>
+      <atom:link href="/authors/john-r.s.-tabuti/index.xml" rel="self" type="application/rss+xml" />
+    <description>John R.S. Tabuti</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>John R.S. Tabuti</title>
+      <link>/authors/john-r.s.-tabuti/</link>
+    </image>
+    
+    <item>
+      <title>Determinants of pigeonpea adoption among smallholder farmers across three agro-ecological zones in Uganda</title>
+      <link>/publication/2026-01-01_determinants_of_pige/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/2026-01-01_determinants_of_pige/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homegardens and the future of food and nutrition security in southwest Uganda</title>
+      <link>/publication/2017-01-01_homegardens_and_the_/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_homegardens_and_the_/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

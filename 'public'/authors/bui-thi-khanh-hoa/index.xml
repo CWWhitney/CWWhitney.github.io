@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bui Thi Khanh Hoa | Cory Whitney</title>
+    <link>/authors/bui-thi-khanh-hoa/</link>
+      <atom:link href="/authors/bui-thi-khanh-hoa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bui Thi Khanh Hoa</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Bui Thi Khanh Hoa</title>
+      <link>/authors/bui-thi-khanh-hoa/</link>
+    </image>
+    
+    <item>
+      <title>Intervention Forecasting and Monitoring A Land Use Decision in Peri-Urban Hanoi</title>
+      <link>/talk/intervention-forecasting-and-monitoring-a-land-use-decision-in-peri-urban-hanoi/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/intervention-forecasting-and-monitoring-a-land-use-decision-in-peri-urban-hanoi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling the impact of land use choices on livelihoods and food environments in peri-urban hanoi</title>
+      <link>/talk/modelling-the-impact-of-land-use-choices-on-livelihoods-and-food-environments-in-peri-urban-hanoi/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/modelling-the-impact-of-land-use-choices-on-livelihoods-and-food-environments-in-peri-urban-hanoi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nutrition interventions for enhanced child health outcomes in Hanoi, Vietnam</title>
+      <link>/talk/nutrition-interventions-for-enhanced-child-health-outcomes-in-hanoi-vietnam/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/talk/nutrition-interventions-for-enhanced-child-health-outcomes-in-hanoi-vietnam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preserving food environments and livelihoods: Transitions and challenges for the Ca Dong people in Vietnam</title>
+      <link>/talk/preserving-food-environments-and-livelihoods-transitions-and-challenges-for-the-ca-dong-people-in-vietnam/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/talk/preserving-food-environments-and-livelihoods-transitions-and-challenges-for-the-ca-dong-people-in-vietnam/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

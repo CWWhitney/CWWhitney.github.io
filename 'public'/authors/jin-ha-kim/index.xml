@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jin Ha Kim | Cory Whitney</title>
+    <link>/authors/jin-ha-kim/</link>
+      <atom:link href="/authors/jin-ha-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jin Ha Kim</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Jin Ha Kim</title>
+      <link>/authors/jin-ha-kim/</link>
+    </image>
+    
+    <item>
+      <title>Government Policies for the Promotion of Organic Agriculture with a Focus on the Asian Pacific Region</title>
+      <link>/talk/government-policies-for-the-promotion-of-organic-agriculture-with-a-focus-on-the-asian-pacific-region/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/talk/government-policies-for-the-promotion-of-organic-agriculture-with-a-focus-on-the-asian-pacific-region/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

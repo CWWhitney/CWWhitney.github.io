@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anna Kullmer Matas | Cory Whitney</title>
+    <link>/authors/anna-kullmer-matas/</link>
+      <atom:link href="/authors/anna-kullmer-matas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anna Kullmer Matas</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Anna Kullmer Matas</title>
+      <link>/authors/anna-kullmer-matas/</link>
+    </image>
+    
+    <item>
+      <title>The potential of participatory approaches in school-based prevention of non-communicable diseases in Mexico</title>
+      <link>/talk/the-potential-of-participatory-approaches-in-school-based-prevention-of-non-communicable-diseases-in-mexico/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/talk/the-potential-of-participatory-approaches-in-school-based-prevention-of-non-communicable-diseases-in-mexico/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Katja Schiffers | Cory Whitney</title>
+    <link>/authors/katja-schiffers/</link>
+      <atom:link href="/authors/katja-schiffers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Katja Schiffers</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Katja Schiffers</title>
+      <link>/authors/katja-schiffers/</link>
+    </image>
+    
+    <item>
+      <title>Agronomic and economic performance of integrated soil fertility management across an organic matter continuum and climate variability</title>
+      <link>/talk/agronomic-and-economic-performance-of-integrated-soil-fertility-management-across-an-organic-matter-continuum-and-climate-variability/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/talk/agronomic-and-economic-performance-of-integrated-soil-fertility-management-across-an-organic-matter-continuum-and-climate-variability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-based decision support for the choice of active spring frost protection measures in apple production</title>
+      <link>/publication/2025-01-01_model-based_decision/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/2025-01-01_model-based_decision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting agroforestry innovations with holistic, decision-focused modeling</title>
+      <link>/talk/supporting-agroforestry-innovations-with-holistic-decision-focused-modeling/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/talk/supporting-agroforestry-innovations-with-holistic-decision-focused-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing agroforestry options for sustainable land use in Germany</title>
+      <link>/talk/assessing-agroforestry-options-for-sustainable-land-use-in-germany/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/talk/assessing-agroforestry-options-for-sustainable-land-use-in-germany/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An open-source modelling framework for fruit and nut tree phenology</title>
+      <link>/talk/an-open-source-modelling-framework-for-fruit-and-nut-tree-phenology/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/an-open-source-modelling-framework-for-fruit-and-nut-tree-phenology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defining research priorities in complex agroforestry systems</title>
+      <link>/talk/defining-research-priorities-in-complex-agroforestry-systems/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/defining-research-priorities-in-complex-agroforestry-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does agroforestry modelling need a paradigm shift?</title>
+      <link>/talk/does-agroforestry-modelling-need-a-paradigm-shift/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/does-agroforestry-modelling-need-a-paradigm-shift/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

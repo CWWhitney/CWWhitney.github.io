@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juliet Wanjiku Kamau | Cory Whitney</title>
+    <link>/authors/juliet-wanjiku-kamau/</link>
+      <atom:link href="/authors/juliet-wanjiku-kamau/index.xml" rel="self" type="application/rss+xml" />
+    <description>Juliet Wanjiku Kamau</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Juliet Wanjiku Kamau</title>
+      <link>/authors/juliet-wanjiku-kamau/</link>
+    </image>
+    
+    <item>
+      <title>Comparing nature conservation policies using a Bayesian belief network: Modeling sequential effects on adoption, farming practices, and biodiversity</title>
+      <link>/publication/2025-01-01_comparing_nature_con/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/2025-01-01_comparing_nature_con/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing nature conservation policies using a Bayesian decision network: modeling sequential effects on adoption, farming practices, and biodiversity</title>
+      <link>/talk/comparing-nature-conservation-policies-using-a-bayesian-decision-network-modeling-sequential-effects-on-adoption-farming-practices-and-biodiversity/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/comparing-nature-conservation-policies-using-a-bayesian-decision-network-modeling-sequential-effects-on-adoption-farming-practices-and-biodiversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A holistic sustainability assessment of organic (certified and non-certified) and non-organic smallholder farms in Kenya</title>
+      <link>/publication/2021-01-01_a_holistic_sustainab/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_a_holistic_sustainab/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

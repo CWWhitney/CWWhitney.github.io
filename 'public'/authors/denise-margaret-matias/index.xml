@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Denise Margaret Matias | Cory Whitney</title>
+    <link>/authors/denise-margaret-matias/</link>
+      <atom:link href="/authors/denise-margaret-matias/index.xml" rel="self" type="application/rss+xml" />
+    <description>Denise Margaret Matias</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Denise Margaret Matias</title>
+      <link>/authors/denise-margaret-matias/</link>
+    </image>
+    
+    <item>
+      <title>Maping geonarratives of biodiversity conservation through the diaspora</title>
+      <link>/talk/maping-geonarratives-of-biodiversity-conservation-through-the-diaspora/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/maping-geonarratives-of-biodiversity-conservation-through-the-diaspora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holistic model building: supporting risk transfer decisions in agroforestry systems</title>
+      <link>/talk/holistic-model-building-supporting-risk-transfer-decisions-in-agroforestry-systems/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/holistic-model-building-supporting-risk-transfer-decisions-in-agroforestry-systems/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

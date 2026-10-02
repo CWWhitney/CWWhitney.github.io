@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Natalia Estrada-Carmona | Cory Whitney</title>
+    <link>/authors/natalia-estrada-carmona/</link>
+      <atom:link href="/authors/natalia-estrada-carmona/index.xml" rel="self" type="application/rss+xml" />
+    <description>Natalia Estrada-Carmona</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Natalia Estrada-Carmona</title>
+      <link>/authors/natalia-estrada-carmona/</link>
+    </image>
+    
+    <item>
+      <title>A Knowledge Brokering Framework for Integrated Landscape Management</title>
+      <link>/publication/2020-01-01_a_knowledge_brokerin/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_a_knowledge_brokerin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

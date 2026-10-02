@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marius Ruett | Cory Whitney</title>
+    <link>/authors/marius-ruett/</link>
+      <atom:link href="/authors/marius-ruett/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marius Ruett</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Marius Ruett</title>
+      <link>/authors/marius-ruett/</link>
+    </image>
+    
+    <item>
+      <title>Assessing expected utility and profitability to support decision-making for disease control strategies in ornamental heather production</title>
+      <link>/publication/2022-01-01_assessing_expected_u/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-01-01_assessing_expected_u/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hyperspectral imaging for high-throughput vitality monitoring in ornamental plant production</title>
+      <link>/publication/2022-01-01_hyperspectral_imagin/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-01-01_hyperspectral_imagin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-based evaluation of management options in ornamental plant nurseries</title>
+      <link>/publication/2020-01-01_model-based_evaluati/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_model-based_evaluati/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

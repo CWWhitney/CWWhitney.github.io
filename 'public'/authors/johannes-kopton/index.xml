@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Johannes Kopton | Cory Whitney</title>
+    <link>/authors/johannes-kopton/</link>
+      <atom:link href="/authors/johannes-kopton/index.xml" rel="self" type="application/rss+xml" />
+    <description>Johannes Kopton</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Johannes Kopton</title>
+      <link>/authors/johannes-kopton/</link>
+    </image>
+    
+    <item>
+      <title>A decision-analysis framework for school garden investments in Vietnam: evaluating trade-offs for nutrition, biodiversity, and economic outcomes</title>
+      <link>/publication/2026-01-01_a_decision-analysis_/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/2026-01-01_a_decision-analysis_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Decision Analysis Approach for Optimizing School Garden Interventions - Addressing Child Health, Biodiversity, and Economic Outcomes</title>
+      <link>/talk/a-decision-analysis-approach-for-optimizing-school-garden-interventions-addressing-child-health-biodiversity-and-economic-outcomes/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/talk/a-decision-analysis-approach-for-optimizing-school-garden-interventions-addressing-child-health-biodiversity-and-economic-outcomes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

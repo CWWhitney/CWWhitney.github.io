@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tesfaye Berhanu Woldeyohanes | Cory Whitney</title>
+    <link>/authors/tesfaye-berhanu-woldeyohanes/</link>
+      <atom:link href="/authors/tesfaye-berhanu-woldeyohanes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tesfaye Berhanu Woldeyohanes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Tesfaye Berhanu Woldeyohanes</title>
+      <link>/authors/tesfaye-berhanu-woldeyohanes/</link>
+    </image>
+    
+    <item>
+      <title>Scaling regenerative agriculture through peer-led extension: causal evidence from the village-based advisor model in Kenya</title>
+      <link>/talk/scaling-regenerative-agriculture-through-peer-led-extension-causal-evidence-from-the-village-based-advisor-model-in-kenya/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/talk/scaling-regenerative-agriculture-through-peer-led-extension-causal-evidence-from-the-village-based-advisor-model-in-kenya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regenerative agriculture for planetary health: empirical assessment and probabilistic modelling of soil, agronomic, and economic outcomes in Kenya</title>
+      <link>/talk/regenerative-agriculture-for-planetary-health-empirical-assessment-and-probabilistic-modelling-of-soil-agronomic-and-economic-outcomes-in-kenya/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/talk/regenerative-agriculture-for-planetary-health-empirical-assessment-and-probabilistic-modelling-of-soil-agronomic-and-economic-outcomes-in-kenya/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

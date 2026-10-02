@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yao Fu | Cory Whitney</title>
+    <link>/authors/yao-fu/</link>
+      <atom:link href="/authors/yao-fu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yao Fu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Yao Fu</title>
+      <link>/authors/yao-fu/</link>
+    </image>
+    
+    <item>
+      <title>Wild edible plants selection of tibetan and naxi people in northwest yunnan, china</title>
+      <link>/publication/2025-01-01_wild_edible_plants_s/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/2025-01-01_wild_edible_plants_s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How people select wild edible plants – Case study with Tibetan and Naxi people in Northwest Yunnan, China</title>
+      <link>/talk/how-people-select-wild-edible-plants-case-study-with-tibetan-and-naxi-people-in-northwest-yunnan-china/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/how-people-select-wild-edible-plants-case-study-with-tibetan-and-naxi-people-in-northwest-yunnan-china/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Documenting the heritage along the Silk Road: An ethnobotanical study of medicinal teas used in Southern Xinjiang, China</title>
+      <link>/publication/2020-01-01_documenting_the_heri/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_documenting_the_heri/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

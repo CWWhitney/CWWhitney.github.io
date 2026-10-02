@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Nyamukuru | Cory Whitney</title>
+    <link>/authors/a.-nyamukuru/</link>
+      <atom:link href="/authors/a.-nyamukuru/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Nyamukuru</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>A. Nyamukuru</title>
+      <link>/authors/a.-nyamukuru/</link>
+    </image>
+    
+    <item>
+      <title>Local knowledge for food security in Uganda; Postharvest practices in homegardens of the Ugandan Southwest</title>
+      <link>/talk/local-knowledge-for-food-security-in-uganda-postharvest-practices-in-homegardens-of-the-ugandan-southwest/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/talk/local-knowledge-for-food-security-in-uganda-postharvest-practices-in-homegardens-of-the-ugandan-southwest/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

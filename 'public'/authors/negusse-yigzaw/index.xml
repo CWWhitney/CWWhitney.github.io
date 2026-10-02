@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Negusse Yigzaw | Cory Whitney</title>
+    <link>/authors/negusse-yigzaw/</link>
+      <atom:link href="/authors/negusse-yigzaw/index.xml" rel="self" type="application/rss+xml" />
+    <description>Negusse Yigzaw</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Negusse Yigzaw</title>
+      <link>/authors/negusse-yigzaw/</link>
+    </image>
+    
+    <item>
+      <title>A Probabilistic Framework for the Cost-Benefit Evaluation of Restoration Outcomes for a Dry Afromontane Forest in Northern Ethiopia</title>
+      <link>/talk/a-probabilistic-framework-for-the-cost-benefit-evaluation-of-restoration-outcomes-for-a-dry-afromontane-forest-in-northern-ethiopia/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/a-probabilistic-framework-for-the-cost-benefit-evaluation-of-restoration-outcomes-for-a-dry-afromontane-forest-in-northern-ethiopia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic simulation of restoration outcomes for a dry afromontane forest landscape in northern Ethiopia</title>
+      <link>/publication/2021-01-01_stochastic_simulatio/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_stochastic_simulatio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic impact evaluation of an irrigation development intervention in Northern Ethiopia</title>
+      <link>/publication/2019-01-01_stochastic_impact_ev/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-01-01_stochastic_impact_ev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viability of an Irrigation Development Intervention in Tigray: an Application of Stochastic Impact Evaluation</title>
+      <link>/talk/viability-of-an-irrigation-development-intervention-in-tigray-an-application-of-stochastic-impact-evaluation/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/talk/viability-of-an-irrigation-development-intervention-in-tigray-an-application-of-stochastic-impact-evaluation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

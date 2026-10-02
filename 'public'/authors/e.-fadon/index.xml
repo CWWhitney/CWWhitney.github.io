@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. Fadon | Cory Whitney</title>
+    <link>/authors/e.-fadon/</link>
+      <atom:link href="/authors/e.-fadon/index.xml" rel="self" type="application/rss+xml" />
+    <description>E. Fadon</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>E. Fadon</title>
+      <link>/authors/e.-fadon/</link>
+    </image>
+    
+    <item>
+      <title>A new modelling framework for fruit and nut tree phenology</title>
+      <link>/talk/a-new-modelling-framework-for-fruit-and-nut-tree-phenology/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/a-new-modelling-framework-for-fruit-and-nut-tree-phenology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Modelling Framework for Fruit and Nut Tree Phenology</title>
+      <link>/publication/2021-01-01_a_new_modelling_fram/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_a_new_modelling_fram/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

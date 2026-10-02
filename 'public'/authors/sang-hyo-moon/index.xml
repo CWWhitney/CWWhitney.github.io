@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sang Hyo Moon | Cory Whitney</title>
+    <link>/authors/sang-hyo-moon/</link>
+      <atom:link href="/authors/sang-hyo-moon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sang Hyo Moon</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Sang Hyo Moon</title>
+      <link>/authors/sang-hyo-moon/</link>
+    </image>
+    
+    <item>
+      <title>Wirtschaftliche und ökologische Entscheidungsanalyse der Tomatensämlings- und Tomatenproduktion mit Priming</title>
+      <link>/talk/wirtschaftliche-und-okologische-entscheidungsanalyse-der-tomatensamlings-und-tomatenproduktion-mit-priming/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/wirtschaftliche-und-okologische-entscheidungsanalyse-der-tomatensamlings-und-tomatenproduktion-mit-priming/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

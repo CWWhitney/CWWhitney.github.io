@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S Thorndal Jorgensen | Cory Whitney</title>
+    <link>/authors/s-thorndal-jorgensen/</link>
+      <atom:link href="/authors/s-thorndal-jorgensen/index.xml" rel="self" type="application/rss+xml" />
+    <description>S Thorndal Jorgensen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>S Thorndal Jorgensen</title>
+      <link>/authors/s-thorndal-jorgensen/</link>
+    </image>
+    
+    <item>
+      <title>Farm Management Schemes within Organic PGS; Survey and Analysis in Sóc Sơn, Hanoi, Vietnam</title>
+      <link>/talk/farm-management-schemes-within-organic-pgs-survey-and-analysis-in-soc-son-hanoi-vietnam/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/talk/farm-management-schemes-within-organic-pgs-survey-and-analysis-in-soc-son-hanoi-vietnam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measurable Impacts of the “Principles of Organic Agriculture”; Survey of A Vietnamese Organic PGS</title>
+      <link>/talk/measurable-impacts-of-the-principles-of-organic-agriculture-survey-of-a-vietnamese-organic-pgs/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/talk/measurable-impacts-of-the-principles-of-organic-agriculture-survey-of-a-vietnamese-organic-pgs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

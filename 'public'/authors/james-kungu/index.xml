@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>James Kungu | Cory Whitney</title>
+    <link>/authors/james-kungu/</link>
+      <atom:link href="/authors/james-kungu/index.xml" rel="self" type="application/rss+xml" />
+    <description>James Kungu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>James Kungu</title>
+      <link>/authors/james-kungu/</link>
+    </image>
+    
+    <item>
+      <title>Crop modelling in data-poor environments – A knowledge-informed probabilistic approach to appreciate risks and uncertainties in flood-based farming systems</title>
+      <link>/publication/2021-01-01_crop_modelling_in_da/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_crop_modelling_in_da/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping Flood-Based Farming Systems with Bayesian Networks</title>
+      <link>/publication/2020-01-01_mapping_flood-based_/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_mapping_flood-based_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling Risk and Uncertainty in Flood-based Farming Systems in East Africa</title>
+      <link>/talk/modelling-risk-and-uncertainty-in-flood-based-farming-systems-in-east-africa/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/talk/modelling-risk-and-uncertainty-in-flood-based-farming-systems-in-east-africa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

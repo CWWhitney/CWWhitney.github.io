@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John Mburu | Cory Whitney</title>
+    <link>/authors/john-mburu/</link>
+      <atom:link href="/authors/john-mburu/index.xml" rel="self" type="application/rss+xml" />
+    <description>John Mburu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>John Mburu</title>
+      <link>/authors/john-mburu/</link>
+    </image>
+    
+    <item>
+      <title>Stochastic impact evaluation of an irrigation development intervention in Northern Ethiopia</title>
+      <link>/publication/2019-01-01_stochastic_impact_ev/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-01-01_stochastic_impact_ev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viability of an Irrigation Development Intervention in Tigray: an Application of Stochastic Impact Evaluation</title>
+      <link>/talk/viability-of-an-irrigation-development-intervention-in-tigray-an-application-of-stochastic-impact-evaluation/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/talk/viability-of-an-irrigation-development-intervention-in-tigray-an-application-of-stochastic-impact-evaluation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

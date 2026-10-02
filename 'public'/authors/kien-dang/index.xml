@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kien Dang | Cory Whitney</title>
+    <link>/authors/kien-dang/</link>
+      <atom:link href="/authors/kien-dang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kien Dang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Kien Dang</title>
+      <link>/authors/kien-dang/</link>
+    </image>
+    
+    <item>
+      <title>Edible Forest Foods of the Dzao community in Ba Vi National Park -Traditional Knowledge and Agroecological Potential</title>
+      <link>/talk/edible-forest-foods-of-the-dzao-community-in-ba-vi-national-park-traditional-knowledge-and-agroecological-potential/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/talk/edible-forest-foods-of-the-dzao-community-in-ba-vi-national-park-traditional-knowledge-and-agroecological-potential/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preserving food environments and livelihoods: Transitions and challenges for the Ca Dong people in Vietnam</title>
+      <link>/talk/preserving-food-environments-and-livelihoods-transitions-and-challenges-for-the-ca-dong-people-in-vietnam/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/talk/preserving-food-environments-and-livelihoods-transitions-and-challenges-for-the-ca-dong-people-in-vietnam/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

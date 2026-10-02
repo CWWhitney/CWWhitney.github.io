@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vincent Muwanika | Cory Whitney</title>
+    <link>/authors/vincent-muwanika/</link>
+      <atom:link href="/authors/vincent-muwanika/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vincent Muwanika</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Vincent Muwanika</title>
+      <link>/authors/vincent-muwanika/</link>
+    </image>
+    
+    <item>
+      <title>Land Suitability and Socioeconomic Factors for Pigeonpea Cultivation in Uganda</title>
+      <link>/talk/land-suitability-and-socioeconomic-factors-for-pigeonpea-cultivation-in-uganda/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/land-suitability-and-socioeconomic-factors-for-pigeonpea-cultivation-in-uganda/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

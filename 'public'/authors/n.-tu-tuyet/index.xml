@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N. Tu Tuyet | Cory Whitney</title>
+    <link>/authors/n.-tu-tuyet/</link>
+      <atom:link href="/authors/n.-tu-tuyet/index.xml" rel="self" type="application/rss+xml" />
+    <description>N. Tu Tuyet</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>N. Tu Tuyet</title>
+      <link>/authors/n.-tu-tuyet/</link>
+    </image>
+    
+    <item>
+      <title>Building Food Communities: Farm Management Schemes within Organic PGS; Survey and Analysis in Soc Son, Hanoi, Vietnam</title>
+      <link>/talk/building-food-communities-farm-management-schemes-within-organic-pgs-survey-and-analysis-in-soc-son-hanoi-vietnam/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/talk/building-food-communities-farm-management-schemes-within-organic-pgs-survey-and-analysis-in-soc-son-hanoi-vietnam/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

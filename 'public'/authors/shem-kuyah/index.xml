@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shem Kuyah | Cory Whitney</title>
+    <link>/authors/shem-kuyah/</link>
+      <atom:link href="/authors/shem-kuyah/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shem Kuyah</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Shem Kuyah</title>
+      <link>/authors/shem-kuyah/</link>
+    </image>
+    
+    <item>
+      <title>Contribution of agroforestry to livelihoods and climate change mitigation in east Africa</title>
+      <link>/talk/contribution-of-agroforestry-to-livelihoods-and-climate-change-mitigation-in-east-africa/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/talk/contribution-of-agroforestry-to-livelihoods-and-climate-change-mitigation-in-east-africa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agroforestry delivers a win-win solution for ecosystem services in sub-Saharan Africa. A meta-analysis</title>
+      <link>/publication/2019-01-01_agroforestry_deliver/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-01-01_agroforestry_deliver/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

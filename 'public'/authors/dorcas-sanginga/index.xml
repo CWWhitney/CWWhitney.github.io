@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dorcas Sanginga | Cory Whitney</title>
+    <link>/authors/dorcas-sanginga/</link>
+      <atom:link href="/authors/dorcas-sanginga/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dorcas Sanginga</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Dorcas Sanginga</title>
+      <link>/authors/dorcas-sanginga/</link>
+    </image>
+    
+    <item>
+      <title>Assessing the Potential of Integrated Soil Fertility Management in Northern Ghana: A Critical Inquiry</title>
+      <link>/talk/assessing-the-potential-of-integrated-soil-fertility-management-in-northern-ghana-a-critical-inquiry/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/talk/assessing-the-potential-of-integrated-soil-fertility-management-in-northern-ghana-a-critical-inquiry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unpacking the outcomes and trade-offs of Integrated Soil Fertility Management with probabilistic modeling approaches</title>
+      <link>/talk/unpacking-the-outcomes-and-trade-offs-of-integrated-soil-fertility-management-with-probabilistic-modeling-approaches/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/talk/unpacking-the-outcomes-and-trade-offs-of-integrated-soil-fertility-management-with-probabilistic-modeling-approaches/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

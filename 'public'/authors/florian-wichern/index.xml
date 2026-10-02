@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Florian Wichern | Cory Whitney</title>
+    <link>/authors/florian-wichern/</link>
+      <atom:link href="/authors/florian-wichern/index.xml" rel="self" type="application/rss+xml" />
+    <description>Florian Wichern</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Florian Wichern</title>
+      <link>/authors/florian-wichern/</link>
+    </image>
+    
+    <item>
+      <title>Participatory modelling of scenarios to restore nitrogen cycles in a nutrient-saturated area</title>
+      <link>/publication/2024-01-01_participatory_modell/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/2024-01-01_participatory_modell/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

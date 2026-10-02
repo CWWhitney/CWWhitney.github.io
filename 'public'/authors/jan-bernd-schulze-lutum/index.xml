@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jan-Bernd Schulze Lutum | Cory Whitney</title>
+    <link>/authors/jan-bernd-schulze-lutum/</link>
+      <atom:link href="/authors/jan-bernd-schulze-lutum/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jan-Bernd Schulze Lutum</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Jan-Bernd Schulze Lutum</title>
+      <link>/authors/jan-bernd-schulze-lutum/</link>
+    </image>
+    
+    <item>
+      <title>Wirtschaftliche und ökologische Entscheidungsanalyse der Tomatensämlings- und Tomatenproduktion mit Priming</title>
+      <link>/talk/wirtschaftliche-und-okologische-entscheidungsanalyse-der-tomatensamlings-und-tomatenproduktion-mit-priming/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/wirtschaftliche-und-okologische-entscheidungsanalyse-der-tomatensamlings-und-tomatenproduktion-mit-priming/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

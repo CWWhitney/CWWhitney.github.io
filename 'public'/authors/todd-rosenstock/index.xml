@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Todd Rosenstock | Cory Whitney</title>
+    <link>/authors/todd-rosenstock/</link>
+      <atom:link href="/authors/todd-rosenstock/index.xml" rel="self" type="application/rss+xml" />
+    <description>Todd Rosenstock</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Todd Rosenstock</title>
+      <link>/authors/todd-rosenstock/</link>
+    </image>
+    
+    <item>
+      <title>Modelling agricultural realities to support development decisions</title>
+      <link>/talk/modelling-agricultural-realities-to-support-development-decisions/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/talk/modelling-agricultural-realities-to-support-development-decisions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business Decision Analysis Principles in Research for Agricultural Development</title>
+      <link>/talk/business-decision-analysis-principles-in-research-for-agricultural-development/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/talk/business-decision-analysis-principles-in-research-for-agricultural-development/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

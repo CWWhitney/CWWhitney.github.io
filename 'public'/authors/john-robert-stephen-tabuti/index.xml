@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John Robert Stephen Tabuti | Cory Whitney</title>
+    <link>/authors/john-robert-stephen-tabuti/</link>
+      <atom:link href="/authors/john-robert-stephen-tabuti/index.xml" rel="self" type="application/rss+xml" />
+    <description>John Robert Stephen Tabuti</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>John Robert Stephen Tabuti</title>
+      <link>/authors/john-robert-stephen-tabuti/</link>
+    </image>
+    
+    <item>
+      <title>Priority Species and Management Approaches for Woody Species: A Case Study of Awach Sub-county, Gulu District, Uganda</title>
+      <link>/publication/2022-01-01_priority_species_and/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-01-01_priority_species_and/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extent and Rate of Deforestation in West Bugwe Central Forest Reserve, Uganda</title>
+      <link>/talk/extent-and-rate-of-deforestation-in-west-bugwe-central-forest-reserve-uganda/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/extent-and-rate-of-deforestation-in-west-bugwe-central-forest-reserve-uganda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Land Suitability and Socioeconomic Factors for Pigeonpea Cultivation in Uganda</title>
+      <link>/talk/land-suitability-and-socioeconomic-factors-for-pigeonpea-cultivation-in-uganda/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/land-suitability-and-socioeconomic-factors-for-pigeonpea-cultivation-in-uganda/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

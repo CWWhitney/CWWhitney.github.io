@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bryan Joel Mariano | Cory Whitney</title>
+    <link>/authors/bryan-joel-mariano/</link>
+      <atom:link href="/authors/bryan-joel-mariano/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bryan Joel Mariano</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Bryan Joel Mariano</title>
+      <link>/authors/bryan-joel-mariano/</link>
+    </image>
+    
+    <item>
+      <title>Maping geonarratives of biodiversity conservation through the diaspora</title>
+      <link>/talk/maping-geonarratives-of-biodiversity-conservation-through-the-diaspora/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/maping-geonarratives-of-biodiversity-conservation-through-the-diaspora/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

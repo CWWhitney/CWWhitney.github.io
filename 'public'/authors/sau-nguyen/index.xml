@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sau Nguyen | Cory Whitney</title>
+    <link>/authors/sau-nguyen/</link>
+      <atom:link href="/authors/sau-nguyen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sau Nguyen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Sau Nguyen</title>
+      <link>/authors/sau-nguyen/</link>
+    </image>
+    
+    <item>
+      <title>Short Value Chains for Vulnerable Urban Consumers: Linking Factory Workers with A Certified Vegetable Cooperative in Vietnam</title>
+      <link>/talk/short-value-chains-for-vulnerable-urban-consumers-linking-factory-workers-with-a-certified-vegetable-cooperative-in-vietnam/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/talk/short-value-chains-for-vulnerable-urban-consumers-linking-factory-workers-with-a-certified-vegetable-cooperative-in-vietnam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving urban consumers’ access to safe vegetables: case for factories and workers in hanoi, Vietnam</title>
+      <link>/talk/improving-urban-consumers-access-to-safe-vegetables-case-for-factories-and-workers-in-hanoi-vietnam/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/improving-urban-consumers-access-to-safe-vegetables-case-for-factories-and-workers-in-hanoi-vietnam/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

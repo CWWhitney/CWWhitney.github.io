@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ermias Aynekulu | Cory Whitney</title>
+    <link>/authors/ermias-aynekulu/</link>
+      <atom:link href="/authors/ermias-aynekulu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ermias Aynekulu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Ermias Aynekulu</title>
+      <link>/authors/ermias-aynekulu/</link>
+    </image>
+    
+    <item>
+      <title>Scaling regenerative agriculture through peer-led extension: causal evidence from the village-based advisor model in Kenya</title>
+      <link>/talk/scaling-regenerative-agriculture-through-peer-led-extension-causal-evidence-from-the-village-based-advisor-model-in-kenya/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/talk/scaling-regenerative-agriculture-through-peer-led-extension-causal-evidence-from-the-village-based-advisor-model-in-kenya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limitations of using simple indicators for evaluating agricultural emission reductions at farm level — evidence from Kenyan smallholder dairy production</title>
+      <link>/publication/2022-01-01_limitations_of_using/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-01-01_limitations_of_using/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Probabilistic Framework for the Cost-Benefit Evaluation of Restoration Outcomes for a Dry Afromontane Forest in Northern Ethiopia</title>
+      <link>/talk/a-probabilistic-framework-for-the-cost-benefit-evaluation-of-restoration-outcomes-for-a-dry-afromontane-forest-in-northern-ethiopia/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/a-probabilistic-framework-for-the-cost-benefit-evaluation-of-restoration-outcomes-for-a-dry-afromontane-forest-in-northern-ethiopia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic simulation of restoration outcomes for a dry afromontane forest landscape in northern Ethiopia</title>
+      <link>/publication/2021-01-01_stochastic_simulatio/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_stochastic_simulatio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Knowledge Brokering Framework for Integrated Landscape Management</title>
+      <link>/publication/2020-01-01_a_knowledge_brokerin/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_a_knowledge_brokerin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

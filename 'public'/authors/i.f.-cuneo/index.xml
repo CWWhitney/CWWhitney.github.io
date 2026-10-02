@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I.F. Cuneo | Cory Whitney</title>
+    <link>/authors/i.f.-cuneo/</link>
+      <atom:link href="/authors/i.f.-cuneo/index.xml" rel="self" type="application/rss+xml" />
+    <description>I.F. Cuneo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>I.F. Cuneo</title>
+      <link>/authors/i.f.-cuneo/</link>
+    </image>
+    
+    <item>
+      <title>Forecasting yield in temperate fruit trees from winter chill accumulation</title>
+      <link>/talk/forecasting-yield-in-temperate-fruit-trees-from-winter-chill-accumulation/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/forecasting-yield-in-temperate-fruit-trees-from-winter-chill-accumulation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

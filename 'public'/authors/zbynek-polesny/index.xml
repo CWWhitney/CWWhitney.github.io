@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zbynek Polesny | Cory Whitney</title>
+    <link>/authors/zbynek-polesny/</link>
+      <atom:link href="/authors/zbynek-polesny/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zbynek Polesny</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Zbynek Polesny</title>
+      <link>/authors/zbynek-polesny/</link>
+    </image>
+    
+    <item>
+      <title>Ethnobotany of Wartime: Wild Plants for Human Nutrition During the Conflict in Syria</title>
+      <link>/talk/ethnobotany-of-wartime-wild-plants-for-human-nutrition-during-the-conflict-in-syria/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/ethnobotany-of-wartime-wild-plants-for-human-nutrition-during-the-conflict-in-syria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socio-Cultural Significance of Yerba Mate among Syrian Residents and Diaspora</title>
+      <link>/publication/2021-01-01_socio-cultural_signi/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_socio-cultural_signi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agrobiodiversity of Homegardens in Pyay District, Myanmar</title>
+      <link>/talk/agrobiodiversity-of-homegardens-in-pyay-district-myanmar/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/agrobiodiversity-of-homegardens-in-pyay-district-myanmar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban Ethnobotany: Medicinal Plants Used for the Treatment of Noncommunicable Diseases in Santa Marta, Colombia</title>
+      <link>/talk/urban-ethnobotany-medicinal-plants-used-for-the-treatment-of-noncommunicable-diseases-in-santa-marta-colombia/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/urban-ethnobotany-medicinal-plants-used-for-the-treatment-of-noncommunicable-diseases-in-santa-marta-colombia/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
