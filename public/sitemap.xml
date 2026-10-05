@@ -2,613 +2,629 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/post/</loc>
+    <loc>/post/</loc>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/decision-analysis/</loc>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/ethnoecology/</loc>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/2026-convoi-expected-value-causal-ambiguity/</loc>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/talk/</loc>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/value-of-information/</loc>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/bioeconomy/</loc>
     <lastmod>2026-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tag/bioeconomy/</loc>
+    <loc>/tag/china/</loc>
     <lastmod>2026-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tag/china/</loc>
+    <loc>/post/2026-sino-europe-bioeconomy-kunming/</loc>
     <lastmod>2026-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>/tag/teaching/</loc>
     <lastmod>2026-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/2026-sino-europe-bioeconomy-kunming/</loc>
-    <lastmod>2026-08-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/</loc>
-    <lastmod>2026-08-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tag/teaching/</loc>
-    <lastmod>2026-08-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/publication-type/2/</loc>
+    <loc>/publication-type/2/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2026-01-01_a_decision-analysis_/</loc>
+    <loc>/publication/2026-01-01_a_decision-analysis_/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2026-01-01_agroforestry_adaptat/</loc>
+    <loc>/publication/2026-01-01_agroforestry_adaptat/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/agronomic-and-economic-performance-of-integrated-soil-fertility-management-across-an-organic-matter-continuum-and-climate-variability/</loc>
+    <loc>/talk/agronomic-and-economic-performance-of-integrated-soil-fertility-management-across-an-organic-matter-continuum-and-climate-variability/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tag/conference/</loc>
+    <loc>/tag/conference/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2026-01-01_determinants_of_pige/</loc>
+    <loc>/publication/2026-01-01_determinants_of_pige/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tag/invited-talk/</loc>
+    <loc>/tag/invited-talk/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication_types/</loc>
+    <loc>/publication_types/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/</loc>
+    <loc>/publication/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/event/</loc>
+    <loc>/event/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/scaling-regenerative-agriculture-through-peer-led-extension-causal-evidence-from-the-village-based-advisor-model-in-kenya/</loc>
+    <loc>/talk/scaling-regenerative-agriculture-through-peer-led-extension-causal-evidence-from-the-village-based-advisor-model-in-kenya/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2026-01-01_school_food_environm/</loc>
+    <loc>/publication/2026-01-01_school_food_environm/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/sino-europe-young-leadership-in-bioeconomy-mountain-futures-summer-school/</loc>
+    <loc>/talk/sino-europe-young-leadership-in-bioeconomy-mountain-futures-summer-school/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/the-potential-of-participatory-approaches-in-school-based-prevention-of-non-communicable-diseases-in-mexico/</loc>
+    <loc>/talk/the-potential-of-participatory-approaches-in-school-based-prevention-of-non-communicable-diseases-in-mexico/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/a-decision-analysis-approach-for-optimizing-school-garden-interventions-addressing-child-health-biodiversity-and-economic-outcomes/</loc>
+    <loc>/talk/a-decision-analysis-approach-for-optimizing-school-garden-interventions-addressing-child-health-biodiversity-and-economic-outcomes/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/agroforestry-adaptation-in-individual-households-in-northwestern-vietnam-who-needs-what-and-implications-for-practice-and-policy/</loc>
+    <loc>/talk/agroforestry-adaptation-in-individual-households-in-northwestern-vietnam-who-needs-what-and-implications-for-practice-and-policy/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/assessing-the-impact-of-social-networks-on-the-adoption-of-integrated-soil-fertility-management-in-northern-ghana/</loc>
+    <loc>/talk/assessing-the-impact-of-social-networks-on-the-adoption-of-integrated-soil-fertility-management-in-northern-ghana/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/assessing-the-potential-of-integrated-soil-fertility-management-in-northern-ghana-a-critical-inquiry/</loc>
+    <loc>/talk/assessing-the-potential-of-integrated-soil-fertility-management-in-northern-ghana-a-critical-inquiry/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2025-01-01_balancing_ecosystem_/</loc>
+    <loc>/publication/2025-01-01_balancing_ecosystem_/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/bridging-science-and-practice-for-sustainable-tomato-cultivation/</loc>
+    <loc>/talk/bridging-science-and-practice-for-sustainable-tomato-cultivation/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/co-creation-and-design-of-agroforestry-farming-systems/</loc>
+    <loc>/talk/co-creation-and-design-of-agroforestry-farming-systems/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2025-01-01_comparing_nature_con/</loc>
+    <loc>/publication/2025-01-01_comparing_nature_con/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/contribution-of-agroforestry-to-livelihoods-and-climate-change-mitigation-in-east-africa/</loc>
+    <loc>/talk/contribution-of-agroforestry-to-livelihoods-and-climate-change-mitigation-in-east-africa/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/decision-analysis-for-agroforestry-supporting-sustainable-agricultural-decisions/</loc>
+    <loc>/talk/decision-analysis-for-agroforestry-supporting-sustainable-agricultural-decisions/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/decision-analysis-of-the-transition-from-rice-to-vegetables-in-upland-areas-of-indonesia/</loc>
+    <loc>/talk/decision-analysis-of-the-transition-from-rice-to-vegetables-in-upland-areas-of-indonesia/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2025-01-01_decision_support_for/</loc>
+    <loc>/publication/2025-01-01_decision_support_for/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/edible-forest-foods-of-the-dzao-community-in-ba-vi-national-park-traditional-knowledge-and-agroecological-potential/</loc>
+    <loc>/talk/edible-forest-foods-of-the-dzao-community-in-ba-vi-national-park-traditional-knowledge-and-agroecological-potential/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/farmers-decision-making-iterative-model-validation-and-livelihood-alternatives-for-agricultural-land-in-peri-urban-hanoi/</loc>
+    <loc>/talk/farmers-decision-making-iterative-model-validation-and-livelihood-alternatives-for-agricultural-land-in-peri-urban-hanoi/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/foundation-for-social-forestry-adoption-in-aceh-indonesia-insights-from-field-assessments-and-stakeholder-perspectives/</loc>
+    <loc>/talk/foundation-for-social-forestry-adoption-in-aceh-indonesia-insights-from-field-assessments-and-stakeholder-perspectives/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/gardenhub-optimising-school-gardens-for-sustainable-food-environments/</loc>
+    <loc>/talk/gardenhub-optimising-school-gardens-for-sustainable-food-environments/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/improving-childrens-nutrition-a-decision-analytic-approach-to-school-meal-interventions-in-vietnam/</loc>
+    <loc>/talk/improving-childrens-nutrition-a-decision-analytic-approach-to-school-meal-interventions-in-vietnam/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/leverage-points-for-sustainable-nutrition-transitions-in-hanois-food-environment/</loc>
+    <loc>/talk/leverage-points-for-sustainable-nutrition-transitions-in-hanois-food-environment/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2025-01-01_markets_and_incentiv/</loc>
+    <loc>/publication/2025-01-01_markets_and_incentiv/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2025-01-01_model-based_decision/</loc>
+    <loc>/publication/2025-01-01_model-based_decision/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/modelling-decisions-to-improve-food-environments-for-vulnerable-urban-communities-in-hanoi-vietnam/</loc>
+    <loc>/talk/modelling-decisions-to-improve-food-environments-for-vulnerable-urban-communities-in-hanoi-vietnam/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/needs-assessment-where-it-is-most-needed-decision-science-contributes-to-formulate-research-questions-and-capacity-development-foci-in-malawi/</loc>
+    <loc>/talk/needs-assessment-where-it-is-most-needed-decision-science-contributes-to-formulate-research-questions-and-capacity-development-foci-in-malawi/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/regenerative-agriculture-for-planetary-health-empirical-assessment-and-probabilistic-modelling-of-soil-agronomic-and-economic-outcomes-in-kenya/</loc>
+    <loc>/talk/regenerative-agriculture-for-planetary-health-empirical-assessment-and-probabilistic-modelling-of-soil-agronomic-and-economic-outcomes-in-kenya/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/short-value-chains-for-vulnerable-urban-consumers-linking-factory-workers-with-a-certified-vegetable-cooperative-in-vietnam/</loc>
+    <loc>/talk/short-value-chains-for-vulnerable-urban-consumers-linking-factory-workers-with-a-certified-vegetable-cooperative-in-vietnam/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/stakeholder-dynamics-and-decision-pathways-in-farmers-transition-from-rice-to-vegetables-in-indonesia/</loc>
+    <loc>/talk/stakeholder-dynamics-and-decision-pathways-in-farmers-transition-from-rice-to-vegetables-in-indonesia/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2025-01-01_the_carbon_footprint/</loc>
+    <loc>/publication/2025-01-01_the_carbon_footprint/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/transitions-in-hanois-vegetable-food-environment-insights-from-systems-thinking-and-leverage-points/</loc>
+    <loc>/talk/transitions-in-hanois-vegetable-food-environment-insights-from-systems-thinking-and-leverage-points/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/understanding-diverse-adaptation-pathways-to-support-agroforestry-transition-in-northwestern-vietnam/</loc>
+    <loc>/talk/understanding-diverse-adaptation-pathways-to-support-agroforestry-transition-in-northwestern-vietnam/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/unpacking-the-outcomes-and-trade-offs-of-integrated-soil-fertility-management-with-probabilistic-modeling-approaches/</loc>
+    <loc>/talk/unpacking-the-outcomes-and-trade-offs-of-integrated-soil-fertility-management-with-probabilistic-modeling-approaches/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/using-decision-analysis-to-support-agricultural-land-use-policy-in-peri-urban-hanoi-integrating-local-knowledge-and-validation/</loc>
+    <loc>/talk/using-decision-analysis-to-support-agricultural-land-use-policy-in-peri-urban-hanoi-integrating-local-knowledge-and-validation/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/what-ar4d-actors-need-to-know-about-integrated-soil-fertility-management-for-northern-ghana/</loc>
+    <loc>/talk/what-ar4d-actors-need-to-know-about-integrated-soil-fertility-management-for-northern-ghana/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2025-01-01_wild_edible_plants_s/</loc>
+    <loc>/publication/2025-01-01_wild_edible_plants_s/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2024-01-01_adapting_agroforestr/</loc>
+    <loc>/publication/2024-01-01_adapting_agroforestr/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/comparing-nature-conservation-policies-using-a-bayesian-decision-network-modeling-sequential-effects-on-adoption-farming-practices-and-biodiversity/</loc>
+    <loc>/talk/comparing-nature-conservation-policies-using-a-bayesian-decision-network-modeling-sequential-effects-on-adoption-farming-practices-and-biodiversity/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/decision-analysis-and-impact-pathway-for-agroforestry-integration-on-dairy-farms-in-the-eifel-region-germany/</loc>
+    <loc>/talk/decision-analysis-and-impact-pathway-for-agroforestry-integration-on-dairy-farms-in-the-eifel-region-germany/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/ex-ante-evaluation-of-integrated-soil-fertility-management-as-a-sustainable-intensification-practice-a-probabilistic-modelling-approach/</loc>
+    <loc>/talk/ex-ante-evaluation-of-integrated-soil-fertility-management-as-a-sustainable-intensification-practice-a-probabilistic-modelling-approach/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/good-practices-in-funding-transdisciplinary-research-for-sustainable-development-in-africa/</loc>
+    <loc>/talk/good-practices-in-funding-transdisciplinary-research-for-sustainable-development-in-africa/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2024-01-01_how_to_bridge_the_la/</loc>
+    <loc>/publication/2024-01-01_how_to_bridge_the_la/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/improving-childrens-nutrition-evidence-based-policy-recommendations-for-school-meal-programmes-in-urban-vietnam/</loc>
+    <loc>/talk/improving-childrens-nutrition-evidence-based-policy-recommendations-for-school-meal-programmes-in-urban-vietnam/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/improving-urban-consumers-access-to-safe-vegetables-case-for-factories-and-workers-in-hanoi-vietnam/</loc>
+    <loc>/talk/improving-urban-consumers-access-to-safe-vegetables-case-for-factories-and-workers-in-hanoi-vietnam/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/intervention-forecasting-and-monitoring-a-land-use-decision-in-peri-urban-hanoi/</loc>
+    <loc>/talk/intervention-forecasting-and-monitoring-a-land-use-decision-in-peri-urban-hanoi/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/land-consolidation-in-kenya-an-ex-ante-evaluation-of-benefits-costs-and-risks/</loc>
+    <loc>/talk/land-consolidation-in-kenya-an-ex-ante-evaluation-of-benefits-costs-and-risks/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/learn-how-to-make-accurate-estimates-calibration-training-with-an-interactive-online-application/</loc>
+    <loc>/talk/learn-how-to-make-accurate-estimates-calibration-training-with-an-interactive-online-application/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/maping-geonarratives-of-biodiversity-conservation-through-the-diaspora/</loc>
+    <loc>/talk/maping-geonarratives-of-biodiversity-conservation-through-the-diaspora/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/modelling-the-impact-of-land-use-choices-on-livelihoods-and-food-environments-in-peri-urban-hanoi/</loc>
+    <loc>/talk/modelling-the-impact-of-land-use-choices-on-livelihoods-and-food-environments-in-peri-urban-hanoi/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/navigating-complexity-holistic-decision-making-in-agri-food-system-transitions/</loc>
+    <loc>/talk/navigating-complexity-holistic-decision-making-in-agri-food-system-transitions/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2024-01-01_participatory_modell/</loc>
+    <loc>/publication/2024-01-01_participatory_modell/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2024-01-01_predicted_changes_in/</loc>
+    <loc>/publication/2024-01-01_predicted_changes_in/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/stakeholder-engagement-in-agro-climate-service-planning/</loc>
+    <loc>/talk/stakeholder-engagement-in-agro-climate-service-planning/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2024-01-01_stakeholder_engageme/</loc>
+    <loc>/publication/2024-01-01_stakeholder_engageme/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/use-of-decision-analysis-to-promote-agroforestry-adoption-hof-lebensberg-the-german-living-lab-within-the-reforest-project/</loc>
+    <loc>/talk/use-of-decision-analysis-to-promote-agroforestry-adoption-hof-lebensberg-the-german-living-lab-within-the-reforest-project/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/wirtschaftliche-und-okologische-entscheidungsanalyse-der-tomatensamlings-und-tomatenproduktion-mit-priming/</loc>
+    <loc>/talk/wirtschaftliche-und-okologische-entscheidungsanalyse-der-tomatensamlings-und-tomatenproduktion-mit-priming/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2023-01-01_allometric_models_fo/</loc>
+    <loc>/talk/shades-of-sustainability-is-there-room-for-a-new-sustainability-label-in-fruit-production/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/decision-support-for-selecting-suitable-frost-protection-methods-for-apricot-orchards-in-germany/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2023-01-01_allometric_models_fo/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2023-01-01_decision_analytical_/</loc>
+    <loc>/publication/2023-01-01_decision_analytical_/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/decision-support-for-selecting-suitable-frost-protection-methods-for-apricot-orchards-in-germany/</loc>
+    <loc>/talk/development-of-agroforestry-in-upland-northern-vietnam-a-farmers-perspective/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/development-of-agroforestry-in-upland-northern-vietnam-a-farmers-perspective/</loc>
+    <loc>/talk/empowering-rural-farm-women-in-agricultural-development-a-decision-analysis-approach-with-a-focus-on-gender/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/empowering-rural-farm-women-in-agricultural-development-a-decision-analysis-approach-with-a-focus-on-gender/</loc>
+    <loc>/publication/2023-01-01_indigenous_communiti/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2023-01-01_indigenous_communiti/</loc>
+    <loc>/talk/nutrition-interventions-for-enhanced-child-health-outcomes-in-hanoi-vietnam/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/nutrition-interventions-for-enhanced-child-health-outcomes-in-hanoi-vietnam/</loc>
+    <loc>/talk/preserving-food-environments-and-livelihoods-transitions-and-challenges-for-the-ca-dong-people-in-vietnam/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/preserving-food-environments-and-livelihoods-transitions-and-challenges-for-the-ca-dong-people-in-vietnam/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <loc>/talk/can-fruit-walls-raise-the-prospects-of-sensing-and-robotic-technology-in-apple-production/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/shades-of-sustainability-is-there-room-for-a-new-sustainability-label-in-fruit-production/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <loc>/talk/supporting-agroforestry-innovations-with-holistic-decision-focused-modeling/</loc>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/academic-writing/</loc>
+    <loc>/talk/academic-writing/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2022-01-01_agroforestry_and_ref/</loc>
+    <loc>/publication/2022-01-01_agroforestry_and_ref/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/assessing-agroforestry-options-for-sustainable-land-use-in-germany/</loc>
+    <loc>/talk/assessing-agroforestry-options-for-sustainable-land-use-in-germany/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/assessing-agroforestry-options-for-sustainable-land-use-in-germany/</loc>
+    <loc>/talk/assessing-agroforestry-options-for-sustainable-land-use-in-germany/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2022-01-01_assessing_expected_u/</loc>
+    <loc>/publication/2022-01-01_assessing_expected_u/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/can-fruit-walls-raise-the-prospects-of-sensing-and-robotic-technology-in-apple-production/</loc>
+    <loc>/talk/charcoal-and-wood-extraction-are-threats-to-luwero-ugandas-agroforestry-systems/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/charcoal-and-wood-extraction-are-threats-to-luwero-ugandas-agroforestry-systems/</loc>
+    <loc>/talk/decision-analysis/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/decision-analysis/</loc>
+    <loc>/publication/2022-01-01_decision_analysis_of/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2022-01-01_decision_analysis_of/</loc>
+    <loc>/talk/decision-support-for-farmers-a-systems-approach-illustrated-by-an-analysis-on-the-impact-of-integrating-chickens-into-german-apple-orchards/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/decision-support-for-farmers-a-systems-approach-illustrated-by-an-analysis-on-the-impact-of-integrating-chickens-into-german-apple-orchards/</loc>
+    <loc>/publication/2022-01-01_farm-planning_under_/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2022-01-01_farm-planning_under_/</loc>
+    <loc>/publication/2022-01-01_hyperspectral_imagin/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2022-01-01_hyperspectral_imagin/</loc>
+    <loc>/publication/2022-01-01_integrated_participa/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2022-01-01_integrated_participa/</loc>
+    <loc>/publication/2022-01-01_limitations_of_using/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2022-01-01_limitations_of_using/</loc>
+    <loc>/talk/poverty-threatens-agroforestry-systems-in-kaliro-uganda/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/poverty-threatens-agroforestry-systems-in-kaliro-uganda/</loc>
+    <loc>/publication/2022-01-01_prioritizing_farm_ma/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2022-01-01_prioritizing_farm_ma/</loc>
+    <loc>/publication/2022-01-01_priority_species_and/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2022-01-01_priority_species_and/</loc>
+    <loc>/publication/2022-01-01_profitability_of_far/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2022-01-01_profitability_of_far/</loc>
+    <loc>/talk/research-tools-zotero-open-science/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/research-tools-zotero-open-science/</loc>
+    <loc>/talk/stakeholder-communication/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/stakeholder-communication/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <loc>/talk/a-new-modelling-framework-for-fruit-and-nut-tree-phenology/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/supporting-agroforestry-innovations-with-holistic-decision-focused-modeling/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <loc>/talk/forecasting-yield-in-temperate-fruit-trees-from-winter-chill-accumulation/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2021-01-01_a_holistic_sustainab/</loc>
+    <loc>/publication/2021-01-01_a_holistic_sustainab/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/a-new-modelling-framework-for-fruit-and-nut-tree-phenology/</loc>
+    <loc>/publication/2021-01-01_a_new_modelling_fram/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2021-01-01_a_new_modelling_fram/</loc>
+    <loc>/talk/a-probabilistic-framework-for-the-cost-benefit-evaluation-of-restoration-outcomes-for-a-dry-afromontane-forest-in-northern-ethiopia/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/a-probabilistic-framework-for-the-cost-benefit-evaluation-of-restoration-outcomes-for-a-dry-afromontane-forest-in-northern-ethiopia/</loc>
+    <loc>/publication/2021-01-01_adapting_sweet_cherr/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2021-01-01_adapting_sweet_cherr/</loc>
+    <loc>/talk/adoption-of-agro-climate-services/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/adoption-of-agro-climate-services/</loc>
+    <loc>/talk/an-open-source-modelling-framework-for-fruit-and-nut-tree-phenology/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/an-open-source-modelling-framework-for-fruit-and-nut-tree-phenology/</loc>
+    <loc>/publication/2021-01-01_crop_modelling_in_da/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2021-01-01_crop_modelling_in_da/</loc>
+    <loc>/talk/defining-research-priorities-in-complex-agroforestry-systems/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/defining-research-priorities-in-complex-agroforestry-systems/</loc>
+    <loc>/talk/does-agroforestry-modelling-need-a-paradigm-shift/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/does-agroforestry-modelling-need-a-paradigm-shift/</loc>
+    <loc>/talk/ethnobotany-of-wartime-wild-plants-for-human-nutrition-during-the-conflict-in-syria/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/ethnobotany-of-wartime-wild-plants-for-human-nutrition-during-the-conflict-in-syria/</loc>
+    <loc>/talk/how-people-select-wild-edible-plants-case-study-with-tibetan-and-naxi-people-in-northwest-yunnan-china/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/forecasting-yield-in-temperate-fruit-trees-from-winter-chill-accumulation/</loc>
+    <loc>/publication/2021-01-01_socio-cultural_signi/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/how-people-select-wild-edible-plants-case-study-with-tibetan-and-naxi-people-in-northwest-yunnan-china/</loc>
+    <loc>/publication/2021-01-01_stochastic_simulatio/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2021-01-01_socio-cultural_signi/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <loc>/talk/agroforestry-and-reforestation-with-the-gold-standard-decision-analysis-of-a-voluntary-carbon-offset-label/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2021-01-01_sociocultural_signi/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/publication/2021-01-01_stochastic_simulatio/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/publication/2020-01-01_a_knowledge_brokerin/</loc>
+    <loc>/publication/2020-01-01_a_knowledge_brokerin/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/agroforestry-and-reforestation-with-the-gold-standard-decision-analysis-of-a-voluntary-carbon-offset-label/</loc>
+    <loc>/publication/2020-01-01_climate_change_impac/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2020-01-01_climate_change_impac/</loc>
+    <loc>/publication/2020-01-01_decision_analysis_of/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2020-01-01_decision_analysis_of/</loc>
+    <loc>/publication/2020-01-01_documenting_the_heri/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2020-01-01_documenting_the_heri/</loc>
+    <loc>/talk/embracing-uncertainty-in-complex-systems-assessing-alternatives-to-face-climate-change-impacts-in-mediterranean-climate-orchards/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/embracing-uncertainty-in-complex-systems-assessing-alternatives-to-face-climate-change-impacts-in-mediterranean-climate-orchards/</loc>
+    <loc>/talk/extent-and-rate-of-deforestation-in-west-bugwe-central-forest-reserve-uganda/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/extent-and-rate-of-deforestation-in-west-bugwe-central-forest-reserve-uganda/</loc>
+    <loc>/talk/generating-a-conceptual-framework-of-agro-climate-information-interventions-in-vietnam/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/generating-a-conceptual-framework-of-agro-climate-information-interventions-in-vietnam/</loc>
+    <loc>/talk/land-suitability-and-socioeconomic-factors-for-pigeonpea-cultivation-in-uganda/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/land-suitability-and-socioeconomic-factors-for-pigeonpea-cultivation-in-uganda/</loc>
+    <loc>/publication/2020-01-01_mapping_flood-based_/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2020-01-01_mapping_flood-based_/</loc>
+    <loc>/publication/2020-01-01_model-based_evaluati/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2020-01-01_model-based_evaluati/</loc>
+    <loc>/publication/2020-01-01_prospects_of_decreas/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2020-01-01_prospects_of_decreas/</loc>
+    <loc>/publication/2020-01-01_ring-widths_of_abies/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2020-01-01_ring-widths_of_abies/</loc>
+    <loc>/publication/2020-01-01_spring_moisture_avai/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2020-01-01_spring_moisture_avai/</loc>
+    <loc>/publication/2020-01-01_the_uses_of_fig_fic/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2020-01-01_the_uses_of_fig_fic/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/talk/agrobiodiversity-of-homegardens-in-pyay-district-myanmar/</loc>
+    <loc>/talk/agrobiodiversity-of-homegardens-in-pyay-district-myanmar/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2019-01-01_agroforestry_deliver/</loc>
+    <loc>/publication/2019-01-01_agroforestry_deliver/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/can-agroforestry-enhance-ecosystem-services-provision-without-reducing-productivity/</loc>
+    <loc>/talk/can-agroforestry-enhance-ecosystem-services-provision-without-reducing-productivity/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/dormancy-modeling-for-warming-orchards/</loc>
+    <loc>/talk/dormancy-modeling-for-warming-orchards/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/ethnobotany-research-and-modelling/</loc>
+    <loc>/talk/ethnobotany-research-and-modelling/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/holistic-risk-return-analysis-for-improving-planning-and-performance-measurement-of-agroforestry-interventions/</loc>
+    <loc>/talk/holistic-risk-return-analysis-for-improving-planning-and-performance-measurement-of-agroforestry-interventions/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2019-01-01_improving_developmen/</loc>
+    <loc>/publication/2019-01-01_improving_developmen/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/introduction-to-r/</loc>
+    <loc>/talk/introduction-to-r/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/model-choice-matters---sensitivity-of-chill-metrics-to-future-warming-in-mediterranean-and-temperate-environments/</loc>
+    <loc>/talk/model-choice-matters---sensitivity-of-chill-metrics-to-future-warming-in-mediterranean-and-temperate-environments/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2019-01-01_stochastic_impact_ev/</loc>
+    <loc>/publication/2019-01-01_stochastic_impact_ev/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/uncertainty-analysis-in-agroforestry-planning-a-case-study-in-northwest-vietnam/</loc>
+    <loc>/talk/uncertainty-analysis-in-agroforestry-planning-a-case-study-in-northwest-vietnam/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/urban-ethnobotany-medicinal-plants-used-for-the-treatment-of-noncommunicable-diseases-in-santa-marta-colombia/</loc>
+    <loc>/talk/urban-ethnobotany-medicinal-plants-used-for-the-treatment-of-noncommunicable-diseases-in-santa-marta-colombia/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/academic-writing/</loc>
+    <loc>/talk/academic-writing/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/advanced-scientific-writing-and-communication/</loc>
+    <loc>/talk/advanced-scientific-writing-and-communication/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/agroforestry-options-in-northwest-vietnam/</loc>
+    <loc>/talk/agroforestry-options-in-northwest-vietnam/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/complex-systems-modelling/</loc>
+    <loc>/talk/complex-systems-modelling/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2018-01-01_crop_diversity_in_ho/</loc>
+    <loc>/publication/2018-01-01_crop_diversity_in_ho/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/decision-analysis/</loc>
+    <loc>/talk/decision-analysis/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/decision-analysis-methods-guide-agricultural-policy-for-nutrition/</loc>
+    <loc>/talk/decision-analysis-methods-guide-agricultural-policy-for-nutrition/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2018-01-01_decision_analysis_me/</loc>
+    <loc>/publication/2018-01-01_decision_analysis_me/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/decision-analysis-tools-reveal-benefits-of-fruit-trees-for-enhanced-nutrition-security-in-kenya/</loc>
+    <loc>/talk/decision-analysis-tools-reveal-benefits-of-fruit-trees-for-enhanced-nutrition-security-in-kenya/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/decrease-in-winter-chill-availability-in-chile-by-the-end-of-21st-century-due-to-climate-change/</loc>
+    <loc>/talk/decrease-in-winter-chill-availability-in-chile-by-the-end-of-21st-century-due-to-climate-change/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2018-01-01_ethnobotany_and_agro/</loc>
+    <loc>/publication/2018-01-01_ethnobotany_and_agro/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/holistic-model-building-supporting-risk-transfer-decisions-in-agroforestry-systems/</loc>
+    <loc>/talk/holistic-model-building-supporting-risk-transfer-decisions-in-agroforestry-systems/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/horticultural-production-and-research/</loc>
+    <loc>/talk/horticultural-production-and-research/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/interdisciplinary-research/</loc>
+    <loc>/talk/interdisciplinary-research/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/introduction-to-r/</loc>
+    <loc>/talk/introduction-to-r/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/modeling-the-benefits-of-fruit-trees-in-agricultural-landscapes-of-kenya/</loc>
+    <loc>/talk/modeling-the-benefits-of-fruit-trees-in-agricultural-landscapes-of-kenya/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2018-01-01_probabilistic_decisi/</loc>
+    <loc>/publication/2018-01-01_probabilistic_decisi/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2018-01-01_the_role_of_homegard/</loc>
+    <loc>/publication/2018-01-01_the_role_of_homegard/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/tropical-production-systems/</loc>
+    <loc>/talk/tropical-production-systems/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/african-baobab-trees-adansonia-digitata-l.-recorded-in-uganda/</loc>
+    <loc>/talk/african-baobab-trees-adansonia-digitata-l.-recorded-in-uganda/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/agricultural-development-interventions-on-household-nutrition-in-kenya-and-uganda/</loc>
+    <loc>/talk/agricultural-development-interventions-on-household-nutrition-in-kenya-and-uganda/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/bayesian-networks-for-impact-modeling-of-development-interventions/</loc>
+    <loc>/talk/bayesian-networks-for-impact-modeling-of-development-interventions/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/changes-in-organic-participatory-guarantee-systems-pgs-in-northern-vietnam/</loc>
+    <loc>/talk/changes-in-organic-participatory-guarantee-systems-pgs-in-northern-vietnam/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/conservation-planning-and-livelihoods-derived-from-lake-victorias-native-floristic-diversity/</loc>
+    <loc>/talk/conservation-planning-and-livelihoods-derived-from-lake-victorias-native-floristic-diversity/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/entrepreneurial-culture-and-capability-of-organic-farmers-organizations-in-the-philippines/</loc>
+    <loc>/talk/entrepreneurial-culture-and-capability-of-organic-farmers-organizations-in-the-philippines/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2017-01-01_homegardens_and_the_/</loc>
+    <loc>/publication/2017-01-01_homegardens_and_the_/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/modelling-agricultural-realities-to-support-development-decisions/</loc>
+    <loc>/talk/modelling-agricultural-realities-to-support-development-decisions/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/modelling-risk-and-uncertainty-in-flood-based-farming-systems-in-east-africa/</loc>
+    <loc>/talk/modelling-risk-and-uncertainty-in-flood-based-farming-systems-in-east-africa/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/nutritional-impacts-of-transitioning-from-homegardens-to-industrial-farms-in-uganda/</loc>
+    <loc>/talk/nutritional-impacts-of-transitioning-from-homegardens-to-industrial-farms-in-uganda/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/proposing-a-human-ecology-model-for-homegarden-research/</loc>
+    <loc>/talk/proposing-a-human-ecology-model-for-homegarden-research/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/the-contribution-of-small-holder-farmers-to-increasing-tree-cover-in-kaliro-district/</loc>
+    <loc>/talk/the-contribution-of-small-holder-farmers-to-increasing-tree-cover-in-kaliro-district/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/viability-of-an-irrigation-development-intervention-in-tigray-an-application-of-stochastic-impact-evaluation/</loc>
+    <loc>/talk/viability-of-an-irrigation-development-intervention-in-tigray-an-application-of-stochastic-impact-evaluation/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/addressing-post-harvest-losses-during-traditional-banana-fermentation-for-increased-food-security-in-southwest-uganda/</loc>
+    <loc>/talk/addressing-post-harvest-losses-during-traditional-banana-fermentation-for-increased-food-security-in-southwest-uganda/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/cluster-assignment-indicates-four-distinct-homegarden-types-in-southwest-uganda/</loc>
+    <loc>/talk/cluster-assignment-indicates-four-distinct-homegarden-types-in-southwest-uganda/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2016-01-01_first_record_of_baob/</loc>
+    <loc>/publication/2016-01-01_first_record_of_baob/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2016-01-01_learning_with_elders/</loc>
+    <loc>/publication/2016-01-01_learning_with_elders/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/business-decision-analysis-principles-in-research-for-agricultural-development/</loc>
+    <loc>/talk/business-decision-analysis-principles-in-research-for-agricultural-development/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/effects-of-biodynamic-preparation-500-p500-cow-horn-manure-on-early-growth-of-barley-pea-quinoa-and-tomato-under-saline-stress-conditions/</loc>
+    <loc>/talk/effects-of-biodynamic-preparation-500-p500-cow-horn-manure-on-early-growth-of-barley-pea-quinoa-and-tomato-under-saline-stress-conditions/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/farming-for-food-security-probabilistic-simulations-of-farm-contribution-to-nutrition-in-southwest-uganda/</loc>
+    <loc>/talk/farming-for-food-security-probabilistic-simulations-of-farm-contribution-to-nutrition-in-southwest-uganda/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/food-security-and-traditional-farming-systems-a-case-study-of-homegardens-in-southwestern-uganda/</loc>
+    <loc>/talk/food-security-and-traditional-farming-systems-a-case-study-of-homegardens-in-southwestern-uganda/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/hmong-conservation-lessons-in-ethnobotany-from-the-elders-of-long-lan-luang-prabang-lao-peoples-democratic-republic/</loc>
+    <loc>/talk/hmong-conservation-lessons-in-ethnobotany-from-the-elders-of-long-lan-luang-prabang-lao-peoples-democratic-republic/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/learning-with-elders-of-the-dao-hmong-lu-ma-lieng-sach-tai-tay-and-xinh-mun-ethnic-communities-of-northern-vietnam/</loc>
+    <loc>/talk/learning-with-elders-of-the-dao-hmong-lu-ma-lieng-sach-tai-tay-and-xinh-mun-ethnic-communities-of-northern-vietnam/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/local-knowledge-for-food-security-in-uganda-postharvest-practices-in-homegardens-of-the-ugandan-southwest/</loc>
+    <loc>/talk/local-knowledge-for-food-security-in-uganda-postharvest-practices-in-homegardens-of-the-ugandan-southwest/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/value-of-plants-in-ugandan-homegardens-results-of-homegardens-inventories-and-participatory-ethnobotany-investigations/</loc>
+    <loc>/talk/value-of-plants-in-ugandan-homegardens-results-of-homegardens-inventories-and-participatory-ethnobotany-investigations/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/building-food-communities-farm-management-schemes-within-organic-pgs-survey-and-analysis-in-soc-son-hanoi-vietnam/</loc>
+    <loc>/talk/building-food-communities-farm-management-schemes-within-organic-pgs-survey-and-analysis-in-soc-son-hanoi-vietnam/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2014-01-01_conservation_and_eth/</loc>
+    <loc>/publication/2014-01-01_conservation_and_eth/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/farm-management-schemes-within-organic-pgs-survey-and-analysis-in-soc-son-hanoi-vietnam/</loc>
+    <loc>/talk/farm-management-schemes-within-organic-pgs-survey-and-analysis-in-soc-son-hanoi-vietnam/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/homegardens-in-uganda-diversity-and-potential/</loc>
+    <loc>/talk/homegardens-in-uganda-diversity-and-potential/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/mabira-forest-biodiversity-assessment/</loc>
+    <loc>/talk/mabira-forest-biodiversity-assessment/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/measurable-impacts-of-the-principles-of-organic-agriculture-survey-of-a-vietnamese-organic-pgs/</loc>
+    <loc>/talk/measurable-impacts-of-the-principles-of-organic-agriculture-survey-of-a-vietnamese-organic-pgs/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/species-diversity-and-post-harvest-practices-on-the-forest-edge-homegardens-in-southwestern-uganda/</loc>
+    <loc>/talk/species-diversity-and-post-harvest-practices-on-the-forest-edge-homegardens-in-southwestern-uganda/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/sustainable-agricultural-production-systems/</loc>
+    <loc>/talk/sustainable-agricultural-production-systems/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/wild-collection-and-cultivation-of-native-species-in-iceland/</loc>
+    <loc>/talk/wild-collection-and-cultivation-of-native-species-in-iceland/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/2012-01-01_a_survey_of_wild_col/</loc>
+    <loc>/publication/2012-01-01_a_survey_of_wild_col/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/government-policies-for-the-promotion-of-organic-agriculture-with-a-focus-on-the-asian-pacific-region/</loc>
+    <loc>/talk/government-policies-for-the-promotion-of-organic-agriculture-with-a-focus-on-the-asian-pacific-region/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/activities/</loc>
   </url><url>
-    <loc>//localhost:1313/programming/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/teaching/</loc>
+    <loc>/research/</loc>
+  </url><url>
+    <loc>/programming/</loc>
+  </url><url>
+    <loc>/teaching/</loc>
   </url>
 </urlset>

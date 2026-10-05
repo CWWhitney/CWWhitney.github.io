@@ -2,23 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bioeconomy | Cory Whitney</title>
-    <link>//localhost:1313/tag/bioeconomy/</link>
-      <atom:link href="//localhost:1313/tag/bioeconomy/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/bioeconomy/</link>
+      <atom:link href="/tag/bioeconomy/index.xml" rel="self" type="application/rss+xml" />
     <description>Bioeconomy</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Aug 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/images/icon_hu_d686267daab28486.png</url>
+      <url>/images/icon_hu_d686267daab28486.png</url>
       <title>Bioeconomy</title>
-      <link>//localhost:1313/tag/bioeconomy/</link>
+      <link>/tag/bioeconomy/</link>
     </image>
     
     <item>
       <title>Sino-Europe Young Leadership in Bioeconomy: Mountain Futures Summer School</title>
-      <link>//localhost:1313/post/2026-sino-europe-bioeconomy-kunming/</link>
+      <link>/post/2026-sino-europe-bioeconomy-kunming/</link>
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/2026-sino-europe-bioeconomy-kunming/</guid>
+      <guid>/post/2026-sino-europe-bioeconomy-kunming/</guid>
       <description>&lt;p&gt;I joined the &lt;strong&gt;Sino-Europe Young Leadership in Bioeconomy: Mountain Futures Summer School&lt;/strong&gt; in Yunnan, China, from August 12–25, 2026. The summer school was hosted by Mountain Futures and the Landscape Alliance (CIFOR &amp;amp; ICRAF), together with the Chinese Academy of Sciences and a range of supporting partners.&lt;/p&gt;
-&lt;p&gt;More details and photos to follow.&lt;/p&gt;
+&lt;p&gt;A journalist covered our travels, and the video below gives a good impression of the summer school.&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/3ek68wnvG5Q?si=uGwx1sWP_dY48dol&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
     </item>
     

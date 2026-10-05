@@ -2,149 +2,149 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Invited Talk | Cory Whitney</title>
-    <link>//localhost:1313/tag/invited-talk/</link>
-      <atom:link href="//localhost:1313/tag/invited-talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/invited-talk/</link>
+      <atom:link href="/tag/invited-talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Invited Talk</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/images/icon_hu_d686267daab28486.png</url>
+      <url>/images/icon_hu_d686267daab28486.png</url>
       <title>Invited Talk</title>
-      <link>//localhost:1313/tag/invited-talk/</link>
+      <link>/tag/invited-talk/</link>
     </image>
     
     <item>
       <title>Sino-Europe Young Leadership in Bioeconomy: Mountain Futures Summer School</title>
-      <link>//localhost:1313/talk/sino-europe-young-leadership-in-bioeconomy-mountain-futures-summer-school/</link>
+      <link>/talk/sino-europe-young-leadership-in-bioeconomy-mountain-futures-summer-school/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/talk/sino-europe-young-leadership-in-bioeconomy-mountain-futures-summer-school/</guid>
+      <guid>/talk/sino-europe-young-leadership-in-bioeconomy-mountain-futures-summer-school/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic Writing</title>
-      <link>//localhost:1313/talk/academic-writing/</link>
+      <link>/talk/academic-writing/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/talk/academic-writing/</guid>
+      <guid>/talk/academic-writing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Decision Analysis</title>
-      <link>//localhost:1313/talk/decision-analysis/</link>
+      <link>/talk/decision-analysis/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/talk/decision-analysis/</guid>
+      <guid>/talk/decision-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research Tools (Zotero, Open Science)</title>
-      <link>//localhost:1313/talk/research-tools-zotero-open-science/</link>
+      <link>/talk/research-tools-zotero-open-science/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/talk/research-tools-zotero-open-science/</guid>
+      <guid>/talk/research-tools-zotero-open-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stakeholder Communication</title>
-      <link>//localhost:1313/talk/stakeholder-communication/</link>
+      <link>/talk/stakeholder-communication/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/talk/stakeholder-communication/</guid>
+      <guid>/talk/stakeholder-communication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ethnobotany Research and Modelling</title>
-      <link>//localhost:1313/talk/ethnobotany-research-and-modelling/</link>
+      <link>/talk/ethnobotany-research-and-modelling/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/talk/ethnobotany-research-and-modelling/</guid>
+      <guid>/talk/ethnobotany-research-and-modelling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction to R</title>
-      <link>//localhost:1313/talk/introduction-to-r/</link>
+      <link>/talk/introduction-to-r/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/talk/introduction-to-r/</guid>
+      <guid>/talk/introduction-to-r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic Writing</title>
-      <link>//localhost:1313/talk/academic-writing/</link>
+      <link>/talk/academic-writing/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/talk/academic-writing/</guid>
+      <guid>/talk/academic-writing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Advanced Scientific Writing and Communication</title>
-      <link>//localhost:1313/talk/advanced-scientific-writing-and-communication/</link>
+      <link>/talk/advanced-scientific-writing-and-communication/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/talk/advanced-scientific-writing-and-communication/</guid>
+      <guid>/talk/advanced-scientific-writing-and-communication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Complex Systems Modelling</title>
-      <link>//localhost:1313/talk/complex-systems-modelling/</link>
+      <link>/talk/complex-systems-modelling/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/talk/complex-systems-modelling/</guid>
+      <guid>/talk/complex-systems-modelling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Decision Analysis</title>
-      <link>//localhost:1313/talk/decision-analysis/</link>
+      <link>/talk/decision-analysis/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/talk/decision-analysis/</guid>
+      <guid>/talk/decision-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Horticultural Production and Research</title>
-      <link>//localhost:1313/talk/horticultural-production-and-research/</link>
+      <link>/talk/horticultural-production-and-research/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/talk/horticultural-production-and-research/</guid>
+      <guid>/talk/horticultural-production-and-research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interdisciplinary Research</title>
-      <link>//localhost:1313/talk/interdisciplinary-research/</link>
+      <link>/talk/interdisciplinary-research/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/talk/interdisciplinary-research/</guid>
+      <guid>/talk/interdisciplinary-research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction to R</title>
-      <link>//localhost:1313/talk/introduction-to-r/</link>
+      <link>/talk/introduction-to-r/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/talk/introduction-to-r/</guid>
+      <guid>/talk/introduction-to-r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tropical Production Systems</title>
-      <link>//localhost:1313/talk/tropical-production-systems/</link>
+      <link>/talk/tropical-production-systems/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/talk/tropical-production-systems/</guid>
+      <guid>/talk/tropical-production-systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mabira Forest Biodiversity Assessment</title>
-      <link>//localhost:1313/talk/mabira-forest-biodiversity-assessment/</link>
+      <link>/talk/mabira-forest-biodiversity-assessment/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/talk/mabira-forest-biodiversity-assessment/</guid>
+      <guid>/talk/mabira-forest-biodiversity-assessment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sustainable Agricultural Production Systems</title>
-      <link>//localhost:1313/talk/sustainable-agricultural-production-systems/</link>
+      <link>/talk/sustainable-agricultural-production-systems/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/talk/sustainable-agricultural-production-systems/</guid>
+      <guid>/talk/sustainable-agricultural-production-systems/</guid>
       <description></description>
     </item>
     

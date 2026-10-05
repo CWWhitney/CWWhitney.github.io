@@ -2,23 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Activities | Cory Whitney</title>
-    <link>//localhost:1313/post/</link>
-      <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Activities</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/images/icon_hu_d686267daab28486.png</url>
+      <url>/images/icon_hu_d686267daab28486.png</url>
       <title>Activities</title>
-      <link>//localhost:1313/post/</link>
+      <link>/post/</link>
     </image>
     
     <item>
+      <title>Opening the ConVOI academic year: the Expected Value of Causal Ambiguity</title>
+      <link>/post/2026-convoi-expected-value-causal-ambiguity/</link>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>/post/2026-convoi-expected-value-causal-ambiguity/</guid>
+      <description>&lt;p&gt;I was invited by Anna Heath to open the new academic year of &lt;strong&gt;ConVOI, the Collaborative Network for Value of Information&lt;/strong&gt;, with a talk on &lt;em&gt;Decision-Making under complexity and uncertainty: Causal Ambiguity in Ethnoecology Research&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;I presented my work on the &lt;strong&gt;Expected Value of Causal Ambiguity&lt;/strong&gt;: what is at stake when stakeholders work from different causal models of the same system, as with a road decision in a Hmong community in Laos.&lt;/p&gt;
+&lt;p&gt;The group knows value of information inside out. Within 45 minutes they linked the problem to structural uncertainty analysis, causal discovery, model averaging, multi-criteria decision analysis, Pareto-based value of information and tipping-point analysis. I came away with sharper questions, a clearer view of where the idea sits in existing work, and some promising directions to develop together.&lt;/p&gt;
+&lt;p&gt;Thank you to everyone who took part for being so generous with your time and so constructively critical. I look forward to continuing the conversation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Sino-Europe Young Leadership in Bioeconomy: Mountain Futures Summer School</title>
-      <link>//localhost:1313/post/2026-sino-europe-bioeconomy-kunming/</link>
+      <link>/post/2026-sino-europe-bioeconomy-kunming/</link>
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/2026-sino-europe-bioeconomy-kunming/</guid>
+      <guid>/post/2026-sino-europe-bioeconomy-kunming/</guid>
       <description>&lt;p&gt;I joined the &lt;strong&gt;Sino-Europe Young Leadership in Bioeconomy: Mountain Futures Summer School&lt;/strong&gt; in Yunnan, China, from August 12–25, 2026. The summer school was hosted by Mountain Futures and the Landscape Alliance (CIFOR &amp;amp; ICRAF), together with the Chinese Academy of Sciences and a range of supporting partners.&lt;/p&gt;
-&lt;p&gt;More details and photos to follow.&lt;/p&gt;
+&lt;p&gt;A journalist covered our travels, and the video below gives a good impression of the summer school.&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/3ek68wnvG5Q?si=uGwx1sWP_dY48dol&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
     </item>
     
