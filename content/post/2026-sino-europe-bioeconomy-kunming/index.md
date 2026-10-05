@@ -20,7 +20,7 @@ image:
 projects: []
 ---
 
-I joined the **Sino-Europe Young Leadership in Bioeconomy: Mountain Futures Summer School** in Yunnan, China, from August 12&ndash;25, 2026. The summer school was hosted by Mountain Futures and the Landscape Alliance (CIFOR & ICRAF), together with the Chinese Academy of Sciences and a range of supporting partners.
+I taught at the **Sino-Europe Young Leadership in Bioeconomy: Mountain Futures Summer School** in Yunnan, China, from August 12&ndash;25, 2026, together with Prof. Jianchu Xu. The summer school was hosted by Mountain Futures and the Landscape Alliance (CIFOR & ICRAF), together with the Chinese Academy of Sciences and a range of supporting partners.
 
 A journalist covered our travels, and the video below gives a good impression of the summer school.
 
