@@ -14,13 +14,16 @@ organizations:
   url: https://www.inres.uni-bonn.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Main research topics: Human Ecology, Agroforestry, and Decision Analysis"
+bio: "Main research topics: Human Ecology, Ethnobotany, Agroforestry, Food and Nutrition, and Decision Analysis"
 
 # Interests to show in About widget
 interests:
 - Human Ecology
-- Agroforestry 
+- Ethnobotany
+- Agroforestry
+- Food and Nutrition
 - Decision Analysis
+- Value of Information
 
 # Education to show in About widget
 education:
