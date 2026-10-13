@@ -70,5 +70,9 @@ email: "cory@cory-whitney.com"
 highlight_name: false
 ---
 
-
-Well-intentioned development policies often fail because they overlook local reality and deep uncertainty. As a human ecologist at the University of Bonn, I work with farmers, communities and policymakers to build probabilistic models of their decisions, so that local knowledge sits at the centre of the analysis. I use Bayesian networks and Monte Carlo simulation to compare agricultural and land-use options, show what each is likely to gain, risk and trade off, and show where better information would change the choice. My current work also asks what happens when stakeholders hold different causal models of the same system. I welcome collaborators and students who want to replace best guesses with informed confidence.
+As a human ecologist I work with communities to model decisions with
+lived experience and knowledge. I use simulations to compare the
+possible outcomes of sustainable development options, show risks, trade
+offs and where better information would change the decision. I also
+explore what happens when stakeholders hold different causal models of
+the same system.
