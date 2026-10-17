@@ -29,14 +29,7 @@ libraries with `bibtex_2academic.R`:
 
 - preview the site locally: `blogdown::serve_site()`
 
-- check the full build: `blogdown::build_site()` (writes to `public/`,
-  which is not committed)
-
-- publish: commit and push the source. Netlify builds the live site
-  from it; `public/` is never pushed
-
-- needs blogdown >= 1.24 (older versions create a stray `'public'`
-  folder)
+- publish: commit and push. Netlify builds the live site
 
 # build with Netlify
 
