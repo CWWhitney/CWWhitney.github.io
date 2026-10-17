@@ -28,6 +28,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: Habilitation in Agroecology and Sustainable Development
+    institution: University of Bonn
+    year: 2026
   - course: PhD in Agricultural Sciences
     institution: University of Kassel
     year: 2018
