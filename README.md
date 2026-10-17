@@ -27,11 +27,16 @@ libraries with `bibtex_2academic.R`:
   `source("content/event/bibtex_2event.R")`. Fill in the conference name
   in Zotero ("Proceedings Title") so it shows as the event name.
 
-- see the site locally blogdown::serve_site()
+- preview the site locally: `blogdown::serve_site()`
 
-- see the site online blogdown::build_site()
+- check the full build: `blogdown::build_site()` (writes to `public/`,
+  which is not committed)
 
-- build site in Terminal hugo server
+- publish: commit and push the source. Netlify builds the live site
+  from it; `public/` is never pushed
+
+- needs blogdown >= 1.24 (older versions create a stray `'public'`
+  folder)
 
 # build with Netlify
 
