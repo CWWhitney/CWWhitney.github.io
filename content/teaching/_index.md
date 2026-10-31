@@ -4,17 +4,17 @@ summary: "Courses, supervision, and educational philosophy integrating academic 
 type: "page"
 ---
 
-### Current University Courses & Lectures
+### University Courses & Lectures (2018–present)
 
 I teach and lecture in programs at the **University of Bonn** and the **Bonn International Graduate School for Development Research (ZEF)**, focusing on practical and analytical skills for agricultural science.
 
-**University of Bonn, INRES**
+**University of Bonn, INRES (2018–present)**
 - Decision Analysis and Forecasting in Agriculture
 - Tropical Production Systems 
 - Advanced Scientific Writing and Communication
 - Horticultural Production and Research
 
-**Bonn International Graduate School (ZEF)**
+**Bonn International Graduate School (ZEF, 2018–present)**
 - Academic Writing
 - Introduction to R
 - Interdisciplinary Research
