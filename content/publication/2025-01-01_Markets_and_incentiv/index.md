@@ -9,6 +9,7 @@ abstract = ""
 abstract_short = ""
 image_preview = ""
 selected = false
+featured = true
 projects = []
 tags = []
 url_pdf = "NA"

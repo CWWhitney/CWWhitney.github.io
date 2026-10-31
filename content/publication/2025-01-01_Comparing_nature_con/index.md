@@ -9,6 +9,7 @@ abstract = ""
 abstract_short = ""
 image_preview = ""
 selected = false
+featured = true
 projects = []
 tags = []
 url_pdf = "https://onlinelibrary.wiley.com/doi/abs/10.1111/csp2.70146"
