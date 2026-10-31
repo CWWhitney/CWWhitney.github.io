@@ -1,4 +1,4 @@
-<img src="content/authors/admin/avatar.jpg" alt="Cory Whitney" align="right" width = "25%" height="25%"/>
+<img src="readme/avatar-hex.png" alt="Cory Whitney" align="right" width="25%"/>
 
 You have landed on my github.io page. Please visit [my
 website](https://cory-whitney.com/).
@@ -31,7 +31,4 @@ libraries with `bibtex_2academic.R`:
 
 - publish: commit and push. Netlify builds the live site
 
-# build with Netlify
-
-\[![Netlify
-Status](https://api.netlify.com/api/v1/badges/235c4b03-c385-4045-917f-e631560f77a4/deploy-status)
+![](https://api.netlify.com/api/v1/badges/235c4b03-c385-4045-917f-e631560f77a4/deploy-status)
