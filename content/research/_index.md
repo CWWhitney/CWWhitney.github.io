@@ -17,31 +17,24 @@ I use Monte Carlo simulation, Bayesian networks and expert knowledge elicitation
 - [Comparing nature conservation policies using a Bayesian belief network](/publication/2025-01-01_comparing_nature_con/)
 - [Model-based decision support for active spring frost protection in apple production](/publication/2025-01-01_model-based_decision/)
 
-### Agroforestry and landscapes
+### Agroecology and agroforestry
 
-Why farmers adopt, adapt or abandon trees on farms, and what restoration and carbon schemes deliver in practice. Much of this work is with smallholders in Northwest Vietnam and East Africa.
+How farms can work with ecological processes rather than against them: why farmers adopt, adapt or abandon trees on farms, and what restoration and carbon schemes deliver in practice. Much of this work is with smallholders in Northwest Vietnam and East Africa.
 
 - [Decision analysis of agroforestry options reveals adoption risks for resource-poor farmers](/publication/2020-01-01_decision_analysis_of/)
 - [Agroforestry and reforestation with the Gold Standard: decision analysis of a voluntary carbon offset label](/publication/2022-01-01_agroforestry_and_ref/)
 - [Markets and incentives strongly drive agroforestry adoption in Son La, Vietnam](/publication/2025-01-01_markets_and_incentiv/)
 - [Agroforestry adaptation by farm households in northwestern Vietnam](/publication/2026-01-01_agroforestry_adaptat/)
 
-### Food, nutrition and school gardens
+### Food, nutrition and ethnobotany
 
-How homegardens, wild foods and school food environments contribute to diets, and how to weigh investments in them against nutrition, biodiversity and economic outcomes.
+How homegardens and wild plants contribute to diets, and how communities know, use and value plants. I weigh investments in these systems against nutrition, biodiversity and economic outcomes, and build open tools to analyse plant knowledge.
 
 - [Homegardens and the future of food and nutrition security in southwest Uganda](/publication/2017-01-01_homegardens_and_the_/)
-- [Indigenous communities' perceptions of wild edible plants in northwestern Kenya](/publication/2023-01-01_indigenous_communiti/)
-- [A decision-analysis framework for school garden investments in Vietnam](/publication/2026-01-01_a_decision-analysis_/)
-- [School food environment policies in Vietnam](/publication/2026-01-01_school_food_environm/)
-
-### Ethnobotany and human ecology
-
-Documenting how communities know, use and value plants, from homegardens in Uganda to medicinal teas on the Silk Road, and building open tools to analyse that knowledge.
-
 - [Ethnobotany and agrobiodiversity: valuation of plants in the homegardens of southwestern Uganda](/publication/2018-01-01_ethnobotany_and_agro/)
-- [Documenting the heritage along the Silk Road: medicinal teas in Southern Xinjiang](/publication/2020-01-01_documenting_the_heri/)
+- [Indigenous communities' perceptions of wild edible plants in northwestern Kenya](/publication/2023-01-01_indigenous_communiti/)
 - [Wild edible plants selection of Tibetan and Naxi people in northwest Yunnan](/publication/2025-01-01_wild_edible_plants_s/)
+- [A decision-analysis framework for school garden investments in Vietnam](/publication/2026-01-01_a_decision-analysis_/)
 
 ### Methods and software
 
