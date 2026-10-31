@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 50
 
 title: Experience
 subtitle:
@@ -22,15 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Postdoctoral researcher
+  - title: Senior Scientist
     company: University of Bonn, Institute of Crop Science and Resource Conservation (INRES), Horticulture Institute
     company_url: ''
     location: Bonn, Germany
-    date_start: '2018-04-01'
+    date_start: '2018-08-01'
     date_end: ''
     description: Teaching graduate courses, graduate student supervision, project management
         
-  - title: Guest researcher
+  - title: Guest Researcher
     company: Center for Development Research (ZEF)
     company_url: ''
     location: Bonn, Germany
@@ -38,8 +38,8 @@ experience:
     date_end: ''
     description: Teaching interdisciplinary graduate courses in programming and modeling.
 
-  - title: Scientific staff
-    company: Hochschule Rhein-Waal
+  - title: Scientific Staff
+    company: Rhine-Waal University of Applied Sciences, Faculty of Life Sciences
     company_url: ''
     location: Kleve, Germany
     date_start: '2013-11-01'
