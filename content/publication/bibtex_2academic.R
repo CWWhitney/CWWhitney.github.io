@@ -11,7 +11,8 @@
 bibtex_2academic <- function(bibfile,
                              outfold,
                              abstract = FALSE,
-                             overwrite = FALSE) {
+                             overwrite = FALSE,
+                             featured = character()) {
   
   require(RefManageR)
   require(dplyr)
@@ -121,6 +122,7 @@ bibtex_2academic <- function(bibfile,
       
       write("image_preview = \"\"", fileConn, append = T)
       write("selected = false", fileConn, append = T)
+      write(paste0("featured = ", tolower(foldername %in% featured)), fileConn, append = T)
       write("projects = []", fileConn, append = T)
       write("tags = []", fileConn, append = T)
       #links
@@ -165,7 +167,11 @@ bibtex_2academic(
   bibfile  = my_bibfile,
   outfold   = out_fold,
   abstract  = FALSE,
-  overwrite = TRUE
+  overwrite = TRUE,
+  # folders of the papers shown under "Selected Publications" on the homepage
+  featured  = c("2025-01-01_Comparing_nature_con",
+                "2025-01-01_Markets_and_incentiv",
+                "2026-01-01_A_decision-analysis_")
 )
 
 
