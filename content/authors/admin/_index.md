@@ -6,7 +6,7 @@ title: Dr. Cory Whitney
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher
+role: Senior Scientist and Privatdozent (PD)
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -19,11 +19,8 @@ bio: "Main research topics: Human Ecology, Ethnobotany, Agroforestry, Food and N
 # Interests to show in About widget
 interests:
 - Human Ecology
-- Ethnobotany
-- Agroforestry
-- Food and Nutrition
 - Decision Analysis
-- Value of Information
+- Agroecology
 
 # Education to show in About widget
 education:
@@ -73,9 +70,9 @@ email: "cory@cory-whitney.com"
 highlight_name: false
 ---
 
-As a human ecologist I work with communities to model decisions with
-lived experience and knowledge. I use simulations to compare the
-possible outcomes of sustainable development options, show risks, trade
-offs and where better information would change the decision. I also
-explore what happens when stakeholders hold different causal models of
-the same system.
+I study how farmers, communities and policymakers make decisions about
+land use and food systems when the outcomes are uncertain. As a human
+ecologist, I build simulation models together with these decision
+makers, so that their knowledge enters the models alongside the data.
+The models compare options, show risks and trade-offs, and reveal where
+better information would change the choice.
