@@ -1,6 +1,6 @@
 ---
-title: "Programming"
-summary: "Resources and tutorials on R programming, decision modeling, and more."
+title: "Software & Tools"
+summary: "R packages, tutorials and teaching resources for decision modelling and ethnobotany."
 type: "page"
 layout: "single"
 ---

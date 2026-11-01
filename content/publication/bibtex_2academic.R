@@ -11,7 +11,8 @@
 bibtex_2academic <- function(bibfile,
                              outfold,
                              abstract = FALSE,
-                             overwrite = FALSE) {
+                             overwrite = FALSE,
+                             featured = character()) {
   
   require(RefManageR)
   require(dplyr)
@@ -24,8 +25,8 @@ bibtex_2academic <- function(bibfile,
     as.data.frame() %>%
     rownames_to_column() %>% # retain rownames (as labels for bibtex re-export)
 
-    mutate_all(funs(str_remove_all(.,"[{}\"]"))) %>%   ### remove {}" from bibtext entries
-    mutate_all(funs(str_replace_all(.,'\\\\%', '%')))  ### some replace double escaped % for markdown
+    mutate_all(~str_remove_all(.,"[{}\"]")) %>%   ### remove {}" from bibtext entries
+    mutate_all(~str_replace_all(.,'\\\\([%&_#$])', '\\1'))  ### unescape LaTeX \%, \&, \_, \#, \$ for markdown
      
   
   # make bibtype the name of the type column (default for WriteBib)
@@ -121,6 +122,7 @@ bibtex_2academic <- function(bibfile,
       
       write("image_preview = \"\"", fileConn, append = T)
       write("selected = false", fileConn, append = T)
+      write(paste0("featured = ", tolower(foldername %in% featured)), fileConn, append = T)
       write("projects = []", fileConn, append = T)
       write("tags = []", fileConn, append = T)
       #links
@@ -165,7 +167,11 @@ bibtex_2academic(
   bibfile  = my_bibfile,
   outfold   = out_fold,
   abstract  = FALSE,
-  overwrite = TRUE
+  overwrite = TRUE,
+  # folders of the papers shown under "Selected Publications" on the homepage
+  featured  = c("2025-01-01_Comparing_nature_con",
+                "2025-01-01_Markets_and_incentiv",
+                "2026-01-01_A_decision-analysis_")
 )
 
 

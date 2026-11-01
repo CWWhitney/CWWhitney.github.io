@@ -29,3 +29,14 @@ rsconnect/
 
 # Local Netlify folder
 .netlify
+
+# Node dependencies
+node_modules/
+# processed inbox exports keep local Zotero paths; not for the public repo
+bib_inbox/processed/*.bib
+
+# Hugo build output (Netlify builds the site itself; nothing here is committed)
+/public/
+.hugo_build.lock
+# knitted previews of README.md
+README.html

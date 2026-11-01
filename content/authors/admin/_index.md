@@ -6,37 +6,34 @@ title: Dr. Cory Whitney
 superuser: true
 
 # Role/position/tagline
-role: Researcher
+role: Senior Scientist and Privatdozent (PD)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name:  University of Bonn
-  url: https://www.uni-bonn.de/
+- name: Institute of Crop Science and Resource Conservation (INRES), University of Bonn
+  url: https://www.inres.uni-bonn.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Main research topics: Human Ecology, Agroforestry, and Decision Analysis"
+bio: "Main research topics: Human Ecology, Ethnobotany, Agroforestry, Food and Nutrition, and Decision Analysis"
 
 # Interests to show in About widget
 interests:
 - Human Ecology
-- Agroforestry 
 - Decision Analysis
+- Agroecology
 
 # Education to show in About widget
 education:
   courses:
+  - course: Habilitation in Agroecology and Sustainable Development
+    institution: University of Bonn
+    year: 2026
   - course: PhD in Agricultural Sciences
     institution: University of Kassel
     year: 2018
   - course: MSc in Sustainable International Agriculture/International Organic Agriculture
     institution: George-August University Göttingen/University of Kassel
     year: 2011
-  - course: BA in Human Ecology
-    institution: College of the Atlantic
-    year: 2003
-  - course: AA in Natural Resources Management
-    institution: Sterling College, Vermont
-    year: 2001
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -49,6 +46,9 @@ social:
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.de/citations?user=YPIcAA4AAAAJ&hl
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-4988-4583
 - icon: github
   icon_pack: fab
   link: https://github.com/CWWhitney
@@ -70,4 +70,9 @@ email: "cory@cory-whitney.com"
 highlight_name: false
 ---
 
-My research tackles a core problem in sustainable development: well-intentioned policies often fail because they overlook local reality and deep uncertainty. As a human ecologist, I bridge this gap by co-developing probabilistic decision models with stakeholders — from smallholder farmers to policymakers — to embed their lived experience directly into the analysis. My focus is on practical tools. I use Bayesian networks and Monte Carlo simulations to quantify the trade-offs of agricultural interventions, identify leverage points, and pinpoint strategies that are robust, resilient, and equitable. The ultimate goal is to replace best guesses with informed confidence for the communities most affected by these decisions.
+I study how farmers, communities and policymakers make decisions about
+land use and food systems when the outcomes are uncertain. As a human
+ecologist, I build simulation models together with these decision
+makers, so that their knowledge enters the models alongside the data.
+The models compare options, show risks and trade-offs, and reveal where
+better information would change the choice.

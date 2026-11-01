@@ -89,11 +89,11 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "cory@cory-whitney.com"
-phone = "49 228 73 +4643"
+phone = "+49 228 73 4643"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Auf dem Huegel 6", city = "NRW", region = "Germany", postcode = "53121", country = "Germany", country_code = "DE"}
+address = {street = "Auf dem Hügel 6", city = "Bonn", region = "NRW", postcode = "53121", country = "Germany", country_code = "DE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.

@@ -4,17 +4,17 @@ summary: "Courses, supervision, and educational philosophy integrating academic 
 type: "page"
 ---
 
-### Current University Courses & Lectures
+### University Courses & Lectures (2018–present)
 
 I teach and lecture in programs at the **University of Bonn** and the **Bonn International Graduate School for Development Research (ZEF)**, focusing on practical and analytical skills for agricultural science.
 
-**University of Bonn, INRES**
+**University of Bonn, INRES (2018–present)**
 - Decision Analysis and Forecasting in Agriculture
 - Tropical Production Systems 
 - Advanced Scientific Writing and Communication
 - Horticultural Production and Research
 
-**Bonn International Graduate School (ZEF)**
+**Bonn International Graduate School (ZEF, 2018–present)**
 - Academic Writing
 - Introduction to R
 - Interdisciplinary Research
@@ -24,12 +24,13 @@ I teach and lecture in programs at the **University of Bonn** and the **Bonn Int
 
 I am committed to mentoring the next generation of scientists through direct supervision and academic tutoring.
 
-**Current PhD & MSc Supervision**
-- PhD: D. Sanginga, S. Moon
-- MSc: N. Syifaun Naïsi
+**PhD & MSc Supervision**
+- Current PhD: D. Sanginga
+- Current MSc: M. Uzun
+- Past MSc: N. Syifaun Nafsi
 
 **Past & Present Tutoring**
-- PhDs: H. Do, O. Burbano-Figueroa, E. Fernandez, I. Liman, G. Luu, A. Mya Mon, W. Olnoch, M. Ruett, N. Sulaiman, N. Yigzaw
+- PhDs: S. Moon, H. Do, O. Burbano-Figueroa, E. Fernandez, I. Liman, G. Luu, A. Mya Mon, W. Olnoch, M. Ruett, N. Sulaiman, N. Yigzaw
 - MScs: S. Moon, D. Ahebwe, D. Bastakoti, H. Muftumbiro, P. Phyo Hein, G. Rojas, A. Mendizábal Mondragón
 
 ### Pedagogical Foundation
