@@ -70,9 +70,9 @@ email: "cory@cory-whitney.com"
 highlight_name: false
 ---
 
-I study how farmers, communities and policymakers make decisions about
-land use and food systems when the outcomes are uncertain. As a human
-ecologist, I build simulation models together with these decision
-makers, so that their knowledge enters the models alongside the data.
-The models compare options, show risks and trade-offs, and reveal where
+I am a human ecologist working in decision analysis and agroecology. I
+build simulation models together with farmers, communities and
+policymakers, so that their knowledge enters the models alongside the
+data. The models compare options for land use and food systems when the
+outcomes are uncertain, show risks and trade-offs, and reveal where
 better information would change the choice.
