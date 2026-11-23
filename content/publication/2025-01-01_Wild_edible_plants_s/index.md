@@ -9,6 +9,7 @@ abstract = ""
 abstract_short = ""
 image_preview = ""
 selected = false
+featured = false
 projects = []
 tags = []
 url_pdf = "https://doi.org/10.1186/s13002-025-00816-x"

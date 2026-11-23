@@ -9,6 +9,7 @@ abstract = ""
 abstract_short = ""
 image_preview = ""
 selected = false
+featured = false
 projects = []
 tags = []
 url_pdf = "https://link.springer.com/10.1007/s11027-021-09992-z"

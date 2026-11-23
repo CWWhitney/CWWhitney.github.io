@@ -9,6 +9,7 @@ abstract = ""
 abstract_short = ""
 image_preview = ""
 selected = false
+featured = false
 projects = []
 tags = []
 url_pdf = "https://www.actahort.org/books/1425/1425_30.htm"

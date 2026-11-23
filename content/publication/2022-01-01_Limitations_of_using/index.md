@@ -9,6 +9,7 @@ abstract = ""
 abstract_short = ""
 image_preview = ""
 selected = false
+featured = false
 projects = []
 tags = []
 url_pdf = "https://www.oaepublish.com/articles/cf.2022.11"

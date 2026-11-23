@@ -20,4 +20,5 @@ content:
 design:
   # 1 = List, 2 = Compact, 3 = Card, 4 = Citation
   view: 1
+  show_date: false
 ---

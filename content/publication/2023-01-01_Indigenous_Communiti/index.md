@@ -9,6 +9,7 @@ abstract = ""
 abstract_short = ""
 image_preview = ""
 selected = false
+featured = false
 projects = []
 tags = []
 url_pdf = "https://ethnobiomed.biomedcentral.com/articles/10.1186/s13002-023-00584-6"

@@ -71,8 +71,8 @@ highlight_name: false
 ---
 
 I am a human ecologist working in decision analysis and agroecology. I
-build simulation models together with farmers, communities and
-policymakers, so that their knowledge enters the models alongside the
-data. The models compare options for land use and food systems when the
-outcomes are uncertain, show risks and trade-offs, and reveal where
-better information would change the choice.
+build simulation models with farmers, communities and policymakers to
+compare choices, make risks and trade-offs visible, and show when more
+information could change a decision. My models bring local knowledge and
+data together to explore land use and food system decisions, including
+their uncertain outcomes, risks and trade-offs.
