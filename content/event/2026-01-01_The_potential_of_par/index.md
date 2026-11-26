@@ -1,7 +1,7 @@
 ---
 title: "The potential of participatory approaches in school-based prevention of non-communicable diseases in Mexico"
 
-event: ""
+event: "Tropentag 2026"
 event_url: ""
 
 location: "Goettingen, Germany"

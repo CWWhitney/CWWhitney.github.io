@@ -1,7 +1,7 @@
 ---
 title: "Farm Management Schemes within Organic PGS; Survey and Analysis in Sóc Sơn, Hanoi, Vietnam"
 
-event: ""
+event: "Organic World Congress"
 event_url: ""
 
 location: "Istanbul, Turkey"

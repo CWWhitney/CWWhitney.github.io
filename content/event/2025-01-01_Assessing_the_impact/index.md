@@ -18,7 +18,7 @@ abstract: ""
 date: "2025-01-01T00:00:00Z"
 publishDate: "2025-01-01T00:00:00Z"
 
-authors: ["Dorcas Sanginga Alame", "Cory whitney", "Eike Luedeling"]
+authors: ["Dorcas Sanginga Alame", "Cory Whitney", "Eike Luedeling"]
 tags: ["Conference"]
 
 featured: false

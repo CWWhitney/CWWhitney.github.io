@@ -1,7 +1,7 @@
 +++
 title = "Ecological and economic impacts of increasing landscape connectivity in highly threatened ecological corridors of Tanzania"
 date = "2026-01-01"
-authors = ["NA"]
+authors = ["Qambemeda Nyanghura", "Philipo Jacob", "Christine Schmitz", "Cory Whitney", "Lisa Biber-Freudenberger"]
 publication_types = ["2"]
 publication = "Discover Sustainability, (7), 1, _pp. 1971_, https://doi.org/10.1007/s43621-026-05200-7"
 publication_short = "Discover Sustainability, (7), 1, _pp. 1971_, https://doi.org/10.1007/s43621-026-05200-7"

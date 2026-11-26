@@ -1,5 +1,5 @@
 ---
-title: "Farmers’ decision-making: iterative model validation and livelihood alternatives for agricultural land in peri-urban hanoi"
+title: "Farmers’ decision-making: iterative model validation and livelihood alternatives for agricultural land in peri-urban Hanoi"
 
 event: "Tropentag: Reconcile land system changes with planetary health"
 event_url: ""
@@ -12,13 +12,13 @@ address:
   postcode: 
   country: 
 
-summary: "Farmers’ decision-making: iterative model validation and livelihood alternatives for agricultural land in peri-urban hanoi"
+summary: "Farmers’ decision-making: iterative model validation and livelihood alternatives for agricultural land in peri-urban Hanoi"
 abstract: ""
 
 date: "2025-01-01T00:00:00Z"
 publishDate: "2025-01-01T00:00:00Z"
 
-authors: ["Hoa Thi Khanh Bui", "Hung Pham-Van", "Thi Thu Giang Luu", "Whitney"]
+authors: ["Hoa Thi Khanh Bui", "Hung Pham-Van", "Thi Thu Giang Luu", "Cory Whitney"]
 tags: ["Conference"]
 
 featured: false

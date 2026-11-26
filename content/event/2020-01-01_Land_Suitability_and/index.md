@@ -1,7 +1,7 @@
 ---
 title: "Land Suitability and Socioeconomic Factors for Pigeonpea Cultivation in Uganda"
 
-event: ""
+event: "Tropentag 2020"
 event_url: ""
 
 location: "Prague, Czech Republic (online)"

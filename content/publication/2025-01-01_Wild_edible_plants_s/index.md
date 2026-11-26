@@ -1,5 +1,5 @@
 +++
-title = "Wild edible plants selection of tibetan and naxi people in northwest yunnan, china"
+title = "Wild edible plants selection of Tibetan and Naxi people in Northwest Yunnan, China"
 date = "2025-01-01"
 authors = ["Yao Fu", "Jinlong Zhang", "Aye Mya Mon", "Yinxian Shi", "Yingfeng Bi", "Yanan Wang", "Prateep Panyadee", "Xuefei Yang", "Cory W. Whitney"]
 publication_types = ["2"]

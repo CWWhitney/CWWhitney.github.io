@@ -24,7 +24,7 @@ tags: ["Conference"]
 featured: false
 
 links: []
-url_pdf: ""
+url_pdf: "https://doi.mendelu.cz/pdfs/doi/9900/06/1400.pdf"
 url_code: ""
 url_slides: ""
 url_video: ""

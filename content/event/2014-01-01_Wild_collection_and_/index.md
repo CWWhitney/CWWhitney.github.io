@@ -1,7 +1,7 @@
 ---
 title: "Wild collection and cultivation of native species in Iceland"
 
-event: ""
+event: "Organic World Congress"
 event_url: ""
 
 location: "Istanbul, Turkey"

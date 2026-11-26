@@ -18,13 +18,13 @@ abstract: "The integration of agroforestry on dairy farms presents a potential p
 date: "2024-01-01T00:00:00Z"
 publishDate: "2024-01-01T00:00:00Z"
 
-authors: ["Lucas Hoffmann", "Kasargodu Anebagilu Prajna", "Luedeling Eike", "Cory Whitney"]
+authors: ["Lucas Hoffmann", "Prajna Kasargodu Anebagilu", "Eike Luedeling", "Cory Whitney"]
 tags: ["Conference"]
 
 featured: false
 
 links: []
-url_pdf: ""
+url_pdf: "https://doi.mendelu.cz/pdfs/doi/9900/06/1400.pdf"
 url_code: ""
 url_slides: ""
 url_video: ""

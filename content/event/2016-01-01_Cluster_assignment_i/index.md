@@ -1,7 +1,7 @@
 ---
 title: "Cluster assignment indicates four distinct homegarden types in southwest Uganda"
 
-event: ""
+event: "SEB 2016"
 event_url: ""
 
 location: "Pine Mountain, Kentucky, USA"

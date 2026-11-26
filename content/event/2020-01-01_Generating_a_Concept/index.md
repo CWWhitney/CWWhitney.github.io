@@ -1,7 +1,7 @@
 ---
 title: "Generating a Conceptual Framework of Agro-Climate Information Interventions in Vietnam"
 
-event: ""
+event: "Tropentag 2020"
 event_url: ""
 
 location: "Prague, Czech Republic (online)"

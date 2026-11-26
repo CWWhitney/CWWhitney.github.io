@@ -1,7 +1,7 @@
 ---
 title: "Decision support for selecting suitable frost protection methods for apricot orchards in Germany"
 
-event: "International syposium on models for plant growth, environments, farm management in orchards and protected cultivation - Horchimodel2023"
+event: "International symposium on models for plant growth, environments, farm management in orchards and protected cultivation - Horchimodel2023"
 event_url: ""
 
 location: "Almería, Spain"
@@ -18,7 +18,7 @@ abstract: ""
 date: "2023-06-01T00:00:00Z"
 publishDate: "2023-06-01T00:00:00Z"
 
-authors: ["Christine Schmitz", "Lars Zimmermann", "Cory Whitney", "Martin Balmer", "Eike Luedeling "]
+authors: ["Christine Schmitz", "Lars Zimmermann", "Cory Whitney", "Martin Balmer", "Eike Luedeling"]
 tags: ["Conference"]
 
 featured: false
